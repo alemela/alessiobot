@@ -1,0 +1,4856 @@
+Run time:  0.1
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 17 idrossicorticosteroide <<<
+		>>> 17 idrossicorticosteroide <<<
+Sleeping for 9.1 seconds, 2014-08-28 17:29:06
+Page [[17 idrossicorticosteroide]] saved
+		>>> 216428 Mauricio <<<
+		>>> 216428 Mauricio <<<
+Sleeping for 7.3 seconds, 2014-08-28 17:29:17
+Page [[216428 Mauricio]] saved
+		>>> 216439 Lyubertsy <<<
+		>>> 216439 Lyubertsy <<<
+Sleeping for 6.8 seconds, 2014-08-28 17:29:28
+Page [[216439 Lyubertsy]] saved
+		>>> Adrian von Ziegler <<<
+		>>> Adrian von Ziegler <<<
+Sleeping for 6.6 seconds, 2014-08-28 17:29:38
+Page [[Adrian von Ziegler]] saved
+		>>> Alba AR2 <<<
+		>>> Alba AR2 <<<
+Sleeping for 6.6 seconds, 2014-08-28 17:29:48
+Page [[Alba AR2]] saved
+		>>> Alessandro Capra (1600) <<<
+		>>> Alessandro Capra (1600) <<<
+Sleeping for 8.0 seconds, 2014-08-28 17:29:57
+Page [[Alessandro Capra (1600)]] saved
+		>>> Alioune Kébé <<<
+		>>> Alioune Kébé <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:30:08
+Page [[Alioune Kébé]] saved
+		>>> All Hallows' Eve <<<
+		>>> All Hallows' Eve <<<
+Sleeping for 7.1 seconds, 2014-08-28 17:30:18
+Page [[All Hallows' Eve]] saved
+		>>> Allan Mann <<<
+		>>> Allan Mann <<<
+Sleeping for 6.9 seconds, 2014-08-28 17:30:28
+Page [[Allan Mann]] saved
+		>>> Allez Allez <<<
+		>>> Allez Allez <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:30:38
+Page [[Allez Allez]] saved
+		>>> Ammortamento francese <<<
+		>>> Ammortamento francese <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:30:48
+Page [[Ammortamento francese]] saved
+		>>> Andrés Díaz <<<
+		>>> Andrés Díaz <<<
+Sleeping for 7.1 seconds, 2014-08-28 17:30:58
+Page [[Andrés Díaz]] saved
+		>>> Antonio Salfi <<<
+		>>> Antonio Salfi <<<
+Sleeping for 5.9 seconds, 2014-08-28 17:31:09
+Page [[Antonio Salfi]] saved
+		>>> Asclapo <<<
+		>>> Asclapo <<<
+Sleeping for 7.9 seconds, 2014-08-28 17:31:17
+Page [[Asclapo]] saved
+		>>> Assassin's Creed: Pirates <<<
+		>>> Assassin's Creed: Pirates <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:31:27
+Page [[Assassin's Creed: Pirates]] saved
+		>>> Austin Herrera Davis <<<
+		>>> Austin Herrera Davis <<<
+Sleeping for 6.8 seconds, 2014-08-28 17:31:38
+Page [[Austin Herrera Davis]] saved
+		>>> Automotrice SNFT ALn 668-140 <<<
+		>>> Automotrice SNFT ALn 668-140 <<<
+Sleeping for 7.7 seconds, 2014-08-28 17:31:47
+Page [[Automotrice SNFT ALn 668-140]] saved
+		>>> Benoît Fourneyron <<<
+		>>> Benoît Fourneyron <<<
+Sleeping for 8.1 seconds, 2014-08-28 17:31:57
+Page [[Benoît Fourneyron]] saved
+		>>> Benoît de Maillet <<<
+		>>> Benoît de Maillet <<<
+Sleeping for 7.1 seconds, 2014-08-28 17:32:08
+Page [[Benoît de Maillet]] saved
+		>>> Bibliografia su Napoleone Bonaparte <<<
+		>>> Bibliografia su Napoleone Bonaparte <<<
+Sleeping for 7.5 seconds, 2014-08-28 17:32:17
+Page [[Bibliografia su Napoleone Bonaparte]] saved
+		>>> Biplob Bhattacharjee <<<
+		>>> Biplob Bhattacharjee <<<
+Sleeping for 7.5 seconds, 2014-08-28 17:32:27
+Page [[Biplob Bhattacharjee]] saved
+		>>> Borgo di Pietrafitta <<<
+		>>> Borgo di Pietrafitta <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:32:38
+Page [[Borgo di Pietrafitta]] saved
+		>>> Bruce Ecca <<<
+		>>> Bruce Ecca <<<
+Sleeping for 8.1 seconds, 2014-08-28 17:32:47
+Page [[Bruce Ecca]] saved
+		>>> Calibro 410 <<<
+		>>> Calibro 410 <<<
+Sleeping for 8.2 seconds, 2014-08-28 17:32:57
+Page [[Calibro 410]] saved
+		>>> Campionati europei di ciclismo su pista professionisti <<<
+		>>> Campionati europei di ciclismo su pista professionisti <<<
+Sleeping for 7.7 seconds, 2014-08-28 17:33:07
+Page [[Campionati europei di ciclismo su pista professionisti]] saved
+		>>> Centro di allenamento La Turbie <<<
+		>>> Centro di allenamento La Turbie <<<
+Sleeping for 8.0 seconds, 2014-08-28 17:33:17
+Page [[Centro di allenamento La Turbie]] saved
+		>>> Centro di formazione dell'Association Sportive de Monaco Football Club <<<
+		>>> Centro di formazione dell'Association Sportive de Monaco Football Club <<<
+Sleeping for 7.1 seconds, 2014-08-28 17:33:28
+Page [[Centro di formazione dell'Association Sportive de Monaco Football Club]] saved
+		>>> Connettore Dock <<<
+		>>> Connettore Dock <<<
+Sleeping for 6.7 seconds, 2014-08-28 17:33:38
+Page [[Connettore Dock]] saved
+		>>> Contracted <<<
+		>>> Contracted <<<
+Sleeping for 6.4 seconds, 2014-08-28 17:33:48
+Page [[Contracted]] saved
+		>>> Cornelis Pieter van den Hoek <<<
+		>>> Cornelis Pieter van den Hoek <<<
+Sleeping for 7.3 seconds, 2014-08-28 17:33:58
+Page [[Cornelis Pieter van den Hoek]] saved
+		>>> Costruzioni più alte della città di Genova <<<
+		>>> Costruzioni più alte della città di Genova <<<
+Sleeping for 6.9 seconds, 2014-08-28 17:34:08
+Page [[Costruzioni più alte della città di Genova]] saved
+		>>> Così triste cadere in battaglia <<<
+		>>> Così triste cadere in battaglia <<<
+Sleeping for 5.5 seconds, 2014-08-28 17:34:19
+Page [[Così triste cadere in battaglia]] saved
+		>>> Cristiano Vignali <<<
+		>>> Cristiano Vignali <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:34:27
+Page [[Cristiano Vignali]] saved
+		>>> Danny Coid <<<
+Sleeping for 5.0 seconds, 2014-08-28 17:34:51
+		>>> Danny Coid <<<
+Page [[Danny Coid]] saved
+		>>> Danny Miller <<<
+		>>> Danny Miller <<<
+Sleeping for 6.8 seconds, 2014-08-28 17:35:01
+Page [[Danny Miller]] saved
+		>>> Das Ende des Regenbogens <<<
+		>>> Das Ende des Regenbogens <<<
+Sleeping for 5.2 seconds, 2014-08-28 17:35:13
+Page [[Das Ende des Regenbogens]] saved
+		>>> Das Flüstern des Mondes <<<
+		>>> Das Flüstern des Mondes <<<
+Sleeping for 7.3 seconds, 2014-08-28 17:35:21
+Page [[Das Flüstern des Mondes]] saved
+		>>> Denis Seron <<<
+		>>> Denis Seron <<<
+Sleeping for 7.9 seconds, 2014-08-28 17:35:30
+Page [[Denis Seron]] saved
+		>>> Easy Skankers <<<
+		>>> Easy Skankers <<<
+Sleeping for 8.3 seconds, 2014-08-28 17:35:40
+Page [[Easy Skankers]] saved
+		>>> Elisabetta Priante <<<
+		>>> Elisabetta Priante <<<
+Sleeping for 6.8 seconds, 2014-08-28 17:35:51
+Page [[Elisabetta Priante]] saved
+		>>> Ellen Giles <<<
+		>>> Ellen Giles <<<
+Sleeping for 8.2 seconds, 2014-08-28 17:36:00
+Page [[Ellen Giles]] saved
+		>>> Episodi di WWE Slam City <<<
+		>>> Episodi di WWE Slam City <<<
+Sleeping for 8.5 seconds, 2014-08-28 17:36:10
+Page [[Episodi di WWE Slam City]] saved
+		>>> Esercito Sudafricano <<<
+		>>> Esercito Sudafricano <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:36:21
+Page [[Esercito Sudafricano]] saved
+		>>> Fedor Alekseevic Minin <<< ***
+		>>> Fedor Alekseevic Minin <<< ***
+Sleeping for 5.7 seconds, 2014-08-28 17:36:33
+Page [[Fedor Alekseevic Minin]] saved ***
+		>>> Festa dell'Uva (Scansano) <<<
+		>>> Festa dell'Uva (Scansano) <<<
+Sleeping for 7.5 seconds, 2014-08-28 17:36:41
+Page [[Festa dell'Uva (Scansano)]] saved
+		>>> Flutlicht <<<
+		>>> Flutlicht <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:36:51
+Page [[Flutlicht]] saved
+		>>> Fololò e Falalà <<<
+		>>> Fololò e Falalà <<<
+Sleeping for 7.5 seconds, 2014-08-28 17:37:01
+Page [[Fololò e Falalà]] saved
+		>>> Francesco Mazza (regista) <<<
+		>>> Francesco Mazza (regista) <<<
+Sleeping for 8.4 seconds, 2014-08-28 17:37:10
+Page [[Francesco Mazza (regista)]] saved
+		>>> Gameup <<<
+		>>> Gameup <<<
+Sleeping for 7.8 seconds, 2014-08-28 17:37:21
+Page [[Gameup]] saved
+		>>> Gerome Graham <<<
+		>>> Gerome Graham <<<
+Sleeping for 8.3 seconds, 2014-08-28 17:37:30
+Page [[Gerome Graham]] saved
+		>>> Giancarlo Bonomo <<<
+		>>> Giancarlo Bonomo <<<
+Sleeping for 7.3 seconds, 2014-08-28 17:37:41
+Page [[Giancarlo Bonomo]] saved
+		>>> Giardini da incubo <<<
+		>>> Giardini da incubo <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:37:51
+Page [[Giardini da incubo]] saved
+		>>> Ginga no Uo URSA minor BLUE <<<
+		>>> Ginga no Uo URSA minor BLUE <<<
+Sleeping for 7.3 seconds, 2014-08-28 17:38:01
+Page [[Ginga no Uo URSA minor BLUE]] saved
+		>>> Glisossepide <<<
+		>>> Glisossepide <<<
+Sleeping for 6.9 seconds, 2014-08-28 17:38:11
+Page [[Glisossepide]] saved
+		>>> Hats & Cats Parma Swing Festival <<<
+		>>> Hats & Cats Parma Swing Festival <<<
+Sleeping for 6.6 seconds, 2014-08-28 17:38:22
+Page [[Hats & Cats Parma Swing Festival]] saved
+		>>> Icreach <<<
+		>>> Icreach <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:38:31
+Page [[Icreach]] saved
+		>>> Jalalabad (Gilgit) <<<
+		>>> Jalalabad (Gilgit) <<<
+Sleeping for 6.7 seconds, 2014-08-28 17:38:42
+Page [[Jalalabad (Gilgit)]] saved
+		>>> JetRadar <<<
+		>>> JetRadar <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:38:51
+Page [[JetRadar]] saved
+		>>> Jigoku Youchien <<<
+		>>> Jigoku Youchien <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:39:01
+Page [[Jigoku Youchien]] saved
+		>>> József Breznay <<<
+		>>> József Breznay <<<
+Sleeping for 7.8 seconds, 2014-08-28 17:39:11
+Page [[József Breznay]] saved
+		>>> Kirby: Paura al traguardo (anime) <<<
+		>>> Kirby: Paura al traguardo (anime) <<<
+Sleeping for 6.5 seconds, 2014-08-28 17:39:22
+Page [[Kirby: Paura al traguardo (anime)]] saved
+		>>> Koitabi - True Tours Nanto <<<
+		>>> Koitabi - True Tours Nanto <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:39:31
+Page [[Koitabi - True Tours Nanto]] saved
+		>>> Lagrangiana di Oliva <<<
+		>>> Lagrangiana di Oliva <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:39:41
+Page [[Lagrangiana di Oliva]] saved
+		>>> Lamborghini Stella <<<
+		>>> Lamborghini Stella <<<
+Sleeping for 7.7 seconds, 2014-08-28 17:39:51
+Page [[Lamborghini Stella]] saved
+		>>> Lista degli assi dell'aviazione austro-ungarica <<<
+		>>> Lista degli assi dell'aviazione austro-ungarica <<<
+Sleeping for 7.7 seconds, 2014-08-28 17:40:01
+Page [[Lista degli assi dell'aviazione austro-ungarica]] saved
+		>>> Lubit <<<
+		>>> Lubit <<<
+Sleeping for 6.0 seconds, 2014-08-28 17:40:12
+Page [[Lubit]] saved
+		>>> Luigi Palazzo <<<
+		>>> Luigi Palazzo <<<
+Sleeping for 7.9 seconds, 2014-08-28 17:40:21
+Page [[Luigi Palazzo]] saved
+		>>> Mario Giordani <<<
+		>>> Mario Giordani <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:40:31
+Page [[Mario Giordani]] saved
+		>>> Marten Geertsema <<<
+		>>> Marten Geertsema <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:40:41
+Page [[Marten Geertsema]] saved
+		>>> María del Monte <<<
+		>>> María del Monte <<<
+Sleeping for 6.7 seconds, 2014-08-28 17:40:52
+Page [[María del Monte]] saved
+		>>> Mauro Conciatori <<<
+		>>> Mauro Conciatori <<<
+Sleeping for 8.2 seconds, 2014-08-28 17:41:00
+Page [[Mauro Conciatori]] saved
+		>>> Ministero dell'Ambiente e dei Cambiamenti Climatici (Romania) <<<
+		>>> Ministero dell'Ambiente e dei Cambiamenti Climatici (Romania) <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:41:11
+Page [[Ministero dell'Ambiente e dei Cambiamenti Climatici (Romania)]] saved
+		>>> Mr. Right <<<
+		>>> Mr. Right <<<
+Sleeping for 6.1 seconds, 2014-08-28 17:41:22
+Page [[Mr. Right]] saved
+		>>> Måske ku' vi <<<
+		>>> Måske ku' vi <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:41:31
+Page [[Måske ku' vi]] saved
+		>>> Nicolas Marin <<<
+		>>> Nicolas Marin <<<
+Sleeping for 7.8 seconds, 2014-08-28 17:41:41
+Page [[Nicolas Marin]] saved
+		>>> Onde (singolo) <<<
+		>>> Onde (singolo) <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:41:51
+Page [[Onde (singolo)]] saved
+		>>> Orobian Pipe Band <<<
+		>>> Orobian Pipe Band <<<
+Sleeping for 8.5 seconds, 2014-08-28 17:42:00
+Page [[Orobian Pipe Band]] saved
+		>>> PCR Messina 2001-2002 <<<
+		>>> PCR Messina 2001-2002 <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:42:11
+Page [[PCR Messina 2001-2002]] saved
+		>>> Palazzo Sambuca <<<
+		>>> Palazzo Sambuca <<<
+Sleeping for 7.7 seconds, 2014-08-28 17:42:21
+Page [[Palazzo Sambuca]] saved
+		>>> Panoz Abruzzi <<<
+		>>> Panoz Abruzzi <<<
+Sleeping for 8.1 seconds, 2014-08-28 17:42:30
+Page [[Panoz Abruzzi]] saved
+		>>> Pierpaolo Lauriola <<<
+		>>> Pierpaolo Lauriola <<<
+Sleeping for 7.5 seconds, 2014-08-28 17:42:41
+Page [[Pierpaolo Lauriola]] saved
+		>>> Presidenti dell'Association Sportive de Monaco Football Club <<<
+		>>> Presidenti dell'Association Sportive de Monaco Football Club <<<
+Sleeping for 6.4 seconds, 2014-08-28 17:42:52
+Page [[Presidenti dell'Association Sportive de Monaco Football Club]] saved
+		>>> Psafi <<<
+		>>> Psafi <<<
+Sleeping for 6.8 seconds, 2014-08-28 17:43:02
+Page [[Psafi]] saved
+		>>> Puma pardoides <<<
+		>>> Puma pardoides <<<
+Sleeping for 7.3 seconds, 2014-08-28 17:43:11
+Page [[Puma pardoides]] saved
+		>>> Qlik <<<
+		>>> Qlik <<<
+Sleeping for 8.1 seconds, 2014-08-28 17:43:20
+Page [[Qlik]] saved
+		>>> Ramatoulay <<<
+		>>> Ramatoulay <<<
+Sleeping for 7.8 seconds, 2014-08-28 17:43:31
+Page [[Ramatoulay]] saved
+		>>> Renault Sport R.S. 01 <<<
+		>>> Renault Sport R.S. 01 <<<
+Sleeping for 8.1 seconds, 2014-08-28 17:43:40
+Page [[Renault Sport R.S. 01]] saved
+		>>> Rendel Simonti <<<
+		>>> Rendel Simonti <<<
+Sleeping for 7.9 seconds, 2014-08-28 17:43:51
+Page [[Rendel Simonti]] saved
+		>>> Reynolds Engineering DR Moto <<<
+		>>> Reynolds Engineering DR Moto <<<
+Sleeping for 8.4 seconds, 2014-08-28 17:44:00
+Page [[Reynolds Engineering DR Moto]] saved
+		>>> San Pierio <<<
+		>>> San Pierio <<<
+Sleeping for 7.8 seconds, 2014-08-28 17:44:11
+Page [[San Pierio]] saved
+		>>> Sbarro Robur <<<
+		>>> Sbarro Robur <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:44:21
+Page [[Sbarro Robur]] saved
+		>>> Seikei Sekiya <<<
+		>>> Seikei Sekiya <<<
+Sleeping for 8.1 seconds, 2014-08-28 17:44:30
+Page [[Seikei Sekiya]] saved
+		>>> Seppia sgargiante <<<
+		>>> Seppia sgargiante <<<
+Sleeping for 7.3 seconds, 2014-08-28 17:44:41
+Page [[Seppia sgargiante]] saved
+		>>> Serghei Diulgher <<<
+		>>> Serghei Diulgher <<<
+Sleeping for 6.9 seconds, 2014-08-28 17:44:52
+Page [[Serghei Diulgher]] saved
+		>>> Servizio Sanitario Militare del Sudafrica <<<
+		>>> Servizio Sanitario Militare del Sudafrica <<<
+Sleeping for 6.7 seconds, 2014-08-28 17:45:02
+Page [[Servizio Sanitario Militare del Sudafrica]] saved
+		>>> Seïd Khiter <<<
+		>>> Seïd Khiter <<<
+Sleeping for 3.1 seconds, 2014-08-28 17:45:15
+Page [[Seïd Khiter]] saved
+		>>> Shinjuku Mitsui Building <<<
+		>>> Shinjuku Mitsui Building <<<
+Sleeping for 6.5 seconds, 2014-08-28 17:45:22
+Page [[Shinjuku Mitsui Building]] saved
+		>>> Shinjuku Park Tower <<<
+		>>> Shinjuku Park Tower <<<
+Sleeping for 7.6 seconds, 2014-08-28 17:45:31
+Page [[Shinjuku Park Tower]] saved
+		>>> Silo (serie) <<<
+		>>> Silo (serie) <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:45:41
+Page [[Silo (serie)]] saved
+		>>> Spilite <<<
+		>>> Spilite <<<
+Sleeping for 7.1 seconds, 2014-08-28 17:45:52
+Page [[Spilite]] saved
+		>>> Stefano Leoni <<<
+		>>> Stefano Leoni <<<
+Sleeping for 6.7 seconds, 2014-08-28 17:46:02
+Page [[Stefano Leoni]] saved
+		>>> Svenne Poulsen <<<
+		>>> Svenne Poulsen <<<
+Sleeping for 7.1 seconds, 2014-08-28 17:46:12
+Page [[Svenne Poulsen]] saved
+		>>> Swing Copters <<<
+		>>> Swing Copters <<<
+Sleeping for 6.2 seconds, 2014-08-28 17:46:22
+Page [[Swing Copters]] saved
+		>>> Terremoto dello Yunnan del 2014 <<<
+		>>> Terremoto dello Yunnan del 2014 <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:46:31
+Page [[Terremoto dello Yunnan del 2014]] saved
+		>>> Tesoro della Venera <<<
+		>>> Tesoro della Venera <<<
+Sleeping for 7.0 seconds, 2014-08-28 17:46:42
+Page [[Tesoro della Venera]] saved
+		>>> The Messiah Tour <<<
+		>>> The Messiah Tour <<<
+Sleeping for 4.1 seconds, 2014-08-28 17:46:54
+Page [[The Messiah Tour]] saved
+		>>> Tony Mamodaly <<<
+		>>> Tony Mamodaly <<<
+Sleeping for 7.4 seconds, 2014-08-28 17:47:01
+Page [[Tony Mamodaly]] saved
+		>>> Trijntje van Heerde <<<
+		>>> Trijntje van Heerde <<<
+Sleeping for 7.1 seconds, 2014-08-28 17:47:12
+Page [[Trijntje van Heerde]] saved
+		>>> Unione commercio turismo servizi Alto Adige <<<
+		>>> Unione commercio turismo servizi Alto Adige <<<
+Sleeping for 8.0 seconds, 2014-08-28 17:47:21
+Page [[Unione commercio turismo servizi Alto Adige]] saved
+		>>> Urum <<<
+		>>> Urum <<<
+Sleeping for 7.8 seconds, 2014-08-28 17:47:31
+Page [[Urum]] saved
+		>>> Valentina D'Urbano <<<
+		>>> Valentina D'Urbano <<<
+Sleeping for 8.6 seconds, 2014-08-28 17:47:40
+Page [[Valentina D'Urbano]] saved
+		>>> Villa Pace <<<
+		>>> Villa Pace <<<
+Sleeping for 7.8 seconds, 2014-08-28 17:47:51
+Page [[Villa Pace]] saved
+		>>> Vincenzo Sorrentino <<<
+		>>> Vincenzo Sorrentino <<<
+Sleeping for 8.3 seconds, 2014-08-28 17:48:00
+Page [[Vincenzo Sorrentino]] saved
+		>>> Waterfox <<<
+		>>> Waterfox <<<
+Sleeping for 7.2 seconds, 2014-08-28 17:48:11
+Page [[Waterfox]] saved
+		>>> Yann Kermorgant <<<
+		>>> Yann Kermorgant <<<
+Sleeping for 6.9 seconds, 2014-08-28 17:48:22
+Page [[Yann Kermorgant]] saved
+		>>> Younger Son <<<
+		>>> Younger Son <<<
+Sleeping for 6.4 seconds, 2014-08-28 17:48:32
+Page [[Younger Son]] saved
+		>>> Élève Libre - Lezioni private <<<
+		>>> Élève Libre - Lezioni private <<<
+Sleeping for 7.9 seconds, 2014-08-28 17:48:41
+Page [[Élève Libre - Lezioni private]] saved
+Run time:  5.16
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Amors Baller <<<
+		>>> Amors Baller <<<
+Page [[Amors Baller]] saved
+		>>> Castie <<<
+		>>> Castie <<<
+Page [[Castie]] saved
+		>>> Christophe Marichez <<<
+		>>> Christophe Marichez <<<
+Page [[Christophe Marichez]] saved
+		>>> Complete Instructions for the Tenor <<<
+		>>> Complete Instructions for the Tenor <<<
+Page [[Complete Instructions for the Tenor]] saved
+		>>> Kenau <<<
+		>>> Kenau <<<
+Page [[Kenau]] saved
+		>>> L995 <<<
+		>>> L995 <<<
+Page [[L995]] saved
+		>>> Michael Culme-Seymour, IV Baronetto <<<
+		>>> Michael Culme-Seymour, IV Baronetto <<<
+Page [[Michael Culme-Seymour, IV Baronetto]] saved
+		>>> Ramatoulaye <<<
+		>>> Ramatoulaye <<<
+Page [[Ramatoulaye]] saved
+		>>> Stéphane Borbiconi <<<
+		>>> Stéphane Borbiconi <<<
+Page [[Stéphane Borbiconi]] saved
+		>>> Tagliando (trasporti) <<<
+WARNING: Http response status 503
+WARNING: Non-JSON response received from server wikipedia:it; the server may be down.
+WARNING: Waiting 5 seconds before retrying.
+		>>> Tagliando (trasporti) <<<
+Page [[Tagliando (trasporti)]] saved
+		>>> Viva Topo! <<<
+		>>> Viva Topo! <<<
+Page [[Viva Topo!]] saved
+		>>> Willow Springs International Motorsports Park <<<
+		>>> Willow Springs International Motorsports Park <<<
+Page [[Willow Springs International Motorsports Park]] saved
+Run time:  0.97
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Andrejs Auzans <<< ***
+		>>> Andrejs Auzans <<< ***
+Page [[Andrejs Auzans]] saved ***
+		>>> Antonio Lupián Zapata <<<
+		>>> Antonio Lupián Zapata <<<
+Page [[Antonio Lupián Zapata]] saved
+		>>> Articolo civetta <<<
+		>>> Articolo civetta <<<
+Page [[Articolo civetta]] saved
+		>>> Athelofobia <<<
+		>>> Athelofobia <<<
+Page [[Athelofobia]] saved
+		>>> Azrack Mahamat <<<
+		>>> Azrack Mahamat <<<
+Page [[Azrack Mahamat]] saved
+		>>> Campionato allievi regionali abruzzo <<<
+		>>> Campionato allievi regionali abruzzo <<<
+Page [[Campionato allievi regionali abruzzo]] saved
+		>>> Chandler Catanzaro <<<
+		>>> Chandler Catanzaro <<<
+Page [[Chandler Catanzaro]] saved
+		>>> Chiesa del Carmelo (Alghero) <<<
+		>>> Chiesa del Carmelo (Alghero) <<<
+Page [[Chiesa del Carmelo (Alghero)]] saved
+		>>> Chizkeik <<<
+		>>> Chizkeik <<<
+Page [[Chizkeik]] saved
+		>>> Clan Cappello <<<
+		>>> Clan Cappello <<<
+Page [[Clan Cappello]] saved
+		>>> Cyril Hennion <<<
+		>>> Cyril Hennion <<<
+Page [[Cyril Hennion]] saved
+		>>> Deafula <<<
+		>>> Deafula <<<
+Page [[Deafula]] saved
+		>>> Doshite namida ga Derunokana <<< ***
+		>>> Doshite namida ga Derunokana <<< ***
+Page [[Doshite namida ga Derunokana]] saved ***
+		>>> Elezioni comunali a Catania <<<
+		>>> Elezioni comunali a Catania <<<
+Page [[Elezioni comunali a Catania]] saved
+		>>> Ester Soldi <<<
+		>>> Ester Soldi <<<
+Page [[Ester Soldi]] saved
+		>>> Eugen Gopko <<<
+		>>> Eugen Gopko <<<
+Page [[Eugen Gopko]] saved
+		>>> Guardia Nazionale Ambientale <<<
+		>>> Guardia Nazionale Ambientale <<<
+Page [[Guardia Nazionale Ambientale]] saved
+		>>> I Declare War <<<
+		>>> I Declare War <<<
+Page [[I Declare War]] saved
+		>>> Ignazio Drago <<<
+		>>> Ignazio Drago <<<
+Page [[Ignazio Drago]] saved
+		>>> Isidoro Rossi <<<
+		>>> Isidoro Rossi <<<
+Page [[Isidoro Rossi]] saved
+		>>> Kamel Larbi <<<
+		>>> Kamel Larbi <<<
+Page [[Kamel Larbi]] saved
+		>>> L'alba di tutto (R.H. Benson) <<<
+		>>> L'alba di tutto (R.H. Benson) <<<
+Page [[L'alba di tutto (R.H. Benson)]] saved
+		>>> L'eclisse della democrazia <<<
+		>>> L'eclisse della democrazia <<<
+Page [[L'eclisse della democrazia]] saved
+		>>> Landelijke Organisatie voor Hulp aan Onderduikers <<<
+		>>> Landelijke Organisatie voor Hulp aan Onderduikers <<<
+Page [[Landelijke Organisatie voor Hulp aan Onderduikers]] saved
+		>>> Lavorazione a lume <<<
+		>>> Lavorazione a lume <<<
+Page [[Lavorazione a lume]] saved
+		>>> Marian Timm <<<
+		>>> Marian Timm <<<
+Page [[Marian Timm]] saved
+		>>> Matthieu Verschuère <<<
+		>>> Matthieu Verschuère <<<
+Page [[Matthieu Verschuère]] saved
+		>>> Mattia Maggio <<<
+		>>> Mattia Maggio <<<
+Page [[Mattia Maggio]] saved
+		>>> Mees Kees <<<
+		>>> Mees Kees <<<
+Page [[Mees Kees]] saved
+		>>> Michail Koronatovic Bakhirev <<< ***
+		>>> Michail Koronatovic Bakhirev <<< ***
+Page [[Michail Koronatovic Bakhirev]] saved ***
+		>>> Michal Rakovan <<<
+		>>> Michal Rakovan <<<
+Page [[Michal Rakovan]] saved
+		>>> Nicoletta Neri <<<
+		>>> Nicoletta Neri <<<
+Page [[Nicoletta Neri]] saved
+		>>> Nunzio Di Giulio <<<
+		>>> Nunzio Di Giulio <<<
+Page [[Nunzio Di Giulio]] saved
+		>>> Olimpia La Salle <<<
+		>>> Olimpia La Salle <<<
+Page [[Olimpia La Salle]] saved
+		>>> Olimpia Milano 1949-1950 <<<
+		>>> Olimpia Milano 1949-1950 <<<
+Page [[Olimpia Milano 1949-1950]] saved
+		>>> Onur Bilgin <<<
+		>>> Onur Bilgin <<<
+Page [[Onur Bilgin]] saved
+		>>> Orazio Campagna <<<
+		>>> Orazio Campagna <<<
+Page [[Orazio Campagna]] saved
+		>>> Oskar Enkvist <<<
+		>>> Oskar Enkvist <<<
+Page [[Oskar Enkvist]] saved
+		>>> Patrick Barul <<<
+		>>> Patrick Barul <<<
+Page [[Patrick Barul]] saved
+		>>> Pierre Talon <<<
+		>>> Pierre Talon <<<
+Page [[Pierre Talon]] saved
+		>>> Rappresentazione di genere nei videogiochi <<<
+		>>> Rappresentazione di genere nei videogiochi <<<
+Page [[Rappresentazione di genere nei videogiochi]] saved
+		>>> Riva Marina <<<
+		>>> Riva Marina <<<
+Page [[Riva Marina]] saved
+		>>> Rolf Niederhauser <<<
+		>>> Rolf Niederhauser <<<
+Page [[Rolf Niederhauser]] saved
+		>>> South of the Moon <<<
+		>>> South of the Moon <<<
+Page [[South of the Moon]] saved
+		>>> SwissAward <<<
+		>>> SwissAward <<<
+Page [[SwissAward]] saved
+		>>> Toyota FX-1 <<<
+		>>> Toyota FX-1 <<<
+Page [[Toyota FX-1]] saved
+		>>> Uncle Bards & The Dirty Bastards <<<
+		>>> Uncle Bards & The Dirty Bastards <<<
+Page [[Uncle Bards & The Dirty Bastards]] saved
+		>>> WWE Slam City <<<
+		>>> WWE Slam City <<<
+Page [[WWE Slam City]] saved
+		>>> Yung Lean <<<
+		>>> Yung Lean <<<
+Page [[Yung Lean]] saved
+Run time:  1.83
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 3tsu no Kumo <<<
+		>>> 3tsu no Kumo <<<
+Page [[3tsu no Kumo]] saved
+		>>> Aleksandr Aleksandrovic Lieven <<< ***
+		>>> Aleksandr Aleksandrovic Lieven <<< ***
+Page [[Aleksandr Aleksandrovic Lieven]] saved ***
+		>>> Arden Cars <<<
+		>>> Arden Cars <<<
+Page [[Arden Cars]] saved
+		>>> Autoespanso sughero <<<
+		>>> Autoespanso sughero <<<
+Page [[Autoespanso sughero]] saved
+		>>> Bruno Babos <<<
+		>>> Bruno Babos <<<
+Page [[Bruno Babos]] saved
+		>>> Cadorin <<<
+		>>> Cadorin <<<
+Page [[Cadorin]] saved
+		>>> Dmitrij Gustanovic von Fölkersam <<< ***
+		>>> Dmitrij Gustanovic von Fölkersam <<< ***
+Page [[Dmitrij Gustanovic von Fölkersam]] saved ***
+		>>> Episodi di Bomberman Jetters Online <<<
+		>>> Episodi di Bomberman Jetters Online <<<
+Page [[Episodi di Bomberman Jetters Online]] saved
+		>>> Francis Vielé-Griffin <<<
+		>>> Francis Vielé-Griffin <<<
+Page [[Francis Vielé-Griffin]] saved
+		>>> Henk Zanoli <<<
+		>>> Henk Zanoli <<<
+Page [[Henk Zanoli]] saved
+		>>> Ivan Konstantinovic Grigorovic <<< ***
+		>>> Ivan Konstantinovic Grigorovic <<< ***
+Page [[Ivan Konstantinovic Grigorovic]] saved ***
+		>>> Jan Javurek <<< ***
+		>>> Jan Javurek <<< ***
+Page [[Jan Javurek]] saved ***
+		>>> Kevin Cone <<<
+		>>> Kevin Cone <<<
+Page [[Kevin Cone]] saved
+		>>> Lista di etnici statunitensi <<<
+		>>> Lista di etnici statunitensi <<<
+Page [[Lista di etnici statunitensi]] saved
+		>>> Massimo Caruso <<<
+		>>> Massimo Caruso <<<
+Page [[Massimo Caruso]] saved
+		>>> Nunzio Di Giulio <<<
+		>>> Nunzio Di Giulio <<<
+Page [[Nunzio Di Giulio]] saved
+		>>> Olimpia La Salle <<<
+		>>> Olimpia La Salle <<<
+Page [[Olimpia La Salle]] saved
+		>>> Ordine imperiale del Cristo <<<
+		>>> Ordine imperiale del Cristo <<<
+Page [[Ordine imperiale del Cristo]] saved
+		>>> Riccardo Fortini <<<
+		>>> Riccardo Fortini <<<
+Page [[Riccardo Fortini]] saved
+		>>> Tabella dell'evoluzione del cavallo <<<
+		>>> Tabella dell'evoluzione del cavallo <<<
+Page [[Tabella dell'evoluzione del cavallo]] saved
+		>>> Tabella dell'evoluzione umana <<<
+		>>> Tabella dell'evoluzione umana <<<
+Page [[Tabella dell'evoluzione umana]] saved
+		>>> The X Factor Hyncro <<<
+		>>> The X Factor Hyncro <<<
+Page [[The X Factor Hyncro]] saved
+Run time:  1.12
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 142SPlle/sandbox <<<
+		>>> 142SPlle/sandbox <<<
+Sleeping for 9.1 seconds, 2014-09-02 02:53:16
+Page [[142SPlle/sandbox]] saved
+		>>> A El Ghani <<<
+		>>> A El Ghani <<<
+Sleeping for 7.6 seconds, 2014-09-02 02:53:28
+Page [[A El Ghani]] saved
+		>>> Acido spaglumico <<<
+		>>> Acido spaglumico <<<
+Sleeping for 8.1 seconds, 2014-09-02 02:53:37
+Page [[Acido spaglumico]] saved
+		>>> Anorexia ~ Shikabane Hanako wa Kyoshokusho <<< ***
+		>>> Anorexia ~ Shikabane Hanako wa Kyoshokusho <<< ***
+Sleeping for 7.0 seconds, 2014-09-02 02:53:49
+Page [[Anorexia ~ Shikabane Hanako wa Kyoshokusho]] saved ***
+		>>> Antonis Antrellis <<<
+		>>> Antonis Antrellis <<<
+Sleeping for 6.6 seconds, 2014-09-02 02:53:59
+Page [[Antonis Antrellis]] saved
+		>>> Atotech <<<
+Sleeping for 5.0 seconds, 2014-09-02 02:54:14
+Sleeping for 5.0 seconds, 2014-09-02 02:54:19
+Sleeping for 5.0 seconds, 2014-09-02 02:54:25
+		>>> Atotech <<<
+Page [[Atotech]] saved
+		>>> Black drink in the back <<<
+		>>> Black drink in the back <<<
+Sleeping for 7.6 seconds, 2014-09-02 02:54:35
+Page [[Black drink in the back]] saved
+		>>> Brad Meester <<<
+Sleeping for 10.0 seconds, 2014-09-02 02:55:01
+		>>> Brad Meester <<<
+Page [[Brad Meester]] saved
+		>>> Brandian Ross <<<
+		>>> Brandian Ross <<<
+Sleeping for 5.6 seconds, 2014-09-02 02:55:16
+Page [[Brandian Ross]] saved
+		>>> Chris Bracey <<<
+		>>> Chris Bracey <<<
+Sleeping for 6.3 seconds, 2014-09-02 02:55:26
+Page [[Chris Bracey]] saved
+		>>> Esbjerg forenede Boldklubber 2014-2015 <<<
+		>>> Esbjerg forenede Boldklubber 2014-2015 <<<
+Sleeping for 4.5 seconds, 2014-09-02 02:55:37
+Page [[Esbjerg forenede Boldklubber 2014-2015]] saved
+		>>> Frederick Bowhill <<<
+		>>> Frederick Bowhill <<<
+Sleeping for 6.8 seconds, 2014-09-02 02:55:45
+Page [[Frederick Bowhill]] saved
+		>>> Gli Invicibili: Alla conquista del potere <<<
+		>>> Gli Invicibili: Alla conquista del potere <<<
+Sleeping for 7.0 seconds, 2014-09-02 02:55:55
+Page [[Gli Invicibili: Alla conquista del potere]] saved
+		>>> Head Defence (videogioco) <<<
+		>>> Head Defence (videogioco) <<<
+Sleeping for 6.9 seconds, 2014-09-02 02:56:05
+Page [[Head Defence (videogioco)]] saved
+		>>> Jarrod Shaw <<<
+Sleeping for 17.0 seconds, 2014-09-02 02:56:47
+		>>> Jarrod Shaw <<<
+Page [[Jarrod Shaw]] saved
+		>>> John De Stoke <<<
+		>>> John De Stoke <<<
+Sleeping for 7.1 seconds, 2014-09-02 02:57:08
+Page [[John De Stoke]] saved
+		>>> Johnny Adams (giocatore di football americano) <<<
+		>>> Johnny Adams (giocatore di football americano) <<<
+Sleeping for 6.1 seconds, 2014-09-02 02:57:19
+Page [[Johnny Adams (giocatore di football americano)]] saved
+		>>> Justin Cole <<<
+		>>> Justin Cole <<<
+Sleeping for 6.6 seconds, 2014-09-02 02:57:29
+Page [[Justin Cole]] saved
+		>>> La costola di Adamo (romanzo) <<<
+		>>> La costola di Adamo (romanzo) <<<
+Sleeping for 5.8 seconds, 2014-09-02 02:57:39
+Page [[La costola di Adamo (romanzo)]] saved
+		>>> Longhorns <<<
+		>>> Longhorns <<<
+Sleeping for 6.6 seconds, 2014-09-02 02:57:49
+Page [[Longhorns]] saved
+		>>> Lucas Nix <<<
+		>>> Lucas Nix <<<
+Sleeping for 7.2 seconds, 2014-09-02 02:57:58
+Page [[Lucas Nix]] saved
+		>>> Lucas Ontivero <<<
+		>>> Lucas Ontivero <<<
+Sleeping for 6.5 seconds, 2014-09-02 02:58:09
+Page [[Lucas Ontivero]] saved
+		>>> Marquice Cole <<<
+		>>> Marquice Cole <<<
+Sleeping for 6.3 seconds, 2014-09-02 02:58:19
+Page [[Marquice Cole]] saved
+		>>> Marshall McFadden <<<
+		>>> Marshall McFadden <<<
+Sleeping for 6.9 seconds, 2014-09-02 02:58:28
+Page [[Marshall McFadden]] saved
+		>>> Museo di zoologia adriatica Giuseppe Olivi <<<
+		>>> Museo di zoologia adriatica Giuseppe Olivi <<<
+Sleeping for 7.2 seconds, 2014-09-02 02:58:38
+Page [[Museo di zoologia adriatica Giuseppe Olivi]] saved
+		>>> NeroArgento <<<
+		>>> NeroArgento <<<
+Sleeping for 5.5 seconds, 2014-09-02 02:58:50
+Page [[NeroArgento]] saved
+		>>> Oliver Heldens <<<
+		>>> Oliver Heldens <<<
+Sleeping for 5.0 seconds, 2014-09-02 02:59:00
+Page [[Oliver Heldens]] saved
+		>>> Pavel Vladimirovic Argeev <<< ***
+		>>> Pavel Vladimirovic Argeev <<< ***
+Sleeping for 7.1 seconds, 2014-09-02 02:59:08
+Page [[Pavel Vladimirovic Argeev]] saved ***
+		>>> Robert Henry Charles <<<
+		>>> Robert Henry Charles <<<
+Page [[Robert Henry Charles]] saved
+		>>> SX Tape <<<
+		>>> SX Tape <<<
+Sleeping for 6.2 seconds, 2014-09-02 02:59:29
+Page [[SX Tape]] saved
+		>>> Shelton Johnson <<<
+		>>> Shelton Johnson <<<
+Page [[Shelton Johnson]] saved
+		>>> Sophie Marie von Voß <<<
+		>>> Sophie Marie von Voß <<<
+Sleeping for 7.1 seconds, 2014-09-02 02:59:48
+Page [[Sophie Marie von Voß]] saved
+		>>> Stendeck <<<
+		>>> Stendeck <<<
+Sleeping for 6.2 seconds, 2014-09-02 02:59:59
+Page [[Stendeck]] saved
+		>>> Tony Dye <<<
+		>>> Tony Dye <<<
+Sleeping for 7.8 seconds, 2014-09-02 03:00:07
+Page [[Tony Dye]] saved
+		>>> Uche Nwaneri <<<
+		>>> Uche Nwaneri <<<
+Sleeping for 7.5 seconds, 2014-09-02 03:00:18
+Page [[Uche Nwaneri]] saved
+		>>> Viaggio nel sud <<<
+		>>> Viaggio nel sud <<<
+Sleeping for 6.4 seconds, 2014-09-02 03:00:29
+Page [[Viaggio nel sud]] saved
+		>>> Zippy Kid <<<
+		>>> Zippy Kid <<<
+Sleeping for 7.3 seconds, 2014-09-02 03:00:38
+Page [[Zippy Kid]] saved
+		>>> Émilie de Beauharnais <<<
+		>>> Émilie de Beauharnais <<<
+Sleeping for 6.3 seconds, 2014-09-02 03:00:49
+Page [[Émilie de Beauharnais]] saved
+Run time:  1.7
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 3,4-Diaminopyridine <<<
+		>>> 3,4-Diaminopyridine <<<
+Sleeping for 9.1 seconds, 2014-09-03 02:54:04
+Page [[3,4-Diaminopyridine]] saved
+		>>> Alfiero Mezzetti <<<
+		>>> Alfiero Mezzetti <<<
+Sleeping for 6.9 seconds, 2014-09-03 02:54:16
+Page [[Alfiero Mezzetti]] saved
+		>>> Angus Buchanan <<<
+		>>> Angus Buchanan <<<
+Sleeping for 7.6 seconds, 2014-09-03 02:54:26
+Page [[Angus Buchanan]] saved
+		>>> Arimoclomol <<<
+		>>> Arimoclomol <<<
+Sleeping for 7.8 seconds, 2014-09-03 02:54:35
+Page [[Arimoclomol]] saved
+		>>> Ayoze Díaz Díaz <<<
+		>>> Ayoze Díaz Díaz <<<
+Sleeping for 7.8 seconds, 2014-09-03 02:54:45
+Page [[Ayoze Díaz Díaz]] saved
+		>>> Bandiera dello Stato Islamico dell'Iraq e del Levante <<<
+		>>> Bandiera dello Stato Islamico dell'Iraq e del Levante <<<
+Sleeping for 7.1 seconds, 2014-09-03 02:54:56
+Page [[Bandiera dello Stato Islamico dell'Iraq e del Levante]] saved
+		>>> Broken - Nessuno vi salverà <<< ***
+		>>> Broken - Nessuno vi salverà <<< ***
+Sleeping for 4.9 seconds, 2014-09-03 02:55:08
+Page [[Broken - Nessuno vi salverà]] saved ***
+		>>> Carceri ottocentesche di Busto Arsizio <<<
+		>>> Carceri ottocentesche di Busto Arsizio <<<
+Sleeping for 6.5 seconds, 2014-09-03 02:55:17
+Page [[Carceri ottocentesche di Busto Arsizio]] saved
+		>>> Club NET <<<
+		>>> Club NET <<<
+Sleeping for 7.7 seconds, 2014-09-03 02:55:26
+Page [[Club NET]] saved
+		>>> Coopergame <<<
+		>>> Coopergame <<<
+Sleeping for 8.2 seconds, 2014-09-03 02:55:35
+Page [[Coopergame]] saved
+		>>> Cylindre remontoir <<<
+		>>> Cylindre remontoir <<<
+Sleeping for 8.4 seconds, 2014-09-03 02:55:45
+Page [[Cylindre remontoir]] saved
+		>>> Elena Ionescu <<<
+		>>> Elena Ionescu <<<
+Sleeping for 8.4 seconds, 2014-09-03 02:55:55
+Page [[Elena Ionescu]] saved
+		>>> Eugene Mc Donald Bonner <<<
+		>>> Eugene Mc Donald Bonner <<<
+Sleeping for 7.6 seconds, 2014-09-03 02:56:06
+Page [[Eugene Mc Donald Bonner]] saved
+		>>> Ferdinando Farulli <<<
+		>>> Ferdinando Farulli <<<
+Sleeping for 7.8 seconds, 2014-09-03 02:56:16
+Page [[Ferdinando Farulli]] saved
+		>>> Francis Cromie <<<
+		>>> Francis Cromie <<<
+Sleeping for 6.7 seconds, 2014-09-03 02:56:27
+Page [[Francis Cromie]] saved
+		>>> Gedi & Sons Football Club <<<
+		>>> Gedi & Sons Football Club <<<
+Sleeping for 5.0 seconds, 2014-09-03 02:56:38
+Page [[Gedi & Sons Football Club]] saved
+		>>> HMS Challenger (1858) <<<
+		>>> HMS Challenger (1858) <<<
+Sleeping for 7.6 seconds, 2014-09-03 02:56:46
+Page [[HMS Challenger (1858)]] saved
+		>>> Head Defence (videogioco) <<<
+		>>> Head Defence (videogioco) <<<
+Sleeping for 6.9 seconds, 2014-09-03 02:56:56
+Page [[Head Defence (videogioco)]] saved
+		>>> Hugo Báez <<<
+		>>> Hugo Báez <<<
+Sleeping for 7.8 seconds, 2014-09-03 02:57:06
+Page [[Hugo Báez]] saved
+		>>> Infarto miocardico acuto nella donna <<<
+		>>> Infarto miocardico acuto nella donna <<<
+Sleeping for 6.1 seconds, 2014-09-03 02:57:17
+Page [[Infarto miocardico acuto nella donna]] saved
+		>>> Isaac Success <<<
+		>>> Isaac Success <<<
+Sleeping for 7.7 seconds, 2014-09-03 02:57:26
+Page [[Isaac Success]] saved
+		>>> Josip Mikulic <<< ***
+		>>> Josip Mikulic <<< ***
+Sleeping for 7.8 seconds, 2014-09-03 02:57:36
+Page [[Josip Mikulic]] saved ***
+		>>> Juan Calatayud Sánchez <<<
+		>>> Juan Calatayud Sánchez <<<
+Sleeping for 7.5 seconds, 2014-09-03 02:57:46
+Page [[Juan Calatayud Sánchez]] saved
+		>>> La crociata dei buffoni <<<
+		>>> La crociata dei buffoni <<<
+Sleeping for 6.1 seconds, 2014-09-03 02:57:57
+Page [[La crociata dei buffoni]] saved
+		>>> MVP Coppa Italia Legadue FIP <<<
+		>>> MVP Coppa Italia Legadue FIP <<<
+Sleeping for 7.0 seconds, 2014-09-03 02:58:06
+Page [[MVP Coppa Italia Legadue FIP]] saved
+		>>> Matthieu Louis-Jean <<<
+		>>> Matthieu Louis-Jean <<<
+Sleeping for 6.6 seconds, 2014-09-03 02:58:17
+Page [[Matthieu Louis-Jean]] saved
+		>>> Miro Varvodic <<< ***
+		>>> Miro Varvodic <<< ***
+Sleeping for 6.7 seconds, 2014-09-03 02:58:27
+Page [[Miro Varvodic]] saved ***
+		>>> Mucinasi <<<
+		>>> Mucinasi <<<
+Sleeping for 7.2 seconds, 2014-09-03 02:58:36
+Page [[Mucinasi]] saved
+		>>> Oscar Ewolo <<<
+		>>> Oscar Ewolo <<<
+Sleeping for 7.8 seconds, 2014-09-03 02:58:46
+Page [[Oscar Ewolo]] saved
+		>>> Partita interreligiosa per la pace <<<
+		>>> Partita interreligiosa per la pace <<<
+Sleeping for 7.0 seconds, 2014-09-03 02:58:56
+Page [[Partita interreligiosa per la pace]] saved
+		>>> Peter Brezovan <<<
+		>>> Peter Brezovan <<<
+Sleeping for 7.6 seconds, 2014-09-03 02:59:06
+Page [[Peter Brezovan]] saved
+		>>> Rincorsa <<<
+		>>> Rincorsa <<<
+Sleeping for 7.2 seconds, 2014-09-03 02:59:16
+Page [[Rincorsa]] saved
+		>>> Satellite Black Knight <<<
+		>>> Satellite Black Knight <<<
+Sleeping for 7.6 seconds, 2014-09-03 02:59:26
+Page [[Satellite Black Knight]] saved
+		>>> Step Up (serie di film) <<<
+		>>> Step Up (serie di film) <<<
+Sleeping for 8.0 seconds, 2014-09-03 02:59:35
+Page [[Step Up (serie di film)]] saved
+		>>> Tafamidis <<<
+		>>> Tafamidis <<<
+Sleeping for 7.8 seconds, 2014-09-03 02:59:46
+Page [[Tafamidis]] saved
+		>>> Velliscig (cognome) <<<
+		>>> Velliscig (cognome) <<<
+Sleeping for 8.2 seconds, 2014-09-03 02:59:55
+Page [[Velliscig (cognome)]] saved
+		>>> Vinciguerra Mario <<<
+		>>> Vinciguerra Mario <<<
+Sleeping for 7.7 seconds, 2014-09-03 03:00:06
+Page [[Vinciguerra Mario]] saved
+		>>> Xaliproden <<<
+		>>> Xaliproden <<<
+Sleeping for 7.6 seconds, 2014-09-03 03:00:16
+Page [[Xaliproden]] saved
+		>>> Yassin El-Azzouzi <<<
+		>>> Yassin El-Azzouzi <<<
+Sleeping for 6.7 seconds, 2014-09-03 03:00:27
+Page [[Yassin El-Azzouzi]] saved
+		>>> Yvan Bourgis <<<
+		>>> Yvan Bourgis <<<
+Sleeping for 6.4 seconds, 2014-09-03 03:00:37
+Page [[Yvan Bourgis]] saved
+Run time:  1.7
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Airbus E-Fan <<<
+		>>> Airbus E-Fan <<<
+Sleeping for 8.9 seconds, 2014-09-04 02:55:39
+Page [[Airbus E-Fan]] saved
+		>>> Alessandroprovini <<<
+Alessandroprovini doesn't exist! Skip
+		>>> Bochotnica <<<
+		>>> Bochotnica <<<
+Sleeping for 6.1 seconds, 2014-09-04 02:55:52
+Page [[Bochotnica]] saved
+		>>> Capitoli di Dragon Ball Heroes: Victory Mission <<<
+		>>> Capitoli di Dragon Ball Heroes: Victory Mission <<<
+Sleeping for 5.3 seconds, 2014-09-04 02:56:03
+Page [[Capitoli di Dragon Ball Heroes: Victory Mission]] saved
+		>>> Clermont Foot Auvergne 2011-2012 <<<
+		>>> Clermont Foot Auvergne 2011-2012 <<<
+Sleeping for 7.4 seconds, 2014-09-04 02:56:11
+Page [[Clermont Foot Auvergne 2011-2012]] saved
+		>>> Complesso vocale di Nuoro <<<
+		>>> Complesso vocale di Nuoro <<<
+Sleeping for 7.1 seconds, 2014-09-04 02:56:21
+Page [[Complesso vocale di Nuoro]] saved
+		>>> Elenco di teen drama <<<
+		>>> Elenco di teen drama <<<
+Sleeping for 7.3 seconds, 2014-09-04 02:56:31
+Page [[Elenco di teen drama]] saved
+		>>> Eternamente tua/Chia s'annammora 'e te (1970) <<<
+Eternamente tua/Chia s'annammora 'e te (1970) doesn't exist! Skip
+		>>> Euroradar CAPTOR <<<
+		>>> Euroradar CAPTOR <<<
+Sleeping for 7.7 seconds, 2014-09-04 02:56:41
+Page [[Euroradar CAPTOR]] saved
+		>>> Gazette du Bon Ton <<<
+		>>> Gazette du Bon Ton <<<
+Sleeping for 7.8 seconds, 2014-09-04 02:56:50
+Page [[Gazette du Bon Ton]] saved
+		>>> Giacomo Rossi (cestista) <<<
+		>>> Giacomo Rossi (cestista) <<<
+Sleeping for 7.2 seconds, 2014-09-04 02:57:01
+Page [[Giacomo Rossi (cestista)]] saved
+		>>> Giovanni Daraio <<<
+		>>> Giovanni Daraio <<<
+Sleeping for 8.5 seconds, 2014-09-04 02:57:10
+Page [[Giovanni Daraio]] saved
+		>>> Head Defence (videogioco) <<<
+		>>> Head Defence (videogioco) <<<
+Sleeping for 8.0 seconds, 2014-09-04 02:57:20
+Page [[Head Defence (videogioco)]] saved
+		>>> Introspettiva <<<
+		>>> Introspettiva <<<
+Sleeping for 7.0 seconds, 2014-09-04 02:57:31
+Page [[Introspettiva]] saved
+		>>> Jakob von Hartmann <<<
+		>>> Jakob von Hartmann <<<
+Sleeping for 6.0 seconds, 2014-09-04 02:57:42
+Page [[Jakob von Hartmann]] saved
+		>>> Jurij Vladimirovic Gilser <<< ***
+		>>> Jurij Vladimirovic Gilser <<< ***
+Sleeping for 6.4 seconds, 2014-09-04 02:57:52
+Page [[Jurij Vladimirovic Gilser]] saved ***
+		>>> Kento Masuda <<<
+		>>> Kento Masuda <<<
+Sleeping for 6.7 seconds, 2014-09-04 02:58:02
+Page [[Kento Masuda]] saved
+		>>> La crociata dei buffoni <<<
+		>>> La crociata dei buffoni <<<
+Sleeping for 6.0 seconds, 2014-09-04 02:58:12
+Page [[La crociata dei buffoni]] saved
+		>>> Mambele <<<
+		>>> Mambele <<<
+Sleeping for 7.5 seconds, 2014-09-04 02:58:21
+Page [[Mambele]] saved
+		>>> Marten Geertsema <<<
+		>>> Marten Geertsema <<<
+Sleeping for 7.3 seconds, 2014-09-04 02:58:31
+Page [[Marten Geertsema]] saved
+		>>> Moltedo <<<
+		>>> Moltedo <<<
+Sleeping for 5.1 seconds, 2014-09-04 02:58:43
+Page [[Moltedo]] saved
+		>>> Naria <<<
+		>>> Naria <<<
+Sleeping for 6.1 seconds, 2014-09-04 02:58:52
+Page [[Naria]] saved
+		>>> Nati il 24 marzo <<<
+		>>> Nati il 24 marzo <<<
+Sleeping for 6.2 seconds, 2014-09-04 02:59:02
+Page [[Nati il 24 marzo]] saved
+		>>> Numa Sosa & the Guachos <<<
+		>>> Numa Sosa & the Guachos <<<
+Sleeping for 6.9 seconds, 2014-09-04 02:59:11
+Page [[Numa Sosa & the Guachos]] saved
+		>>> Premi e candidature per The Good Wife <<<
+		>>> Premi e candidature per The Good Wife <<<
+Sleeping for 8.3 seconds, 2014-09-04 02:59:20
+Page [[Premi e candidature per The Good Wife]] saved
+		>>> Remco Boere <<<
+		>>> Remco Boere <<<
+Sleeping for 5.9 seconds, 2014-09-04 02:59:32
+Page [[Remco Boere]] saved
+		>>> Riza Çalimbay <<<
+		>>> Riza Çalimbay <<<
+Sleeping for 5.1 seconds, 2014-09-04 02:59:43
+Page [[Riza Çalimbay]] saved
+		>>> San Marco (Milano) <<<
+		>>> San Marco (Milano) <<<
+Sleeping for 5.5 seconds, 2014-09-04 02:59:53
+Page [[San Marco (Milano)]] saved
+		>>> Sigillo d'autore <<<
+		>>> Sigillo d'autore <<<
+Sleeping for 7.2 seconds, 2014-09-04 03:00:01
+Page [[Sigillo d'autore]] saved
+		>>> Timante <<<
+		>>> Timante <<<
+Sleeping for 6.7 seconds, 2014-09-04 03:00:12
+Page [[Timante]] saved
+		>>> Trends <<<
+		>>> Trends <<<
+Sleeping for 6.7 seconds, 2014-09-04 03:00:22
+Page [[Trends]] saved
+		>>> Trijntje van Heerde <<<
+		>>> Trijntje van Heerde <<<
+Sleeping for 8.3 seconds, 2014-09-04 03:00:30
+Page [[Trijntje van Heerde]] saved
+Run time:  1.69
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Aaaaaaaaaaaaa <<<
+		>>> Aaaaaaaaaaaaa <<<
+Sleeping for 9.2 seconds, 2014-09-05 02:53:50
+Page [[Aaaaaaaaaaaaa]] saved
+		>>> Abdel Kader Sylla <<<
+		>>> Abdel Kader Sylla <<<
+Sleeping for 7.1 seconds, 2014-09-05 02:54:02
+Page [[Abdel Kader Sylla]] saved
+		>>> Aeroporto di Samarinda Temindung <<<
+		>>> Aeroporto di Samarinda Temindung <<<
+Sleeping for 6.9 seconds, 2014-09-05 02:54:13
+Page [[Aeroporto di Samarinda Temindung]] saved
+		>>> Aleksandr Aleksandrovic Kazakov <<< ***
+		>>> Aleksandr Aleksandrovic Kazakov <<< ***
+Sleeping for 6.9 seconds, 2014-09-05 02:54:23
+Page [[Aleksandr Aleksandrovic Kazakov]] saved ***
+		>>> Ammonio Litotomo <<<
+		>>> Ammonio Litotomo <<<
+Sleeping for 7.8 seconds, 2014-09-05 02:54:32
+Page [[Ammonio Litotomo]] saved
+		>>> Anna Maria Papi <<<
+		>>> Anna Maria Papi <<<
+Sleeping for 7.8 seconds, 2014-09-05 02:54:42
+Page [[Anna Maria Papi]] saved
+		>>> Archivio microfilmato della stampa di lingua tedesca <<<
+		>>> Archivio microfilmato della stampa di lingua tedesca <<<
+Sleeping for 8.2 seconds, 2014-09-05 02:54:51
+Page [[Archivio microfilmato della stampa di lingua tedesca]] saved
+		>>> Auguri Sandra! <<<
+		>>> Auguri Sandra! <<<
+Sleeping for 8.2 seconds, 2014-09-05 02:55:01
+Page [[Auguri Sandra!]] saved
+		>>> Codice Beta <<<
+		>>> Codice Beta <<<
+Sleeping for 7.6 seconds, 2014-09-05 02:55:12
+Page [[Codice Beta]] saved
+		>>> Coppa Italia di Serie B 2014 (calcio a 5) <<<
+		>>> Coppa Italia di Serie B 2014 (calcio a 5) <<<
+Sleeping for 8.0 seconds, 2014-09-05 02:55:22
+Page [[Coppa Italia di Serie B 2014 (calcio a 5)]] saved
+		>>> Elezioni comunali a Verona <<<
+		>>> Elezioni comunali a Verona <<<
+Sleeping for 7.1 seconds, 2014-09-05 02:55:32
+Page [[Elezioni comunali a Verona]] saved
+		>>> Forum UEFA Allenatori Club d'Èlite <<<
+		>>> Forum UEFA Allenatori Club d'Èlite <<<
+Sleeping for 6.3 seconds, 2014-09-05 02:55:43
+Page [[Forum UEFA Allenatori Club d'Èlite]] saved
+		>>> Giacomo Rossi (cestista) <<<
+		>>> Giacomo Rossi (cestista) <<<
+Sleeping for 7.6 seconds, 2014-09-05 02:55:52
+Page [[Giacomo Rossi (cestista)]] saved
+		>>> Head Defence (videogioco) <<<
+		>>> Head Defence (videogioco) <<<
+Sleeping for 7.4 seconds, 2014-09-05 02:56:02
+Page [[Head Defence (videogioco)]] saved
+		>>> I cani spaccano! I gatti rompono <<<
+		>>> I cani spaccano! I gatti rompono <<<
+Sleeping for 7.3 seconds, 2014-09-05 02:56:12
+Page [[I cani spaccano! I gatti rompono]] saved
+		>>> Ibrahim Rachidi <<<
+		>>> Ibrahim Rachidi <<<
+Sleeping for 6.5 seconds, 2014-09-05 02:56:23
+Page [[Ibrahim Rachidi]] saved
+		>>> Karl Petrovic Jessen <<< ***
+		>>> Karl Petrovic Jessen <<< ***
+Sleeping for 7.5 seconds, 2014-09-05 02:56:32
+Page [[Karl Petrovic Jessen]] saved ***
+		>>> Karlis Vatsons <<<
+		>>> Karlis Vatsons <<<
+Sleeping for 5.6 seconds, 2014-09-05 02:56:44
+Page [[Karlis Vatsons]] saved
+		>>> Kikko si fa le seghe <<<
+		>>> Kikko si fa le seghe <<<
+Sleeping for 7.5 seconds, 2014-09-05 02:56:52
+Page [[Kikko si fa le seghe]] saved
+		>>> Lesly de Sa <<<
+		>>> Lesly de Sa <<<
+Sleeping for 7.4 seconds, 2014-09-05 02:57:02
+Page [[Lesly de Sa]] saved
+		>>> Ma che oooh <<<
+		>>> Ma che oooh <<<
+Sleeping for 6.7 seconds, 2014-09-05 02:57:13
+Page [[Ma che oooh]] saved
+		>>> Michel Ettorre <<<
+		>>> Michel Ettorre <<<
+Sleeping for 7.8 seconds, 2014-09-05 02:57:22
+Page [[Michel Ettorre]] saved
+		>>> Numa Sosa & the Guachos <<<
+		>>> Numa Sosa & the Guachos <<<
+Sleeping for 7.3 seconds, 2014-09-05 02:57:32
+Page [[Numa Sosa & the Guachos]] saved
+		>>> Pentosano polisolfoestere <<<
+		>>> Pentosano polisolfoestere <<<
+Sleeping for 6.9 seconds, 2014-09-05 02:57:43
+Page [[Pentosano polisolfoestere]] saved
+		>>> Raffaele Minella <<<
+		>>> Raffaele Minella <<<
+Sleeping for 8.3 seconds, 2014-09-05 02:57:51
+Page [[Raffaele Minella]] saved
+		>>> Raganello <<<
+		>>> Raganello <<<
+Sleeping for 7.1 seconds, 2014-09-05 02:58:03
+Page [[Raganello]] saved
+		>>> Se mi bloccate la faccio fuori dal vasino e dico una parolaccia <<<
+		>>> Se mi bloccate la faccio fuori dal vasino e dico una parolaccia <<<
+Sleeping for 7.7 seconds, 2014-09-05 02:58:12
+Page [[Se mi bloccate la faccio fuori dal vasino e dico una parolaccia]] saved
+		>>> Stanza dei registri <<<
+		>>> Stanza dei registri <<<
+Sleeping for 8.1 seconds, 2014-09-05 02:58:22
+Page [[Stanza dei registri]] saved
+		>>> Vado ha nanna <<<
+		>>> Vado ha nanna <<<
+Sleeping for 8.1 seconds, 2014-09-05 02:58:32
+Page [[Vado ha nanna]] saved
+		>>> Vincere e vinceremo <<<
+		>>> Vincere e vinceremo <<<
+Sleeping for 7.9 seconds, 2014-09-05 02:58:42
+Page [[Vincere e vinceremo]] saved
+Run time:  1.15
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 2: Voodoo Academy <<<
+		>>> 2: Voodoo Academy <<<
+WARNING: API warning (tokens): action=tokens has been deprecated. Please use action=query&meta=tokens instead.
+Sleeping for 8.2 seconds, 2014-09-06 02:53:00
+Page [[2: Voodoo Academy]] saved
+		>>> Aeroporto civile di Noatak <<<
+		>>> Aeroporto civile di Noatak <<<
+Sleeping for 4.6 seconds, 2014-09-06 02:53:14
+Page [[Aeroporto civile di Noatak]] saved
+		>>> Axon <<<
+		>>> Axon <<<
+Sleeping for 7.2 seconds, 2014-09-06 02:53:21
+Page [[Axon]] saved
+		>>> Bandiera (spazio vettoriale) <<<
+		>>> Bandiera (spazio vettoriale) <<<
+Sleeping for 8.4 seconds, 2014-09-06 02:53:30
+Page [[Bandiera (spazio vettoriale)]] saved
+		>>> Chris Mortellaro <<<
+		>>> Chris Mortellaro <<<
+Sleeping for 7.9 seconds, 2014-09-06 02:53:40
+Page [[Chris Mortellaro]] saved
+		>>> Claudia Soberon <<<
+		>>> Claudia Soberon <<<
+Sleeping for 6.0 seconds, 2014-09-06 02:53:52
+Page [[Claudia Soberon]] saved
+		>>> Doju Dinajara Freire <<<
+		>>> Doju Dinajara Freire <<<
+Sleeping for 7.0 seconds, 2014-09-06 02:54:01
+Page [[Doju Dinajara Freire]] saved
+		>>> Elezioni comunali a Messina <<<
+		>>> Elezioni comunali a Messina <<<
+Sleeping for 4.7 seconds, 2014-09-06 02:54:14
+Page [[Elezioni comunali a Messina]] saved
+		>>> Enrique José Varona <<<
+		>>> Enrique José Varona <<<
+Sleeping for 4.7 seconds, 2014-09-06 02:54:24
+Page [[Enrique José Varona]] saved
+		>>> Episodi di Momi-Mania (prima stagione) <<<
+		>>> Episodi di Momi-Mania (prima stagione) <<<
+Sleeping for 3.3 seconds, 2014-09-06 02:54:35
+Page [[Episodi di Momi-Mania (prima stagione)]] saved
+		>>> Giovanni Custodero <<<
+		>>> Giovanni Custodero <<<
+Sleeping for 7.2 seconds, 2014-09-06 02:54:41
+Page [[Giovanni Custodero]] saved
+		>>> Hans Leesment <<<
+		>>> Hans Leesment <<<
+Sleeping for 8.0 seconds, 2014-09-06 02:54:50
+Page [[Hans Leesment]] saved
+		>>> Head Defence (videogioco) <<<
+		>>> Head Defence (videogioco) <<<
+Sleeping for 6.9 seconds, 2014-09-06 02:55:01
+Page [[Head Defence (videogioco)]] saved
+		>>> Holger Wehlage <<<
+		>>> Holger Wehlage <<<
+Sleeping for 6.0 seconds, 2014-09-06 02:55:12
+Page [[Holger Wehlage]] saved
+		>>> Ipsia Alberico Marrone Ischitella <<<
+		>>> Ipsia Alberico Marrone Ischitella <<<
+Sleeping for 6.7 seconds, 2014-09-06 02:55:22
+Page [[Ipsia Alberico Marrone Ischitella]] saved
+		>>> Joaquín Vizcaíno <<<
+		>>> Joaquín Vizcaíno <<<
+Sleeping for 8.4 seconds, 2014-09-06 02:55:30
+Page [[Joaquín Vizcaíno]] saved
+		>>> Josip Mikulic <<< ***
+		>>> Josip Mikulic <<< ***
+Sleeping for 6.8 seconds, 2014-09-06 02:55:42
+Page [[Josip Mikulic]] saved ***
+		>>> Juan Marinello <<<
+		>>> Juan Marinello <<<
+Sleeping for 7.5 seconds, 2014-09-06 02:55:51
+Page [[Juan Marinello]] saved
+		>>> Julian Dudda <<<
+		>>> Julian Dudda <<<
+Sleeping for 6.6 seconds, 2014-09-06 02:56:02
+Page [[Julian Dudda]] saved
+		>>> Marcos Painter <<<
+		>>> Marcos Painter <<<
+Sleeping for 6.7 seconds, 2014-09-06 02:56:12
+Page [[Marcos Painter]] saved
+		>>> Matthieu Louis-Jean <<<
+		>>> Matthieu Louis-Jean <<<
+Sleeping for 6.8 seconds, 2014-09-06 02:56:22
+Page [[Matthieu Louis-Jean]] saved
+		>>> Matthieu Verschuère <<<
+		>>> Matthieu Verschuère <<<
+Sleeping for 5.8 seconds, 2014-09-06 02:56:33
+Page [[Matthieu Verschuère]] saved
+		>>> Mestský Sportový Klub Zilina 2011-2012 <<< ***
+		>>> Mestský Sportový Klub Zilina 2011-2012 <<< ***
+Sleeping for 6.5 seconds, 2014-09-06 02:56:42
+Page [[Mestský Sportový Klub Zilina 2011-2012]] saved ***
+		>>> Nunzio Di Giulio <<<
+		>>> Nunzio Di Giulio <<<
+Sleeping for 7.5 seconds, 2014-09-06 02:56:51
+Page [[Nunzio Di Giulio]] saved
+		>>> Operazione Ukumiswa <<<
+		>>> Operazione Ukumiswa <<<
+Sleeping for 8.0 seconds, 2014-09-06 02:57:00
+Page [[Operazione Ukumiswa]] saved
+		>>> Out With Dad <<<
+		>>> Out With Dad <<<
+Sleeping for 8.3 seconds, 2014-09-06 02:57:10
+Page [[Out With Dad]] saved
+		>>> Panayiotis Panayiotou <<<
+		>>> Panayiotis Panayiotou <<<
+Sleeping for 7.4 seconds, 2014-09-06 02:57:21
+Page [[Panayiotis Panayiotou]] saved
+		>>> Paristech <<<
+		>>> Paristech <<<
+Sleeping for 7.3 seconds, 2014-09-06 02:57:31
+Page [[Paristech]] saved
+		>>> Peder Sather <<<
+		>>> Peder Sather <<<
+Sleeping for 8.1 seconds, 2014-09-06 02:57:40
+Page [[Peder Sather]] saved
+		>>> Peter Jánosík <<< ***
+		>>> Peter Jánosík <<< ***
+Sleeping for 5.0 seconds, 2014-09-06 02:57:53
+Page [[Peter Jánosík]] saved ***
+		>>> Pitoffo <<<
+		>>> Pitoffo <<<
+Sleeping for 7.3 seconds, 2014-09-06 02:58:01
+Page [[Pitoffo]] saved
+		>>> Ross Edgley <<<
+		>>> Ross Edgley <<<
+Sleeping for 7.9 seconds, 2014-09-06 02:58:11
+Page [[Ross Edgley]] saved
+		>>> Salif Nogo <<<
+		>>> Salif Nogo <<<
+Sleeping for 7.2 seconds, 2014-09-06 02:58:21
+Page [[Salif Nogo]] saved
+		>>> Stefano Mayorca <<<
+		>>> Stefano Mayorca <<<
+Sleeping for 6.8 seconds, 2014-09-06 02:58:32
+Page [[Stefano Mayorca]] saved
+		>>> Terence Keyes <<<
+		>>> Terence Keyes <<<
+Sleeping for 7.8 seconds, 2014-09-06 02:58:41
+Page [[Terence Keyes]] saved
+		>>> Tullio Calise <<<
+		>>> Tullio Calise <<<
+Sleeping for 7.8 seconds, 2014-09-06 02:58:51
+Page [[Tullio Calise]] saved
+		>>> Unità di misura storiche della Sicilia <<<
+		>>> Unità di misura storiche della Sicilia <<<
+Sleeping for 8.7 seconds, 2014-09-06 02:59:00
+Page [[Unità di misura storiche della Sicilia]] saved
+		>>> Wonky hole <<<
+		>>> Wonky hole <<<
+Sleeping for 8.1 seconds, 2014-09-06 02:59:10
+Page [[Wonky hole]] saved
+Run time:  1.5
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Big Soul Mama Gospel Choir <<<
+		>>> Big Soul Mama Gospel Choir <<<
+WARNING: API warning (tokens): action=tokens has been deprecated. Please use action=query&meta=tokens instead.
+Sleeping for 19.2 seconds, 2014-09-07 02:52:49
+Page [[Big Soul Mama Gospel Choir]] saved
+		>>> Blue Star Acid <<<
+		>>> Blue Star Acid <<<
+Sleeping for 18.6 seconds, 2014-09-07 02:53:09
+Page [[Blue Star Acid]] saved
+		>>> Chiesa dei Santi Pietro e Paolo (Cagliari) <<<
+		>>> Chiesa dei Santi Pietro e Paolo (Cagliari) <<<
+Sleeping for 17.7 seconds, 2014-09-07 02:53:30
+Page [[Chiesa dei Santi Pietro e Paolo (Cagliari)]] saved
+		>>> Commisario europeo <<<
+		>>> Commisario europeo <<<
+Sleeping for 18.4 seconds, 2014-09-07 02:53:49
+Page [[Commisario europeo]] saved
+		>>> Critica al patriarcato <<<
+		>>> Critica al patriarcato <<<
+Sleeping for 17.6 seconds, 2014-09-07 02:54:10
+Page [[Critica al patriarcato]] saved
+		>>> Danny Teeson <<<
+		>>> Danny Teeson <<<
+Sleeping for 16.6 seconds, 2014-09-07 02:54:31
+Page [[Danny Teeson]] saved
+		>>> Elenco delle fobie <<<
+		>>> Elenco delle fobie <<<
+Sleeping for 16.6 seconds, 2014-09-07 02:54:51
+Page [[Elenco delle fobie]] saved
+		>>> Elezioni comunali a Padova <<<
+		>>> Elezioni comunali a Padova <<<
+Sleeping for 18.4 seconds, 2014-09-07 02:55:09
+Page [[Elezioni comunali a Padova]] saved
+		>>> Episodi di Momi-Mania (prima stagione) <<<
+		>>> Episodi di Momi-Mania (prima stagione) <<<
+Sleeping for 17.6 seconds, 2014-09-07 02:55:30
+Page [[Episodi di Momi-Mania (prima stagione)]] saved
+		>>> Fortitudo 2000 <<<
+		>>> Fortitudo 2000 <<<
+Sleeping for 18.0 seconds, 2014-09-07 02:55:50
+Page [[Fortitudo 2000]] saved
+		>>> Gjon Kolndrekaj <<<
+		>>> Gjon Kolndrekaj <<<
+Sleeping for 17.1 seconds, 2014-09-07 02:56:11
+Page [[Gjon Kolndrekaj]] saved
+		>>> Lillian Askeland <<<
+		>>> Lillian Askeland <<<
+Sleeping for 17.5 seconds, 2014-09-07 02:56:30
+Page [[Lillian Askeland]] saved
+		>>> Luxuria (gruppo musicale) <<<
+		>>> Luxuria (gruppo musicale) <<<
+Sleeping for 18.0 seconds, 2014-09-07 02:56:50
+Page [[Luxuria (gruppo musicale)]] saved
+		>>> Mordraud, Libro Primo <<<
+		>>> Mordraud, Libro Primo <<<
+Sleeping for 17.7 seconds, 2014-09-07 02:57:10
+Page [[Mordraud, Libro Primo]] saved
+		>>> Santo Equizio <<<
+		>>> Santo Equizio <<<
+Sleeping for 17.8 seconds, 2014-09-07 02:57:30
+Page [[Santo Equizio]] saved
+		>>> Stadio Comunale Azzurri d'Italia <<<
+		>>> Stadio Comunale Azzurri d'Italia <<<
+Sleeping for 8.2 seconds, 2014-09-07 02:57:50
+Page [[Stadio Comunale Azzurri d'Italia]] saved
+		>>> Toyota FXV <<<
+		>>> Toyota FXV <<<
+Sleeping for 7.9 seconds, 2014-09-07 02:58:00
+Page [[Toyota FXV]] saved
+Run time:  0.63
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Aeroporto Long Island MacArthur <<<
+		>>> Aeroporto Long Island MacArthur <<<
+WARNING: API warning (tokens): action=tokens has been deprecated. Please use action=query&meta=tokens instead.
+Sleeping for 9.3 seconds, 2014-09-08 02:53:04
+Page [[Aeroporto Long Island MacArthur]] saved
+		>>> Aleksandr Aleksandrovic Kozlov <<< ***
+		>>> Aleksandr Aleksandrovic Kozlov <<< ***
+Sleeping for 7.8 seconds, 2014-09-08 02:53:15
+Page [[Aleksandr Aleksandrovic Kozlov]] saved ***
+		>>> Aleksandr Fëdorovic Kozen <<< ***
+		>>> Aleksandr Fëdorovic Kozen <<< ***
+Sleeping for 7.7 seconds, 2014-09-08 02:53:25
+Page [[Aleksandr Fëdorovic Kozen]] saved ***
+		>>> Alexander Murdoch Mackay <<<
+		>>> Alexander Murdoch Mackay <<<
+Sleeping for 7.3 seconds, 2014-09-08 02:53:36
+Page [[Alexander Murdoch Mackay]] saved
+		>>> Alien Abduction - Rapimenti Alieni <<< ***
+		>>> Alien Abduction - Rapimenti Alieni <<< ***
+Sleeping for 6.9 seconds, 2014-09-08 02:53:46
+Page [[Alien Abduction - Rapimenti Alieni]] saved ***
+		>>> Argemone mexicana <<<
+		>>> Argemone mexicana <<<
+Sleeping for 7.5 seconds, 2014-09-08 02:53:55
+Page [[Argemone mexicana]] saved
+		>>> Breath To Die <<<
+		>>> Breath To Die <<<
+Sleeping for 8.3 seconds, 2014-09-08 02:54:05
+Page [[Breath To Die]] saved
+		>>> Christian Ravaglioli <<<
+		>>> Christian Ravaglioli <<<
+Sleeping for 8.5 seconds, 2014-09-08 02:54:14
+Page [[Christian Ravaglioli]] saved
+		>>> Domenico Crocco <<<
+		>>> Domenico Crocco <<<
+Sleeping for 8.2 seconds, 2014-09-08 02:54:25
+Page [[Domenico Crocco]] saved
+		>>> Ernst von Mohl <<<
+		>>> Ernst von Mohl <<<
+Sleeping for 8.3 seconds, 2014-09-08 02:54:35
+Page [[Ernst von Mohl]] saved
+		>>> Forum UEFA Allenatori Club d'Èlite <<<
+		>>> Forum UEFA Allenatori Club d'Èlite <<<
+Sleeping for 8.0 seconds, 2014-09-08 02:54:45
+Page [[Forum UEFA Allenatori Club d'Èlite]] saved
+		>>> Gotthard Johann von Knorring <<<
+		>>> Gotthard Johann von Knorring <<<
+Sleeping for 7.9 seconds, 2014-09-08 02:54:55
+Page [[Gotthard Johann von Knorring]] saved
+		>>> Governo della Federazione russa <<<
+		>>> Governo della Federazione russa <<<
+Sleeping for 6.4 seconds, 2014-09-08 02:55:07
+Page [[Governo della Federazione russa]] saved
+		>>> Guerra degli emù <<<
+		>>> Guerra degli emù <<<
+Sleeping for 7.2 seconds, 2014-09-08 02:55:16
+Page [[Guerra degli emù]] saved
+		>>> Heckler & Koch VP9 <<<
+		>>> Heckler & Koch VP9 <<<
+Sleeping for 7.1 seconds, 2014-09-08 02:55:26
+Page [[Heckler & Koch VP9]] saved
+		>>> Isotipendile <<<
+		>>> Isotipendile <<<
+Sleeping for 8.2 seconds, 2014-09-08 02:55:35
+Page [[Isotipendile]] saved
+		>>> Istituto statale per sordi di Roma <<<
+		>>> Istituto statale per sordi di Roma <<<
+Sleeping for 8.0 seconds, 2014-09-08 02:55:45
+Page [[Istituto statale per sordi di Roma]] saved
+		>>> Jean Massieu <<<
+		>>> Jean Massieu <<<
+Sleeping for 6.2 seconds, 2014-09-08 02:55:57
+Page [[Jean Massieu]] saved
+		>>> Juan Manuel Delgado Moreno <<<
+		>>> Juan Manuel Delgado Moreno <<<
+Sleeping for 6.5 seconds, 2014-09-08 02:56:06
+Page [[Juan Manuel Delgado Moreno]] saved
+		>>> L'Auto Italiana <<<
+		>>> L'Auto Italiana <<<
+Sleeping for 7.3 seconds, 2014-09-08 02:56:16
+Page [[L'Auto Italiana]] saved
+		>>> Lucien Blanvillain <<<
+		>>> Lucien Blanvillain <<<
+Sleeping for 8.1 seconds, 2014-09-08 02:56:25
+Page [[Lucien Blanvillain]] saved
+		>>> Matt T. Baker <<<
+		>>> Matt T. Baker <<<
+Sleeping for 6.4 seconds, 2014-09-08 02:56:37
+Page [[Matt T. Baker]] saved
+		>>> Morgan SP1 <<<
+		>>> Morgan SP1 <<<
+Sleeping for 8.1 seconds, 2014-09-08 02:56:45
+Page [[Morgan SP1]] saved
+		>>> Moschea centrale di Edimburgo <<<
+		>>> Moschea centrale di Edimburgo <<<
+Sleeping for 7.9 seconds, 2014-09-08 02:56:55
+Page [[Moschea centrale di Edimburgo]] saved
+		>>> Music for EBE <<<
+		>>> Music for EBE <<<
+Sleeping for 6.1 seconds, 2014-09-08 02:57:07
+Page [[Music for EBE]] saved
+		>>> Pirenossina <<<
+		>>> Pirenossina <<<
+Sleeping for 6.8 seconds, 2014-09-08 02:57:16
+Page [[Pirenossina]] saved
+		>>> Processo formulare <<<
+		>>> Processo formulare <<<
+Sleeping for 8.4 seconds, 2014-09-08 02:57:25
+Page [[Processo formulare]] saved
+		>>> Protector USV <<<
+		>>> Protector USV <<<
+Sleeping for 8.2 seconds, 2014-09-08 02:57:35
+Page [[Protector USV]] saved
+		>>> Rafael Clavero <<<
+		>>> Rafael Clavero <<<
+Sleeping for 6.5 seconds, 2014-09-08 02:57:47
+Page [[Rafael Clavero]] saved
+		>>> Sbarro Orbital Wheel <<<
+		>>> Sbarro Orbital Wheel <<<
+Sleeping for 7.2 seconds, 2014-09-08 02:57:56
+Page [[Sbarro Orbital Wheel]] saved
+		>>> Stazione di Novi San Bovo <<<
+		>>> Stazione di Novi San Bovo <<<
+Sleeping for 7.8 seconds, 2014-09-08 02:58:05
+Page [[Stazione di Novi San Bovo]] saved
+		>>> Wallace Reed Brode <<<
+		>>> Wallace Reed Brode <<<
+Sleeping for 8.2 seconds, 2014-09-08 02:58:15
+Page [[Wallace Reed Brode]] saved
+Run time:  1.42
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Abu Omar al-Baghdadi <<<
+		>>> Abu Omar al-Baghdadi <<<
+WARNING: API warning (tokens): action=tokens has been deprecated. Please use action=query&meta=tokens instead.
+Sleeping for 8.8 seconds, 2014-09-09 02:53:07
+Page [[Abu Omar al-Baghdadi]] saved
+		>>> Bivacco Davide Salvadori <<<
+		>>> Bivacco Davide Salvadori <<<
+Sleeping for 7.9 seconds, 2014-09-09 02:53:18
+Page [[Bivacco Davide Salvadori]] saved
+		>>> Christian Ciech <<<
+		>>> Christian Ciech <<<
+Sleeping for 7.8 seconds, 2014-09-09 02:53:28
+Page [[Christian Ciech]] saved
+		>>> Convention bureau <<<
+		>>> Convention bureau <<<
+Sleeping for 8.1 seconds, 2014-09-09 02:53:38
+Page [[Convention bureau]] saved
+		>>> Due cuccioli nella savana <<<
+		>>> Due cuccioli nella savana <<<
+Sleeping for 8.1 seconds, 2014-09-09 02:53:48
+Page [[Due cuccioli nella savana]] saved
+		>>> Edith Prock <<<
+		>>> Edith Prock <<<
+Sleeping for 8.0 seconds, 2014-09-09 02:53:58
+Page [[Edith Prock]] saved
+		>>> Enzo De Fusco <<<
+		>>> Enzo De Fusco <<<
+Sleeping for 8.2 seconds, 2014-09-09 02:54:07
+Page [[Enzo De Fusco]] saved
+		>>> Galeazzo Nardini <<<
+		>>> Galeazzo Nardini <<<
+Sleeping for 8.4 seconds, 2014-09-09 02:54:17
+Page [[Galeazzo Nardini]] saved
+		>>> Gems (Patti LaBelle album) <<<
+		>>> Gems (Patti LaBelle album) <<<
+Sleeping for 7.6 seconds, 2014-09-09 02:54:28
+Page [[Gems (Patti LaBelle album)]] saved
+		>>> Imperialismo linguistico <<<
+		>>> Imperialismo linguistico <<<
+Sleeping for 6.6 seconds, 2014-09-09 02:54:39
+Page [[Imperialismo linguistico]] saved
+		>>> José León Pagano <<<
+		>>> José León Pagano <<<
+Sleeping for 8.2 seconds, 2014-09-09 02:54:48
+Page [[José León Pagano]] saved
+		>>> Kevin Visser <<<
+		>>> Kevin Visser <<<
+Sleeping for 5.1 seconds, 2014-09-09 02:55:01
+Page [[Kevin Visser]] saved
+		>>> La Rivista di Engramma <<<
+		>>> La Rivista di Engramma <<<
+Sleeping for 7.4 seconds, 2014-09-09 02:55:08
+Page [[La Rivista di Engramma]] saved
+		>>> Maila Ermini <<<
+		>>> Maila Ermini <<<
+Sleeping for 8.3 seconds, 2014-09-09 02:55:17
+Page [[Maila Ermini]] saved
+		>>> Multicooker <<<
+		>>> Multicooker <<<
+Sleeping for 8.4 seconds, 2014-09-09 02:55:27
+Page [[Multicooker]] saved
+		>>> Nazionale di beach soccer della Romania <<<
+		>>> Nazionale di beach soccer della Romania <<<
+Sleeping for 6.7 seconds, 2014-09-09 02:55:39
+Page [[Nazionale di beach soccer della Romania]] saved
+		>>> Nikolaj Vasil'evic Kopitov <<< ***
+		>>> Nikolaj Vasil'evic Kopitov <<< ***
+Sleeping for 7.4 seconds, 2014-09-09 02:55:48
+Page [[Nikolaj Vasil'evic Kopitov]] saved ***
+		>>> Orazio Maione <<<
+		>>> Orazio Maione <<<
+Sleeping for 7.5 seconds, 2014-09-09 02:55:58
+Page [[Orazio Maione]] saved
+		>>> Pagano Bolotino <<<
+		>>> Pagano Bolotino <<<
+Sleeping for 7.9 seconds, 2014-09-09 02:56:08
+Page [[Pagano Bolotino]] saved
+		>>> Phil Taylor (giocatore di freccette) <<<
+		>>> Phil Taylor (giocatore di freccette) <<<
+Sleeping for 7.2 seconds, 2014-09-09 02:56:19
+Page [[Phil Taylor (giocatore di freccette)]] saved
+		>>> Radek Onderka <<<
+		>>> Radek Onderka <<<
+Sleeping for 7.8 seconds, 2014-09-09 02:56:28
+Page [[Radek Onderka]] saved
+		>>> Silvio Dissegna <<<
+		>>> Silvio Dissegna <<<
+Sleeping for 6.5 seconds, 2014-09-09 02:56:39
+Page [[Silvio Dissegna]] saved
+		>>> SimilarWeb <<<
+		>>> SimilarWeb <<<
+Sleeping for 8.1 seconds, 2014-09-09 02:56:48
+Page [[SimilarWeb]] saved
+		>>> Sivar Arnér <<<
+		>>> Sivar Arnér <<<
+Sleeping for 6.9 seconds, 2014-09-09 02:56:59
+Run time:  0.82
+Traceback (most recent call last):
+  File "/data/project/alessiobot/add_orfana.py", line 51, in <module>
+    main()
+  File "/data/project/alessiobot/add_orfana.py", line 41, in main
+    page.put(newtxt, comment)
+  File "/shared/pywikipedia/core/pywikibot/page.py", line 1050, in put
+    **kwargs)
+  File "/shared/pywikipedia/core/pywikibot/tools.py", line 313, in wrapper
+    return method(*__args, **__kw)
+  File "/shared/pywikipedia/core/pywikibot/page.py", line 973, in save
+    **kwargs)
+  File "/shared/pywikipedia/core/pywikibot/page.py", line 997, in _save
+    raise pywikibot.OtherPageSaveError(self, err)
+pywikibot.exceptions.OtherPageSaveError: Edit to page [[Sivar ArnÃ©r]] failed:
+badtoken: Invalid token
+CRITICAL: Waiting for 1 network thread(s) to finish. Press ctrl-c to abort
+<class 'pywikibot.exceptions.OtherPageSaveError'>
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Alan Knight <<<
+		>>> Alan Knight <<<
+WARNING: API warning (tokens): action=tokens has been deprecated. Please use action=query&meta=tokens instead.
+Sleeping for 7.2 seconds, 2014-09-10 02:53:44
+Page [[Alan Knight]] saved
+		>>> Amilton Rodrigues de cristo <<<
+		>>> Amilton Rodrigues de cristo <<<
+Sleeping for 6.3 seconds, 2014-09-10 02:53:55
+Page [[Amilton Rodrigues de cristo]] saved
+		>>> Benefit corporation (forma giuridica di azienda) <<<
+		>>> Benefit corporation (forma giuridica di azienda) <<<
+Sleeping for 5.7 seconds, 2014-09-10 02:54:06
+Page [[Benefit corporation (forma giuridica di azienda)]] saved
+		>>> Dirty Dagoes <<<
+		>>> Dirty Dagoes <<<
+Sleeping for 5.4 seconds, 2014-09-10 02:54:16
+Page [[Dirty Dagoes]] saved
+		>>> Dreadnoughtus <<<
+		>>> Dreadnoughtus <<<
+Sleeping for 6.3 seconds, 2014-09-10 02:54:25
+Page [[Dreadnoughtus]] saved
+		>>> Episodi di Pocket Monsters XY: Shitsumon Pokémon <<<
+		>>> Episodi di Pocket Monsters XY: Shitsumon Pokémon <<<
+Page [[Episodi di Pocket Monsters XY: Shitsumon Pokémon]] saved
+		>>> Francesco Luigi Bianco <<<
+		>>> Francesco Luigi Bianco <<<
+Sleeping for 7.1 seconds, 2014-09-10 02:54:54
+Page [[Francesco Luigi Bianco]] saved
+		>>> Gian Luigi Capurso <<<
+		>>> Gian Luigi Capurso <<<
+Sleeping for 5.9 seconds, 2014-09-10 02:55:05
+Page [[Gian Luigi Capurso]] saved
+		>>> JFLAP <<<
+		>>> JFLAP <<<
+Sleeping for 7.8 seconds, 2014-09-10 02:55:13
+Page [[JFLAP]] saved
+		>>> Lista di vodka <<<
+		>>> Lista di vodka <<<
+Sleeping for 4.3 seconds, 2014-09-10 02:55:27
+Page [[Lista di vodka]] saved
+		>>> Meghan Trainor <<<
+		>>> Meghan Trainor <<<
+Page [[Meghan Trainor]] saved
+		>>> Ministri dell'Interno del Regno d'Italia <<<
+		>>> Ministri dell'Interno del Regno d'Italia <<<
+Page [[Ministri dell'Interno del Regno d'Italia]] saved
+		>>> OpenGamma <<<
+		>>> OpenGamma <<<
+Sleeping for 4.6 seconds, 2014-09-10 02:56:08
+Page [[OpenGamma]] saved
+		>>> Porta Nera (Besançon) <<<
+		>>> Porta Nera (Besançon) <<<
+Sleeping for 7.8 seconds, 2014-09-10 02:56:15
+Page [[Porta Nera (Besançon)]] saved
+		>>> Pravo na zizn' <<< ***
+		>>> Pravo na zizn' <<< ***
+Sleeping for 5.7 seconds, 2014-09-10 02:56:27
+Page [[Pravo na zizn']] saved ***
+		>>> Rafael Bado <<<
+		>>> Rafael Bado <<<
+Sleeping for 3.2 seconds, 2014-09-10 02:56:39
+Page [[Rafael Bado]] saved
+		>>> Rivoluzione ucraina del 2014 <<<
+		>>> Rivoluzione ucraina del 2014 <<<
+Sleeping for 6.1 seconds, 2014-09-10 02:56:46
+Page [[Rivoluzione ucraina del 2014]] saved
+		>>> Sergej Petrovic Kop'ev <<< ***
+		>>> Sergej Petrovic Kop'ev <<< ***
+Page [[Sergej Petrovic Kop'ev]] saved ***
+		>>> SimilarWeb <<<
+		>>> SimilarWeb <<<
+Sleeping for 5.9 seconds, 2014-09-10 02:57:07
+Page [[SimilarWeb]] saved
+		>>> Sivar Arnér <<<
+		>>> Sivar Arnér <<<
+Sleeping for 5.5 seconds, 2014-09-10 02:57:17
+Page [[Sivar Arnér]] saved
+		>>> Strumenti usati in chirurgia generale <<<
+		>>> Strumenti usati in chirurgia generale <<<
+Sleeping for 6.2 seconds, 2014-09-10 02:57:26
+Page [[Strumenti usati in chirurgia generale]] saved
+		>>> Tomás Zdechovský <<< ***
+		>>> Tomás Zdechovský <<< ***
+Sleeping for 5.0 seconds, 2014-09-10 02:57:38
+Page [[Tomás Zdechovský]] saved ***
+		>>> Trijntje van Heerde <<<
+		>>> Trijntje van Heerde <<<
+Sleeping for 6.7 seconds, 2014-09-10 02:57:46
+Page [[Trijntje van Heerde]] saved
+		>>> Turkvision Song Contest <<<
+		>>> Turkvision Song Contest <<<
+Sleeping for 6.8 seconds, 2014-09-10 02:57:56
+Page [[Turkvision Song Contest]] saved
+		>>> WWE Slam City <<<
+		>>> WWE Slam City <<<
+Sleeping for 6.8 seconds, 2014-09-10 02:58:06
+Page [[WWE Slam City]] saved
+		>>> Woman Napoli C5 <<<
+		>>> Woman Napoli C5 <<<
+Sleeping for 7.6 seconds, 2014-09-10 02:58:15
+Page [[Woman Napoli C5]] saved
+		>>> Yassin El-Azzouzi <<<
+		>>> Yassin El-Azzouzi <<<
+Sleeping for 7.6 seconds, 2014-09-10 02:58:25
+Page [[Yassin El-Azzouzi]] saved
+		>>> Yeghishé Charents <<<
+		>>> Yeghishé Charents <<<
+Sleeping for 5.3 seconds, 2014-09-10 02:58:37
+Page [[Yeghishé Charents]] saved
+Run time:  1.22
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Arcangelo Pisani <<<
+		>>> Arcangelo Pisani <<<
+WARNING: API warning (tokens): action=tokens has been deprecated. Please use action=query&meta=tokens instead.
+Sleeping for 8.7 seconds, 2014-09-11 02:53:14
+Page [[Arcangelo Pisani]] saved
+		>>> Complesso Bandistico Città di Introdacqua <<<
+		>>> Complesso Bandistico Città di Introdacqua <<<
+Sleeping for 5.5 seconds, 2014-09-11 02:53:27
+Page [[Complesso Bandistico Città di Introdacqua]] saved
+		>>> Elezioni comunali a Taranto <<<
+		>>> Elezioni comunali a Taranto <<<
+Sleeping for 6.6 seconds, 2014-09-11 02:53:36
+Page [[Elezioni comunali a Taranto]] saved
+		>>> Episodi di Pocket Monsters XY: Shitsumon Pokémon <<<
+		>>> Episodi di Pocket Monsters XY: Shitsumon Pokémon <<<
+Sleeping for 6.0 seconds, 2014-09-11 02:53:47
+Page [[Episodi di Pocket Monsters XY: Shitsumon Pokémon]] saved
+		>>> Gabriele Filippucci <<<
+		>>> Gabriele Filippucci <<<
+Sleeping for 7.1 seconds, 2014-09-11 02:53:55
+Page [[Gabriele Filippucci]] saved
+		>>> Harry Potter: Dalla pagina allo schermo - L'avventura cinematografica raccontata per immagini <<<
+		>>> Harry Potter: Dalla pagina allo schermo - L'avventura cinematografica raccontata per immagini <<<
+Sleeping for 8.0 seconds, 2014-09-11 02:54:05
+Page [[Harry Potter: Dalla pagina allo schermo - L'avventura cinematografica raccontata per immagini]] saved
+		>>> It Never Entered My Mind <<<
+		>>> It Never Entered My Mind <<<
+Sleeping for 7.8 seconds, 2014-09-11 02:54:15
+Page [[It Never Entered My Mind]] saved
+		>>> Ju Jitsu MMA Orbetello <<<
+		>>> Ju Jitsu MMA Orbetello <<<
+Sleeping for 7.6 seconds, 2014-09-11 02:54:25
+Page [[Ju Jitsu MMA Orbetello]] saved
+		>>> La moglie del cuoco <<<
+		>>> La moglie del cuoco <<<
+Sleeping for 5.8 seconds, 2014-09-11 02:54:37
+Page [[La moglie del cuoco]] saved
+		>>> Mario Tùnolo <<<
+		>>> Mario Tùnolo <<<
+Sleeping for 5.7 seconds, 2014-09-11 02:54:47
+Page [[Mario Tùnolo]] saved
+		>>> Mercedes-Benz AMG GT <<<
+		>>> Mercedes-Benz AMG GT <<<
+Sleeping for 6.4 seconds, 2014-09-11 02:54:56
+Page [[Mercedes-Benz AMG GT]] saved
+		>>> Saronno Volley <<<
+		>>> Saronno Volley <<<
+Sleeping for 6.2 seconds, 2014-09-11 02:55:06
+Page [[Saronno Volley]] saved
+		>>> Takaya Yabiku <<<
+		>>> Takaya Yabiku <<<
+Sleeping for 7.2 seconds, 2014-09-11 02:55:15
+Page [[Takaya Yabiku]] saved
+		>>> Trijntje van Heerde <<<
+		>>> Trijntje van Heerde <<<
+Sleeping for 8.4 seconds, 2014-09-11 02:55:24
+Page [[Trijntje van Heerde]] saved
+		>>> What If (EarlyRise) <<<
+		>>> What If (EarlyRise) <<<
+Sleeping for 5.8 seconds, 2014-09-11 02:55:37
+Page [[What If (EarlyRise)]] saved
+Run time:  0.62
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Anca Petrescu <<<
+		>>> Anca Petrescu <<<
+WARNING: API warning (tokens): action=tokens has been deprecated. Please use action=query&meta=tokens instead.
+Sleeping for 8.7 seconds, 2014-09-12 02:57:31
+Page [[Anca Petrescu]] saved
+		>>> Anna Maria Papi <<<
+		>>> Anna Maria Papi <<<
+Sleeping for 7.6 seconds, 2014-09-12 02:57:42
+Page [[Anna Maria Papi]] saved
+		>>> Atsu no Kokoro (anime) <<<
+		>>> Atsu no Kokoro (anime) <<<
+Sleeping for 6.9 seconds, 2014-09-12 02:57:53
+Page [[Atsu no Kokoro (anime)]] saved
+		>>> Bunce <<<
+		>>> Bunce <<<
+Sleeping for 6.5 seconds, 2014-09-12 02:58:03
+Page [[Bunce]] saved
+		>>> Cataldino Boncompagni <<<
+		>>> Cataldino Boncompagni <<<
+Sleeping for 5.3 seconds, 2014-09-12 02:58:14
+Page [[Cataldino Boncompagni]] saved
+		>>> Choy Gar <<<
+		>>> Choy Gar <<<
+Sleeping for 6.9 seconds, 2014-09-12 02:58:23
+Page [[Choy Gar]] saved
+		>>> Dapiprazolo <<<
+		>>> Dapiprazolo <<<
+Sleeping for 8.0 seconds, 2014-09-12 02:58:31
+Page [[Dapiprazolo]] saved
+		>>> Eijiro Tono <<< ***
+		>>> Eijiro Tono <<< ***
+Sleeping for 7.8 seconds, 2014-09-12 02:58:42
+Page [[Eijiro Tono]] saved ***
+		>>> Emedastina <<<
+		>>> Emedastina <<<
+Sleeping for 6.8 seconds, 2014-09-12 02:58:53
+Page [[Emedastina]] saved
+		>>> Giovanni di Palomar <<<
+		>>> Giovanni di Palomar <<<
+Sleeping for 8.3 seconds, 2014-09-12 02:59:01
+Page [[Giovanni di Palomar]] saved
+		>>> Lavoro italiano nel mondo <<<
+		>>> Lavoro italiano nel mondo <<<
+Sleeping for 6.9 seconds, 2014-09-12 02:59:13
+Page [[Lavoro italiano nel mondo]] saved
+		>>> Lingua arwi <<<
+		>>> Lingua arwi <<<
+Page [[Lingua arwi]] saved
+		>>> Lista di partiti politici brasiliani <<<
+		>>> Lista di partiti politici brasiliani <<<
+Sleeping for 5.5 seconds, 2014-09-12 02:59:36
+Page [[Lista di partiti politici brasiliani]] saved
+		>>> Overline <<<
+		>>> Overline <<<
+Sleeping for 5.2 seconds, 2014-09-12 02:59:46
+Page [[Overline]] saved
+		>>> Parte corpuscolata <<<
+		>>> Parte corpuscolata <<<
+Sleeping for 7.9 seconds, 2014-09-12 02:59:53
+Page [[Parte corpuscolata]] saved
+		>>> Quercia delle Checche <<<
+		>>> Quercia delle Checche <<<
+Sleeping for 6.7 seconds, 2014-09-12 03:00:05
+Page [[Quercia delle Checche]] saved
+		>>> Short Skin <<<
+		>>> Short Skin <<<
+Page [[Short Skin]] saved
+		>>> Sulfoguaiacolo <<<
+		>>> Sulfoguaiacolo <<<
+Sleeping for 4.9 seconds, 2014-09-12 03:00:26
+Page [[Sulfoguaiacolo]] saved
+		>>> Teorema di Nicomaco <<<
+		>>> Teorema di Nicomaco <<<
+Sleeping for 7.6 seconds, 2014-09-12 03:00:34
+Page [[Teorema di Nicomaco]] saved
+Run time:  0.66
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Accademia musicale jacopo napoli <<<
+		>>> Accademia musicale jacopo napoli <<<
+Sleeping for 9.2 seconds, 2014-09-13 02:52:45
+Page [[Accademia musicale jacopo napoli]] saved
+		>>> Brigata Berlino <<<
+		>>> Brigata Berlino <<<
+Sleeping for 8.1 seconds, 2014-09-13 02:52:56
+Page [[Brigata Berlino]] saved
+		>>> Casa paterna del Buonriposo <<<
+		>>> Casa paterna del Buonriposo <<<
+Sleeping for 7.9 seconds, 2014-09-13 02:53:06
+Page [[Casa paterna del Buonriposo]] saved
+		>>> Cavellini <<<
+		>>> Cavellini <<<
+Sleeping for 8.6 seconds, 2014-09-13 02:53:15
+Page [[Cavellini]] saved
+		>>> Coopergame <<<
+		>>> Coopergame <<<
+Sleeping for 7.7 seconds, 2014-09-13 02:53:26
+Page [[Coopergame]] saved
+		>>> Ju Jitsu MMA Orbetello <<<
+		>>> Ju Jitsu MMA Orbetello <<<
+Sleeping for 7.8 seconds, 2014-09-13 02:53:36
+Page [[Ju Jitsu MMA Orbetello]] saved
+		>>> MezzoSangue <<<
+		>>> MezzoSangue <<<
+Sleeping for 7.9 seconds, 2014-09-13 02:53:46
+Page [[MezzoSangue]] saved
+		>>> Michele Palatini <<<
+		>>> Michele Palatini <<<
+Sleeping for 7.7 seconds, 2014-09-13 02:53:56
+Page [[Michele Palatini]] saved
+		>>> Minuscule - Valley of the Lost Ants <<<
+		>>> Minuscule - Valley of the Lost Ants <<<
+Sleeping for 7.7 seconds, 2014-09-13 02:54:06
+Page [[Minuscule - Valley of the Lost Ants]] saved
+		>>> Rapaport diamond report <<<
+		>>> Rapaport diamond report <<<
+Sleeping for 7.7 seconds, 2014-09-13 02:54:16
+Page [[Rapaport diamond report]] saved
+		>>> Rico Vonck <<<
+		>>> Rico Vonck <<<
+Sleeping for 6.7 seconds, 2014-09-13 02:54:27
+Page [[Rico Vonck]] saved
+		>>> Roberto Martini <<<
+		>>> Roberto Martini <<<
+Sleeping for 8.1 seconds, 2014-09-13 02:54:36
+Page [[Roberto Martini]] saved
+		>>> Toyota 4500GT <<<
+		>>> Toyota 4500GT <<<
+Sleeping for 7.2 seconds, 2014-09-13 02:54:47
+Page [[Toyota 4500GT]] saved
+Run time:  0.53
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Alessandro Iandoli <<<
+		>>> Alessandro Iandoli <<<
+Sleeping for 16.7 seconds, 2014-09-14 02:52:55
+Page [[Alessandro Iandoli]] saved
+		>>> Andrej Nikolaevic Korf <<< ***
+		>>> Andrej Nikolaevic Korf <<< ***
+Sleeping for 16.6 seconds, 2014-09-14 02:53:15
+Page [[Andrej Nikolaevic Korf]] saved ***
+		>>> Astialo <<<
+		>>> Astialo <<<
+Sleeping for 17.9 seconds, 2014-09-14 02:53:34
+Page [[Astialo]] saved
+		>>> Bakusute Sotokanda Icchome <<<
+		>>> Bakusute Sotokanda Icchome <<<
+Sleeping for 17.1 seconds, 2014-09-14 02:53:55
+Page [[Bakusute Sotokanda Icchome]] saved
+		>>> Capi di governo del Burundi <<<
+		>>> Capi di governo del Burundi <<<
+Sleeping for 17.9 seconds, 2014-09-14 02:54:14
+Page [[Capi di governo del Burundi]] saved
+		>>> Chiesa Kretzulescu <<<
+		>>> Chiesa Kretzulescu <<<
+Sleeping for 17.6 seconds, 2014-09-14 02:54:34
+Page [[Chiesa Kretzulescu]] saved
+		>>> Dreso <<<
+		>>> Dreso <<<
+Sleeping for 17.9 seconds, 2014-09-14 02:54:54
+Page [[Dreso]] saved
+		>>> Elenco dei Presidenti del Molise <<<
+		>>> Elenco dei Presidenti del Molise <<<
+Sleeping for 18.2 seconds, 2014-09-14 02:55:14
+Page [[Elenco dei Presidenti del Molise]] saved
+		>>> Elenco dei Presidenti del Piemonte <<<
+		>>> Elenco dei Presidenti del Piemonte <<<
+Sleeping for 18.5 seconds, 2014-09-14 02:55:33
+Page [[Elenco dei Presidenti del Piemonte]] saved
+		>>> Elenco dei Presidenti dell'Egitto <<<
+		>>> Elenco dei Presidenti dell'Egitto <<<
+Sleeping for 18.5 seconds, 2014-09-14 02:55:53
+Page [[Elenco dei Presidenti dell'Egitto]] saved
+		>>> Elenco dei Presidenti dell'Umbria <<<
+		>>> Elenco dei Presidenti dell'Umbria <<<
+Sleeping for 18.3 seconds, 2014-09-14 02:56:13
+Page [[Elenco dei Presidenti dell'Umbria]] saved
+		>>> Elenco dei Presidenti della Calabria <<<
+		>>> Elenco dei Presidenti della Calabria <<<
+Sleeping for 18.7 seconds, 2014-09-14 02:56:33
+Page [[Elenco dei Presidenti della Calabria]] saved
+		>>> Elenco dei Presidenti della Campania <<<
+		>>> Elenco dei Presidenti della Campania <<<
+Sleeping for 18.7 seconds, 2014-09-14 02:56:53
+Page [[Elenco dei Presidenti della Campania]] saved
+		>>> Elenco dei Presidenti della Corte costituzionale <<<
+		>>> Elenco dei Presidenti della Corte costituzionale <<<
+Sleeping for 18.3 seconds, 2014-09-14 02:57:14
+Page [[Elenco dei Presidenti della Corte costituzionale]] saved
+		>>> Elenco dei Presidenti della Regione siciliana <<<
+		>>> Elenco dei Presidenti della Regione siciliana <<<
+Sleeping for 18.4 seconds, 2014-09-14 02:57:33
+Page [[Elenco dei Presidenti della Regione siciliana]] saved
+		>>> Elenco dei Presidenti della Repubblica d'Irlanda <<<
+		>>> Elenco dei Presidenti della Repubblica d'Irlanda <<<
+Sleeping for 8.3 seconds, 2014-09-14 02:57:54
+Page [[Elenco dei Presidenti della Repubblica d'Irlanda]] saved
+		>>> Elenco dei Presidenti della Toscana <<<
+		>>> Elenco dei Presidenti della Toscana <<<
+Sleeping for 8.5 seconds, 2014-09-14 02:58:03
+Page [[Elenco dei Presidenti della Toscana]] saved
+		>>> Elenco dei capi di governo del Burundi <<<
+		>>> Elenco dei capi di governo del Burundi <<<
+Sleeping for 8.6 seconds, 2014-09-14 02:58:13
+Page [[Elenco dei capi di governo del Burundi]] saved
+		>>> Elenco dei capi di stato e di governo in carica <<<
+		>>> Elenco dei capi di stato e di governo in carica <<<
+Sleeping for 8.5 seconds, 2014-09-14 02:58:23
+Page [[Elenco dei capi di stato e di governo in carica]] saved
+		>>> Elenco dei langravi di Turingia <<<
+		>>> Elenco dei langravi di Turingia <<<
+Sleeping for 8.5 seconds, 2014-09-14 02:58:33
+Page [[Elenco dei langravi di Turingia]] saved
+		>>> Elenco dei monarchi francesi <<<
+		>>> Elenco dei monarchi francesi <<<
+Sleeping for 8.5 seconds, 2014-09-14 02:58:43
+Page [[Elenco dei monarchi francesi]] saved
+		>>> Elenco dei presidenti algerini <<<
+		>>> Elenco dei presidenti algerini <<<
+Sleeping for 8.1 seconds, 2014-09-14 02:58:54
+Page [[Elenco dei presidenti algerini]] saved
+		>>> Elenco dei presidenti del Burundi <<<
+		>>> Elenco dei presidenti del Burundi <<<
+Sleeping for 8.7 seconds, 2014-09-14 02:59:03
+Page [[Elenco dei presidenti del Burundi]] saved
+		>>> Elenco dei presidenti della Repubblica di Cina <<<
+		>>> Elenco dei presidenti della Repubblica di Cina <<<
+Sleeping for 7.9 seconds, 2014-09-14 02:59:14
+Page [[Elenco dei presidenti della Repubblica di Cina]] saved
+		>>> Evan George Mackenzie <<<
+		>>> Evan George Mackenzie <<<
+Sleeping for 7.6 seconds, 2014-09-14 02:59:24
+Page [[Evan George Mackenzie]] saved
+		>>> Giuliano Cesarini (1398 - 1444) <<<
+		>>> Giuliano Cesarini (1398 - 1444) <<<
+Sleeping for 6.9 seconds, 2014-09-14 02:59:35
+Page [[Giuliano Cesarini (1398 - 1444)]] saved
+		>>> Guglielmo Guastaveglia <<<
+		>>> Guglielmo Guastaveglia <<<
+Sleeping for 8.3 seconds, 2014-09-14 02:59:44
+Page [[Guglielmo Guastaveglia]] saved
+		>>> Icat Food <<<
+		>>> Icat Food <<<
+Sleeping for 7.0 seconds, 2014-09-14 02:59:55
+Page [[Icat Food]] saved
+		>>> John Stuart Mackenzie <<<
+		>>> John Stuart Mackenzie <<<
+Sleeping for 6.7 seconds, 2014-09-14 03:00:05
+Page [[John Stuart Mackenzie]] saved
+		>>> Melantio <<<
+		>>> Melantio <<<
+Sleeping for 7.7 seconds, 2014-09-14 03:00:14
+Page [[Melantio]] saved
+		>>> Mutunus Tutunus <<<
+		>>> Mutunus Tutunus <<<
+Sleeping for 8.3 seconds, 2014-09-14 03:00:24
+Page [[Mutunus Tutunus]] saved
+		>>> Oh Mummy <<<
+		>>> Oh Mummy <<<
+Sleeping for 7.2 seconds, 2014-09-14 03:00:35
+Page [[Oh Mummy]] saved
+		>>> Ritmo di Euclide <<<
+		>>> Ritmo di Euclide <<<
+Sleeping for 7.8 seconds, 2014-09-14 03:00:44
+Page [[Ritmo di Euclide]] saved
+		>>> Roma 51 <<<
+		>>> Roma 51 <<<
+Sleeping for 8.0 seconds, 2014-09-14 03:00:54
+Page [[Roma 51]] saved
+		>>> Stuart Dodd <<<
+		>>> Stuart Dodd <<<
+Sleeping for 8.3 seconds, 2014-09-14 03:01:04
+Page [[Stuart Dodd]] saved
+Run time:  1.08
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Agostino Agrillo <<<
+		>>> Agostino Agrillo <<<
+Sleeping for 9.1 seconds, 2014-09-15 02:55:03
+Page [[Agostino Agrillo]] saved
+		>>> Amadaiya Rennie <<<
+		>>> Amadaiya Rennie <<<
+Sleeping for 7.6 seconds, 2014-09-15 02:55:14
+Page [[Amadaiya Rennie]] saved
+		>>> Bertrand Badie <<<
+		>>> Bertrand Badie <<<
+Sleeping for 6.9 seconds, 2014-09-15 02:55:25
+Page [[Bertrand Badie]] saved
+		>>> Cabin Fever 3: Patient Zero <<<
+		>>> Cabin Fever 3: Patient Zero <<<
+Sleeping for 8.3 seconds, 2014-09-15 02:55:34
+Page [[Cabin Fever 3: Patient Zero]] saved
+		>>> Costante di Fenori <<<
+		>>> Costante di Fenori <<<
+Sleeping for 7.9 seconds, 2014-09-15 02:55:44
+Page [[Costante di Fenori]] saved
+		>>> Daffy Holden <<<
+		>>> Daffy Holden <<<
+Sleeping for 8.2 seconds, 2014-09-15 02:55:54
+Page [[Daffy Holden]] saved
+		>>> Droga jaba <<<
+		>>> Droga jaba <<<
+Sleeping for 8.3 seconds, 2014-09-15 02:56:04
+Page [[Droga jaba]] saved
+		>>> Elitettan <<<
+		>>> Elitettan <<<
+Sleeping for 8.1 seconds, 2014-09-15 02:56:14
+Page [[Elitettan]] saved
+		>>> Hamish French <<<
+		>>> Hamish French <<<
+Sleeping for 8.0 seconds, 2014-09-15 02:56:24
+Page [[Hamish French]] saved
+		>>> Jonas Lundén <<<
+		>>> Jonas Lundén <<<
+Sleeping for 6.7 seconds, 2014-09-15 02:56:35
+Page [[Jonas Lundén]] saved
+		>>> Nicholas Cusack <<<
+		>>> Nicholas Cusack <<<
+Sleeping for 6.4 seconds, 2014-09-15 02:56:46
+Page [[Nicholas Cusack]] saved
+		>>> Pavel Pavlovic Korf <<< ***
+		>>> Pavel Pavlovic Korf <<< ***
+Sleeping for 7.3 seconds, 2014-09-15 02:56:55
+Page [[Pavel Pavlovic Korf]] saved ***
+		>>> Stuart Beedie <<<
+		>>> Stuart Beedie <<<
+Sleeping for 7.4 seconds, 2014-09-15 02:57:05
+Page [[Stuart Beedie]] saved
+		>>> Stuart Malcolm <<<
+		>>> Stuart Malcolm <<<
+Sleeping for 7.0 seconds, 2014-09-15 02:57:15
+Page [[Stuart Malcolm]] saved
+		>>> Viareggio 2014 <<<
+		>>> Viareggio 2014 <<<
+Sleeping for 4.3 seconds, 2014-09-15 02:57:28
+Page [[Viareggio 2014]] saved
+		>>> Yaya Adamou <<<
+		>>> Yaya Adamou <<<
+Sleeping for 7.6 seconds, 2014-09-15 02:57:34
+Page [[Yaya Adamou]] saved
+Run time:  0.62
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> (in)certe stanze <<<
+		>>> (in)certe stanze <<<
+Sleeping for 8.6 seconds, 2014-09-16 02:53:10
+Page [[(in)certe stanze]] saved
+		>>> Adolf Bredo Stabell <<<
+		>>> Adolf Bredo Stabell <<<
+Sleeping for 6.9 seconds, 2014-09-16 02:53:22
+Page [[Adolf Bredo Stabell]] saved
+		>>> Albert Hull <<<
+		>>> Albert Hull <<<
+Sleeping for 8.2 seconds, 2014-09-16 02:53:31
+Page [[Albert Hull]] saved
+		>>> Axel Revold <<<
+		>>> Axel Revold <<<
+Sleeping for 7.0 seconds, 2014-09-16 02:53:42
+Page [[Axel Revold]] saved
+		>>> Basil the rat <<<
+		>>> Basil the rat <<<
+Sleeping for 7.3 seconds, 2014-09-16 02:53:52
+Page [[Basil the rat]] saved
+		>>> Basin de sundri <<<
+		>>> Basin de sundri <<<
+Sleeping for 8.7 seconds, 2014-09-16 02:54:00
+Page [[Basin de sundri]] saved
+		>>> Battaglia per il Castello di Itter <<<
+		>>> Battaglia per il Castello di Itter <<<
+Sleeping for 7.9 seconds, 2014-09-16 02:54:11
+Page [[Battaglia per il Castello di Itter]] saved
+		>>> Candida Amato <<<
+		>>> Candida Amato <<<
+Sleeping for 7.4 seconds, 2014-09-16 02:54:22
+Page [[Candida Amato]] saved
+		>>> Celtis Australis o Bagolaro <<<
+		>>> Celtis Australis o Bagolaro <<<
+Sleeping for 8.2 seconds, 2014-09-16 02:54:31
+Page [[Celtis Australis o Bagolaro]] saved
+		>>> Elezioni comunali a Brescia <<<
+		>>> Elezioni comunali a Brescia <<<
+Sleeping for 8.6 seconds, 2014-09-16 02:54:40
+Page [[Elezioni comunali a Brescia]] saved
+		>>> Federazione di Sac Italiana <<<
+		>>> Federazione di Sac Italiana <<<
+Sleeping for 7.7 seconds, 2014-09-16 02:54:51
+Page [[Federazione di Sac Italiana]] saved
+		>>> Film tedeschi proposti per l'Oscar al miglior film straniero <<<
+		>>> Film tedeschi proposti per l'Oscar al miglior film straniero <<<
+Sleeping for 7.9 seconds, 2014-09-16 02:55:01
+Page [[Film tedeschi proposti per l'Oscar al miglior film straniero]] saved
+		>>> Fredrik Vogt <<<
+		>>> Fredrik Vogt <<<
+Sleeping for 8.1 seconds, 2014-09-16 02:55:11
+Page [[Fredrik Vogt]] saved
+		>>> Johan Thorne <<<
+		>>> Johan Thorne <<<
+Sleeping for 7.9 seconds, 2014-09-16 02:55:21
+Page [[Johan Thorne]] saved
+		>>> Lauritz Opstad <<<
+		>>> Lauritz Opstad <<<
+Sleeping for 8.0 seconds, 2014-09-16 02:55:31
+Page [[Lauritz Opstad]] saved
+		>>> Martino Ghisolfi <<<
+		>>> Martino Ghisolfi <<<
+Sleeping for 7.5 seconds, 2014-09-16 02:55:42
+Page [[Martino Ghisolfi]] saved
+		>>> Santa Maria dell'Elemosina <<<
+		>>> Santa Maria dell'Elemosina <<<
+Sleeping for 7.5 seconds, 2014-09-16 02:55:52
+Page [[Santa Maria dell'Elemosina]] saved
+		>>> Turbine (Marvel Comics) <<<
+		>>> Turbine (Marvel Comics) <<<
+Sleeping for 8.1 seconds, 2014-09-16 02:56:01
+Page [[Turbine (Marvel Comics)]] saved
+		>>> Ugo Borghello <<<
+		>>> Ugo Borghello <<<
+Sleeping for 8.1 seconds, 2014-09-16 02:56:11
+Page [[Ugo Borghello]] saved
+		>>> Villa Malfatti Balladoro <<<
+		>>> Villa Malfatti Balladoro <<<
+Sleeping for 8.4 seconds, 2014-09-16 02:56:21
+Page [[Villa Malfatti Balladoro]] saved
+		>>> Wallace Osgood Fenn <<<
+		>>> Wallace Osgood Fenn <<<
+Sleeping for 8.6 seconds, 2014-09-16 02:56:31
+Page [[Wallace Osgood Fenn]] saved
+Run time:  0.76
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Bjorn Mánagoði <<< ***
+		>>> Bjorn Mánagoði <<< ***
+Sleeping for 8.2 seconds, 2014-09-17 02:53:32
+Page [[Bjorn Mánagoði]] saved ***
+		>>> Charlie Aitken (calciatore 1932) <<<
+		>>> Charlie Aitken (calciatore 1932) <<<
+Sleeping for 6.6 seconds, 2014-09-17 02:53:43
+Page [[Charlie Aitken (calciatore 1932)]] saved
+		>>> Chelsea wolfe <<<
+		>>> Chelsea wolfe <<<
+Sleeping for 7.8 seconds, 2014-09-17 02:53:52
+Page [[Chelsea wolfe]] saved
+		>>> Chinggis <<<
+		>>> Chinggis <<<
+Sleeping for 8.3 seconds, 2014-09-17 02:54:01
+Page [[Chinggis]] saved
+		>>> Christophe Marichez <<<
+		>>> Christophe Marichez <<<
+Sleeping for 7.3 seconds, 2014-09-17 02:54:12
+Page [[Christophe Marichez]] saved
+		>>> Cosmografia mesopotamica <<<
+		>>> Cosmografia mesopotamica <<<
+Sleeping for 7.0 seconds, 2014-09-17 02:54:23
+Page [[Cosmografia mesopotamica]] saved
+		>>> Dovgan <<<
+		>>> Dovgan <<<
+Sleeping for 7.7 seconds, 2014-09-17 02:54:32
+Page [[Dovgan]] saved
+		>>> Erik Colban <<<
+		>>> Erik Colban <<<
+Sleeping for 7.3 seconds, 2014-09-17 02:54:42
+Page [[Erik Colban]] saved
+		>>> Federica Vari <<<
+		>>> Federica Vari <<<
+Sleeping for 8.0 seconds, 2014-09-17 02:54:52
+Page [[Federica Vari]] saved
+		>>> Five Nights at Freddy's <<<
+		>>> Five Nights at Freddy's <<<
+Sleeping for 8.2 seconds, 2014-09-17 02:55:02
+Page [[Five Nights at Freddy's]] saved
+		>>> Gene Gotti <<<
+		>>> Gene Gotti <<<
+Sleeping for 7.6 seconds, 2014-09-17 02:55:12
+Page [[Gene Gotti]] saved
+		>>> Gunnar Brunvoll <<<
+		>>> Gunnar Brunvoll <<<
+Sleeping for 7.1 seconds, 2014-09-17 02:55:23
+Page [[Gunnar Brunvoll]] saved
+		>>> Igor Gjuzelov <<<
+		>>> Igor Gjuzelov <<<
+Sleeping for 6.3 seconds, 2014-09-17 02:55:33
+Page [[Igor Gjuzelov]] saved
+		>>> Jacob Thurmann Ihlen <<<
+		>>> Jacob Thurmann Ihlen <<<
+Sleeping for 7.8 seconds, 2014-09-17 02:55:42
+Page [[Jacob Thurmann Ihlen]] saved
+		>>> Krupnik <<<
+		>>> Krupnik <<<
+Sleeping for 7.6 seconds, 2014-09-17 02:55:52
+Page [[Krupnik]] saved
+		>>> Martin Devaney <<<
+		>>> Martin Devaney <<<
+Sleeping for 7.5 seconds, 2014-09-17 02:56:02
+Page [[Martin Devaney]] saved
+		>>> Nicolas Marin <<<
+		>>> Nicolas Marin <<<
+Sleeping for 6.5 seconds, 2014-09-17 02:56:13
+Page [[Nicolas Marin]] saved
+		>>> Non-Summit <<<
+		>>> Non-Summit <<<
+Sleeping for 4.8 seconds, 2014-09-17 02:56:25
+Page [[Non-Summit]] saved
+		>>> Palazzo Cisterna (Roma) <<<
+		>>> Palazzo Cisterna (Roma) <<<
+Sleeping for 7.2 seconds, 2014-09-17 02:56:33
+Page [[Palazzo Cisterna (Roma)]] saved
+		>>> Pseudonotidanidae <<<
+		>>> Pseudonotidanidae <<<
+Sleeping for 8.0 seconds, 2014-09-17 02:56:42
+Page [[Pseudonotidanidae]] saved
+		>>> Putinka <<<
+		>>> Putinka <<<
+Sleeping for 8.3 seconds, 2014-09-17 02:56:52
+Page [[Putinka]] saved
+		>>> Rami Abu Salah <<<
+		>>> Rami Abu Salah <<<
+Sleeping for 7.7 seconds, 2014-09-17 02:57:02
+Page [[Rami Abu Salah]] saved
+		>>> Royal Revolt 2 <<<
+		>>> Royal Revolt 2 <<<
+Sleeping for 7.6 seconds, 2014-09-17 02:57:12
+Page [[Royal Revolt 2]] saved
+		>>> Ruskova <<<
+		>>> Ruskova <<<
+Sleeping for 8.2 seconds, 2014-09-17 02:57:22
+Page [[Ruskova]] saved
+		>>> Statistiche e record di Stanislas Wawrinka <<<
+		>>> Statistiche e record di Stanislas Wawrinka <<<
+Sleeping for 5.4 seconds, 2014-09-17 02:57:34
+Page [[Statistiche e record di Stanislas Wawrinka]] saved
+		>>> Stéphane Borbiconi <<<
+		>>> Stéphane Borbiconi <<<
+Page [[Stéphane Borbiconi]] saved
+		>>> Tsaidamotherium <<<
+		>>> Tsaidamotherium <<<
+Sleeping for 7.1 seconds, 2014-09-17 02:57:53
+Page [[Tsaidamotherium]] saved
+		>>> Wilhelm Munthe <<<
+		>>> Wilhelm Munthe <<<
+Sleeping for 8.1 seconds, 2014-09-17 02:58:02
+Page [[Wilhelm Munthe]] saved
+		>>> Xan (vodka) <<<
+		>>> Xan (vodka) <<<
+Sleeping for 7.7 seconds, 2014-09-17 02:58:12
+Page [[Xan (vodka)]] saved
+		>>> Zaranoff <<<
+		>>> Zaranoff <<<
+Sleeping for 8.2 seconds, 2014-09-17 02:58:22
+Page [[Zaranoff]] saved
+Run time:  1.35
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Abiyev Marat Zhaksylykovich <<<
+		>>> Abiyev Marat Zhaksylykovich <<<
+Sleeping for 8.1 seconds, 2014-09-18 02:54:31
+Page [[Abiyev Marat Zhaksylykovich]] saved
+		>>> Alice Ball <<<
+		>>> Alice Ball <<<
+Sleeping for 6.4 seconds, 2014-09-18 02:54:43
+Page [[Alice Ball]] saved
+		>>> Andrzej Ciechanowiecki <<<
+		>>> Andrzej Ciechanowiecki <<<
+Sleeping for 7.2 seconds, 2014-09-18 02:54:52
+Page [[Andrzej Ciechanowiecki]] saved
+		>>> Bibliografia su Napoleone Bonaparte <<<
+		>>> Bibliografia su Napoleone Bonaparte <<<
+Sleeping for 7.1 seconds, 2014-09-18 02:55:02
+Page [[Bibliografia su Napoleone Bonaparte]] saved
+		>>> Buddy Valastro Junior <<<
+		>>> Buddy Valastro Junior <<<
+Sleeping for 7.8 seconds, 2014-09-18 02:55:12
+Page [[Buddy Valastro Junior]] saved
+		>>> CVT M-2 Veltro <<<
+		>>> CVT M-2 Veltro <<<
+Sleeping for 7.8 seconds, 2014-09-18 02:55:22
+Page [[CVT M-2 Veltro]] saved
+		>>> Elisabeth Voskuijl <<<
+		>>> Elisabeth Voskuijl <<<
+Sleeping for 7.9 seconds, 2014-09-18 02:55:32
+Page [[Elisabeth Voskuijl]] saved
+		>>> Erik Sandvärn <<<
+		>>> Erik Sandvärn <<<
+Sleeping for 6.1 seconds, 2014-09-18 02:55:44
+Page [[Erik Sandvärn]] saved
+		>>> Giovanni di Tui <<<
+		>>> Giovanni di Tui <<<
+Sleeping for 7.4 seconds, 2014-09-18 02:55:52
+Page [[Giovanni di Tui]] saved
+		>>> Haruwo <<<
+		>>> Haruwo <<<
+Sleeping for 6.7 seconds, 2014-09-18 02:56:03
+Page [[Haruwo]] saved
+		>>> Jan van den Brink <<<
+		>>> Jan van den Brink <<<
+Sleeping for 7.5 seconds, 2014-09-18 02:56:12
+Page [[Jan van den Brink]] saved
+		>>> Jeanne Perego <<<
+		>>> Jeanne Perego <<<
+Sleeping for 7.9 seconds, 2014-09-18 02:56:22
+Page [[Jeanne Perego]] saved
+		>>> Johannes Sejersted Bødtker <<<
+		>>> Johannes Sejersted Bødtker <<<
+Sleeping for 7.8 seconds, 2014-09-18 02:56:32
+Page [[Johannes Sejersted Bødtker]] saved
+		>>> Kirby VS Bomberman - aozora-jo no yume no shototsu <<< ***
+		>>> Kirby VS Bomberman - aozora-jo no yume no shototsu <<< ***
+Sleeping for 7.4 seconds, 2014-09-18 02:56:42
+Page [[Kirby VS Bomberman - aozora-jo no yume no shototsu]] saved ***
+		>>> Marco Albeltaro <<<
+		>>> Marco Albeltaro <<<
+Sleeping for 8.0 seconds, 2014-09-18 02:56:52
+Page [[Marco Albeltaro]] saved
+		>>> Minipops 67 <<<
+		>>> Minipops 67 <<<
+Sleeping for 7.0 seconds, 2014-09-18 02:57:03
+Page [[Minipops 67]] saved
+		>>> Niklas Kreutzmann <<<
+		>>> Niklas Kreutzmann <<<
+Sleeping for 5.7 seconds, 2014-09-18 02:57:14
+Page [[Niklas Kreutzmann]] saved
+		>>> Offa di Benevento <<<
+		>>> Offa di Benevento <<<
+Sleeping for 7.1 seconds, 2014-09-18 02:57:23
+Page [[Offa di Benevento]] saved
+		>>> Operazione SVA 2012 <<<
+		>>> Operazione SVA 2012 <<<
+Sleeping for 8.0 seconds, 2014-09-18 02:57:32
+Page [[Operazione SVA 2012]] saved
+		>>> Palazzo Barbò di Torre Pallavicina <<<
+		>>> Palazzo Barbò di Torre Pallavicina <<<
+Sleeping for 8.4 seconds, 2014-09-18 02:57:41
+Page [[Palazzo Barbò di Torre Pallavicina]] saved
+		>>> Tg l'una, quasi un rotocalco per la domenica <<<
+		>>> Tg l'una, quasi un rotocalco per la domenica <<<
+Sleeping for 8.4 seconds, 2014-09-18 02:57:51
+Page [[Tg l'una, quasi un rotocalco per la domenica]] saved
+		>>> The Flight <<<
+		>>> The Flight <<<
+Sleeping for 7.6 seconds, 2014-09-18 02:58:02
+Page [[The Flight]] saved
+		>>> Tiziano Fusella <<<
+		>>> Tiziano Fusella <<<
+Sleeping for 8.0 seconds, 2014-09-18 02:58:12
+Page [[Tiziano Fusella]] saved
+		>>> Università Tecnica Federico Santa María <<<
+		>>> Università Tecnica Federico Santa María <<<
+Sleeping for 8.2 seconds, 2014-09-18 02:58:22
+Page [[Università Tecnica Federico Santa María]] saved
+Run time:  0.89
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 1999 XS35 <<<
+		>>> 1999 XS35 <<<
+Sleeping for 8.3 seconds, 2014-09-19 02:54:39
+Page [[1999 XS35]] saved
+		>>> Accademia Perduta/Romagna Teatri <<<
+		>>> Accademia Perduta/Romagna Teatri <<<
+Sleeping for 7.6 seconds, 2014-09-19 02:54:49
+Page [[Accademia Perduta/Romagna Teatri]] saved
+		>>> Alexander Weckström <<<
+		>>> Alexander Weckström <<<
+Sleeping for 7.3 seconds, 2014-09-19 02:55:00
+Page [[Alexander Weckström]] saved
+		>>> Alta via camuna <<<
+		>>> Alta via camuna <<<
+Sleeping for 7.4 seconds, 2014-09-19 02:55:10
+Page [[Alta via camuna]] saved
+		>>> Anfiteatro romano di Saintes <<<
+		>>> Anfiteatro romano di Saintes <<<
+Sleeping for 6.8 seconds, 2014-09-19 02:55:20
+Page [[Anfiteatro romano di Saintes]] saved
+		>>> Antica comunità Carnica dell'alta valle del But <<<
+		>>> Antica comunità Carnica dell'alta valle del But <<<
+Sleeping for 8.0 seconds, 2014-09-19 02:55:29
+Page [[Antica comunità Carnica dell'alta valle del But]] saved
+		>>> Astiokena <<<
+		>>> Astiokena <<<
+Sleeping for 7.6 seconds, 2014-09-19 02:55:39
+Page [[Astiokena]] saved
+		>>> Attone (torrente) <<<
+		>>> Attone (torrente) <<<
+Sleeping for 8.2 seconds, 2014-09-19 02:55:49
+Page [[Attone (torrente)]] saved
+		>>> Carta di libera circolazione <<<
+		>>> Carta di libera circolazione <<<
+Sleeping for 8.3 seconds, 2014-09-19 02:55:59
+Page [[Carta di libera circolazione]] saved
+		>>> Crazy club <<<
+		>>> Crazy club <<<
+Sleeping for 7.1 seconds, 2014-09-19 02:56:10
+Page [[Crazy club]] saved
+		>>> David Bustamante <<<
+		>>> David Bustamante <<<
+Sleeping for 7.1 seconds, 2014-09-19 02:56:20
+Page [[David Bustamante]] saved
+		>>> Distilleria B.lo Nardini <<<
+		>>> Distilleria B.lo Nardini <<<
+Sleeping for 6.6 seconds, 2014-09-19 02:56:30
+Page [[Distilleria B.lo Nardini]] saved
+		>>> Distretto di Ouled Salem <<<
+		>>> Distretto di Ouled Salem <<<
+Sleeping for 7.3 seconds, 2014-09-19 02:56:40
+Page [[Distretto di Ouled Salem]] saved
+		>>> Editoriale Sometti <<<
+		>>> Editoriale Sometti <<<
+Sleeping for 7.1 seconds, 2014-09-19 02:56:50
+Page [[Editoriale Sometti]] saved
+		>>> Enzo Ocera <<<
+		>>> Enzo Ocera <<<
+Sleeping for 8.2 seconds, 2014-09-19 02:56:59
+Page [[Enzo Ocera]] saved
+		>>> Episodi di Sojo no Arashi <<<
+		>>> Episodi di Sojo no Arashi <<<
+Sleeping for 8.5 seconds, 2014-09-19 02:57:09
+Page [[Episodi di Sojo no Arashi]] saved
+		>>> Film svedesi proposti per l'Oscar al miglior film straniero <<<
+		>>> Film svedesi proposti per l'Oscar al miglior film straniero <<<
+Sleeping for 7.5 seconds, 2014-09-19 02:57:20
+Page [[Film svedesi proposti per l'Oscar al miglior film straniero]] saved
+		>>> G.S. Antonimina <<<
+		>>> G.S. Antonimina <<<
+Sleeping for 5.4 seconds, 2014-09-19 02:57:32
+Page [[G.S. Antonimina]] saved
+		>>> Giuseppe Nicolini (scrittore) <<<
+		>>> Giuseppe Nicolini (scrittore) <<<
+Sleeping for 6.5 seconds, 2014-09-19 02:57:41
+Page [[Giuseppe Nicolini (scrittore)]] saved
+		>>> Harald Aars <<<
+		>>> Harald Aars <<<
+Sleeping for 6.5 seconds, 2014-09-19 02:57:51
+Page [[Harald Aars]] saved
+		>>> Henning Bødtker <<<
+		>>> Henning Bødtker <<<
+Sleeping for 7.9 seconds, 2014-09-19 02:57:59
+Page [[Henning Bødtker]] saved
+		>>> Hildor Arnold Barton <<<
+		>>> Hildor Arnold Barton <<<
+Sleeping for 8.2 seconds, 2014-09-19 02:58:09
+Page [[Hildor Arnold Barton]] saved
+		>>> Il Segreto <<<
+		>>> Il Segreto <<<
+Sleeping for 7.7 seconds, 2014-09-19 02:58:19
+Page [[Il Segreto]] saved
+		>>> Jonathan Pacheco <<<
+		>>> Jonathan Pacheco <<<
+Sleeping for 6.5 seconds, 2014-09-19 02:58:31
+Page [[Jonathan Pacheco]] saved
+		>>> La sperduta <<<
+		>>> La sperduta <<<
+Sleeping for 6.7 seconds, 2014-09-19 02:58:40
+Page [[La sperduta]] saved
+		>>> Lagergeld <<<
+		>>> Lagergeld <<<
+Sleeping for 7.7 seconds, 2014-09-19 02:58:49
+Page [[Lagergeld]] saved
+		>>> Lo Sguardo - Rivista di Filosofia <<<
+		>>> Lo Sguardo - Rivista di Filosofia <<<
+Sleeping for 8.3 seconds, 2014-09-19 02:58:59
+Page [[Lo Sguardo - Rivista di Filosofia]] saved
+		>>> Maria Padula <<<
+		>>> Maria Padula <<<
+Sleeping for 7.7 seconds, 2014-09-19 02:59:09
+Page [[Maria Padula]] saved
+		>>> Martín Ricca <<<
+		>>> Martín Ricca <<<
+Sleeping for 7.3 seconds, 2014-09-19 02:59:20
+Page [[Martín Ricca]] saved
+		>>> Museo della maglia azzurra <<<
+		>>> Museo della maglia azzurra <<<
+Sleeping for 7.1 seconds, 2014-09-19 02:59:30
+Page [[Museo della maglia azzurra]] saved
+		>>> Nahuel Benítez <<<
+		>>> Nahuel Benítez <<<
+Sleeping for 6.4 seconds, 2014-09-19 02:59:41
+Page [[Nahuel Benítez]] saved
+		>>> Nunzio Di Giulio <<<
+		>>> Nunzio Di Giulio <<<
+Sleeping for 7.1 seconds, 2014-09-19 02:59:50
+Page [[Nunzio Di Giulio]] saved
+		>>> Oniric <<<
+		>>> Oniric <<<
+Sleeping for 7.9 seconds, 2014-09-19 02:59:59
+Page [[Oniric]] saved
+		>>> Rasco Sedas <<<
+		>>> Rasco Sedas <<<
+Sleeping for 7.6 seconds, 2014-09-19 03:00:10
+Page [[Rasco Sedas]] saved
+		>>> Silva Kaputikian <<<
+		>>> Silva Kaputikian <<<
+Sleeping for 7.8 seconds, 2014-09-19 03:00:19
+Page [[Silva Kaputikian]] saved
+		>>> Slayers (wrestling) <<<
+		>>> Slayers (wrestling) <<<
+Sleeping for 7.4 seconds, 2014-09-19 03:00:30
+Page [[Slayers (wrestling)]] saved
+		>>> Thomas Valentin Aass <<<
+		>>> Thomas Valentin Aass <<<
+Sleeping for 8.2 seconds, 2014-09-19 03:00:39
+Page [[Thomas Valentin Aass]] saved
+		>>> Torrente Caldognola <<<
+		>>> Torrente Caldognola <<<
+Sleeping for 7.2 seconds, 2014-09-19 03:00:50
+Page [[Torrente Caldognola]] saved
+		>>> Trattato di Olmutz <<<
+		>>> Trattato di Olmutz <<<
+Sleeping for 8.0 seconds, 2014-09-19 03:00:59
+Page [[Trattato di Olmutz]] saved
+		>>> Vidak Bratic <<< ***
+		>>> Vidak Bratic <<< ***
+Sleeping for 7.0 seconds, 2014-09-19 03:01:10
+Page [[Vidak Bratic]] saved ***
+Run time:  1.44
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Anri Okita <<<
+		>>> Anri Okita <<<
+Sleeping for 9.2 seconds, 2014-09-20 02:52:51
+Page [[Anri Okita]] saved
+		>>> Archivio dei Cappuccini di Mestre <<<
+		>>> Archivio dei Cappuccini di Mestre <<<
+Sleeping for 8.2 seconds, 2014-09-20 02:53:02
+Page [[Archivio dei Cappuccini di Mestre]] saved
+		>>> Comte AC-1 <<<
+		>>> Comte AC-1 <<<
+Sleeping for 8.0 seconds, 2014-09-20 02:53:12
+Page [[Comte AC-1]] saved
+		>>> Cronologia delle proteste filo-russe in Ucraina del 2014 <<<
+		>>> Cronologia delle proteste filo-russe in Ucraina del 2014 <<<
+Sleeping for 7.9 seconds, 2014-09-20 02:53:23
+Page [[Cronologia delle proteste filo-russe in Ucraina del 2014]] saved
+		>>> Elezioni comunali a Prato <<<
+		>>> Elezioni comunali a Prato <<<
+Sleeping for 7.9 seconds, 2014-09-20 02:53:33
+Page [[Elezioni comunali a Prato]] saved
+		>>> Enso-ji il Cerchio <<<
+		>>> Enso-ji il Cerchio <<<
+Page [[Enso-ji il Cerchio]] saved
+		>>> Galavant <<<
+		>>> Galavant <<<
+Sleeping for 6.9 seconds, 2014-09-20 02:53:54
+Page [[Galavant]] saved
+		>>> Giovanni de Simone <<<
+		>>> Giovanni de Simone <<<
+Sleeping for 7.3 seconds, 2014-09-20 02:54:03
+Page [[Giovanni de Simone]] saved
+		>>> Hans Jørgen Darre-Jenssen <<<
+		>>> Hans Jørgen Darre-Jenssen <<<
+Sleeping for 8.0 seconds, 2014-09-20 02:54:13
+Page [[Hans Jørgen Darre-Jenssen]] saved
+		>>> Howard Hill <<<
+		>>> Howard Hill <<<
+Sleeping for 7.1 seconds, 2014-09-20 02:54:23
+Page [[Howard Hill]] saved
+		>>> José Humberto Paparoni <<<
+		>>> José Humberto Paparoni <<<
+Sleeping for 7.9 seconds, 2014-09-20 02:54:33
+Page [[José Humberto Paparoni]] saved
+		>>> La ricamatrice di segreti <<<
+		>>> La ricamatrice di segreti <<<
+Sleeping for 8.0 seconds, 2014-09-20 02:54:43
+Page [[La ricamatrice di segreti]] saved
+		>>> Lago O'Hara <<<
+		>>> Lago O'Hara <<<
+Sleeping for 6.4 seconds, 2014-09-20 02:54:54
+Page [[Lago O'Hara]] saved
+		>>> Marketing Boards e Marketing Orders <<<
+		>>> Marketing Boards e Marketing Orders <<<
+Sleeping for 7.5 seconds, 2014-09-20 02:55:03
+Page [[Marketing Boards e Marketing Orders]] saved
+		>>> Novancia <<<
+		>>> Novancia <<<
+Sleeping for 8.6 seconds, 2014-09-20 02:55:12
+Page [[Novancia]] saved
+		>>> Paul Christian Frank <<<
+		>>> Paul Christian Frank <<<
+Sleeping for 7.7 seconds, 2014-09-20 02:55:23
+Page [[Paul Christian Frank]] saved
+		>>> Prontohotel <<<
+		>>> Prontohotel <<<
+Sleeping for 7.6 seconds, 2014-09-20 02:55:33
+Page [[Prontohotel]] saved
+		>>> Red Crucible <<<
+		>>> Red Crucible <<<
+Sleeping for 7.2 seconds, 2014-09-20 02:55:43
+Page [[Red Crucible]] saved
+		>>> Serenity (nome) <<<
+		>>> Serenity (nome) <<<
+Sleeping for 7.9 seconds, 2014-09-20 02:55:53
+Page [[Serenity (nome)]] saved
+		>>> Sidney Moraes <<<
+		>>> Sidney Moraes <<<
+Sleeping for 6.7 seconds, 2014-09-20 02:56:04
+Page [[Sidney Moraes]] saved
+		>>> Sindrome di Pitt-Hopkins <<<
+		>>> Sindrome di Pitt-Hopkins <<<
+Sleeping for 6.8 seconds, 2014-09-20 02:56:14
+Page [[Sindrome di Pitt-Hopkins]] saved
+		>>> VERCOLAC <<<
+		>>> VERCOLAC <<<
+Sleeping for 3.8 seconds, 2014-09-20 02:56:27
+Page [[VERCOLAC]] saved
+		>>> Villa Il Merlo Bianco <<<
+		>>> Villa Il Merlo Bianco <<<
+Sleeping for 7.6 seconds, 2014-09-20 02:56:34
+Page [[Villa Il Merlo Bianco]] saved
+Run time:  0.78
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Axel Christian Zetlitz Kielland <<<
+		>>> Axel Christian Zetlitz Kielland <<<
+Sleeping for 8.2 seconds, 2014-09-21 08:20:11
+Page [[Axel Christian Zetlitz Kielland]] saved
+		>>> Benjamin Psaume <<<
+		>>> Benjamin Psaume <<<
+Sleeping for 6.7 seconds, 2014-09-21 08:20:22
+Page [[Benjamin Psaume]] saved
+		>>> Bomberman Jetters (anime) <<<
+		>>> Bomberman Jetters (anime) <<<
+Sleeping for 6.0 seconds, 2014-09-21 08:20:33
+Page [[Bomberman Jetters (anime)]] saved
+		>>> Cisda <<<
+		>>> Cisda <<<
+Sleeping for 7.0 seconds, 2014-09-21 08:20:42
+Page [[Cisda]] saved
+		>>> Francesco Mazza (regista) <<<
+		>>> Francesco Mazza (regista) <<<
+Sleeping for 7.7 seconds, 2014-09-21 08:20:51
+Page [[Francesco Mazza (regista)]] saved
+		>>> Hans Carl Knudtzon <<<
+		>>> Hans Carl Knudtzon <<<
+Sleeping for 7.5 seconds, 2014-09-21 08:21:02
+Page [[Hans Carl Knudtzon]] saved
+		>>> Jacob Barnett <<<
+		>>> Jacob Barnett <<<
+Sleeping for 7.7 seconds, 2014-09-21 08:21:11
+Page [[Jacob Barnett]] saved
+		>>> Jorge De Olivera <<<
+		>>> Jorge De Olivera <<<
+Sleeping for 7.8 seconds, 2014-09-21 08:21:21
+Page [[Jorge De Olivera]] saved
+		>>> János Bálint <<<
+		>>> János Bálint <<<
+Sleeping for 7.2 seconds, 2014-09-21 08:21:32
+Page [[János Bálint]] saved
+		>>> La Carmelina Edizioni <<<
+		>>> La Carmelina Edizioni <<<
+Sleeping for 7.3 seconds, 2014-09-21 08:21:42
+Page [[La Carmelina Edizioni]] saved
+		>>> Mariano Moroni <<<
+		>>> Mariano Moroni <<<
+Sleeping for 7.5 seconds, 2014-09-21 08:21:52
+Page [[Mariano Moroni]] saved
+		>>> Paride Scacchetti <<<
+		>>> Paride Scacchetti <<<
+Sleeping for 6.0 seconds, 2014-09-21 08:22:03
+Page [[Paride Scacchetti]] saved
+		>>> Red Crucible <<<
+		>>> Red Crucible <<<
+Sleeping for 7.3 seconds, 2014-09-21 08:22:12
+Page [[Red Crucible]] saved
+		>>> The Union Jacks <<<
+		>>> The Union Jacks <<<
+Sleeping for 8.1 seconds, 2014-09-21 08:22:21
+Page [[The Union Jacks]] saved
+		>>> Thomas Johannessen Heftye <<<
+		>>> Thomas Johannessen Heftye <<<
+Sleeping for 7.5 seconds, 2014-09-21 08:22:32
+Page [[Thomas Johannessen Heftye]] saved
+		>>> Thorstein Hiortdahl <<<
+		>>> Thorstein Hiortdahl <<<
+Sleeping for 6.8 seconds, 2014-09-21 08:22:42
+Page [[Thorstein Hiortdahl]] saved
+		>>> Volagratis <<<
+		>>> Volagratis <<<
+Sleeping for 7.6 seconds, 2014-09-21 08:22:52
+Page [[Volagratis]] saved
+Run time:  0.78
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Bering Sea Beast <<<
+		>>> Bering Sea Beast <<<
+Sleeping for 5.7 seconds, 2014-09-22 06:26:45
+Page [[Bering Sea Beast]] saved
+		>>> Christian Fredrik Michelet <<<
+		>>> Christian Fredrik Michelet <<<
+Sleeping for 6.6 seconds, 2014-09-22 06:26:54
+Page [[Christian Fredrik Michelet]] saved
+		>>> Comunicazione creativa <<<
+		>>> Comunicazione creativa <<<
+Sleeping for 7.7 seconds, 2014-09-22 06:27:03
+Page [[Comunicazione creativa]] saved
+		>>> Dudgeon (automobili a vapore) <<<
+		>>> Dudgeon (automobili a vapore) <<<
+Sleeping for 8.0 seconds, 2014-09-22 06:27:12
+Page [[Dudgeon (automobili a vapore)]] saved
+		>>> Find Me (film) <<<
+		>>> Find Me (film) <<<
+Sleeping for 6.1 seconds, 2014-09-22 06:27:24
+Page [[Find Me (film)]] saved
+		>>> Francesca Nini Carbonini <<<
+		>>> Francesca Nini Carbonini <<<
+Sleeping for 7.9 seconds, 2014-09-22 06:27:32
+Page [[Francesca Nini Carbonini]] saved
+		>>> Francesco Fornabaio <<<
+		>>> Francesco Fornabaio <<<
+Sleeping for 7.7 seconds, 2014-09-22 06:27:43
+Page [[Francesco Fornabaio]] saved
+		>>> Furby's Army 2 <<<
+		>>> Furby's Army 2 <<<
+Sleeping for 8.3 seconds, 2014-09-22 06:27:52
+Page [[Furby's Army 2]] saved
+		>>> Gerhard Munthe <<<
+		>>> Gerhard Munthe <<<
+Sleeping for 8.1 seconds, 2014-09-22 06:28:02
+Page [[Gerhard Munthe]] saved
+		>>> Giovanni Matteo Ferrari da Grado <<<
+		>>> Giovanni Matteo Ferrari da Grado <<<
+Sleeping for 7.7 seconds, 2014-09-22 06:28:13
+Page [[Giovanni Matteo Ferrari da Grado]] saved
+		>>> John R. Pepper <<<
+		>>> John R. Pepper <<<
+Sleeping for 7.9 seconds, 2014-09-22 06:28:23
+Page [[John R. Pepper]] saved
+		>>> Laverde <<<
+		>>> Laverde <<<
+Sleeping for 7.0 seconds, 2014-09-22 06:28:33
+Page [[Laverde]] saved
+		>>> Lista delle composizioni di Sergej Rachmaninov <<<
+		>>> Lista delle composizioni di Sergej Rachmaninov <<<
+Sleeping for 7.9 seconds, 2014-09-22 06:28:42
+Page [[Lista delle composizioni di Sergej Rachmaninov]] saved
+		>>> Mauro Pallotta <<<
+		>>> Mauro Pallotta <<<
+Sleeping for 8.2 seconds, 2014-09-22 06:28:52
+Page [[Mauro Pallotta]] saved
+		>>> Nazario Di Liberto <<<
+Nazario Di Liberto doesn't exist! Skip
+		>>> Portal way <<<
+		>>> Portal way <<<
+Sleeping for 6.2 seconds, 2014-09-22 06:29:04
+Page [[Portal way]] saved
+		>>> Sostenibilità sociale dei sistemi pensionistici obbligatori <<<
+		>>> Sostenibilità sociale dei sistemi pensionistici obbligatori <<<
+Sleeping for 7.4 seconds, 2014-09-22 06:29:13
+Page [[Sostenibilità sociale dei sistemi pensionistici obbligatori]] saved
+		>>> Trust (Band musicale) <<<
+		>>> Trust (Band musicale) <<<
+Sleeping for 7.7 seconds, 2014-09-22 06:29:23
+Page [[Trust (Band musicale)]] saved
+		>>> Vani Hari <<<
+		>>> Vani Hari <<<
+Sleeping for 7.4 seconds, 2014-09-22 06:29:33
+Page [[Vani Hari]] saved
+		>>> Vela ai Giochi della XIV Olimpiade - Firefly <<<
+		>>> Vela ai Giochi della XIV Olimpiade - Firefly <<<
+Sleeping for 4.0 seconds, 2014-09-22 06:29:46
+Page [[Vela ai Giochi della XIV Olimpiade - Firefly]] saved
+		>>> Villetta Lacchini <<<
+		>>> Villetta Lacchini <<<
+Sleeping for 4.0 seconds, 2014-09-22 06:29:56
+Page [[Villetta Lacchini]] saved
+		>>> Sarköy (Bartin) <<< ***
+		>>> Sarköy (Bartin) <<< ***
+Sleeping for 6.6 seconds, 2014-09-22 06:30:04
+Page [[Sarköy (Bartin)]] saved ***
+Run time:  0.95
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Active noise control <<<
+		>>> Active noise control <<<
+Sleeping for 9.1 seconds, 2014-09-23 09:39:09
+Page [[Active noise control]] saved
+		>>> Ali Bin al-Husayn <<<
+		>>> Ali Bin al-Husayn <<<
+Sleeping for 8.3 seconds, 2014-09-23 09:39:20
+Page [[Ali Bin al-Husayn]] saved
+		>>> Arif Mammadov <<<
+		>>> Arif Mammadov <<<
+Sleeping for 8.2 seconds, 2014-09-23 09:39:30
+Page [[Arif Mammadov]] saved
+		>>> Artepadova <<<
+		>>> Artepadova <<<
+Sleeping for 7.9 seconds, 2014-09-23 09:39:40
+Page [[Artepadova]] saved
+		>>> Ashraf Ghani <<<
+		>>> Ashraf Ghani <<<
+Sleeping for 7.9 seconds, 2014-09-23 09:39:50
+Page [[Ashraf Ghani]] saved
+		>>> Cirex <<<
+		>>> Cirex <<<
+Sleeping for 7.7 seconds, 2014-09-23 09:40:00
+Page [[Cirex]] saved
+		>>> Claudio Attolini <<<
+		>>> Claudio Attolini <<<
+Sleeping for 7.3 seconds, 2014-09-23 09:40:11
+Edit Conflict! Skip
+		>>> Drishyam <<<
+		>>> Drishyam <<<
+Sleeping for 6.9 seconds, 2014-09-23 09:40:21
+Page [[Drishyam]] saved
+		>>> ECHO (Commissione europea) <<<
+		>>> ECHO (Commissione europea) <<<
+Sleeping for 8.0 seconds, 2014-09-23 09:40:30
+Page [[ECHO (Commissione europea)]] saved
+		>>> Elmo di Polizzello <<<
+		>>> Elmo di Polizzello <<<
+Sleeping for 7.5 seconds, 2014-09-23 09:40:40
+Page [[Elmo di Polizzello]] saved
+		>>> European University <<<
+		>>> European University <<<
+Sleeping for 7.0 seconds, 2014-09-23 09:40:51
+Page [[European University]] saved
+		>>> Feliks Janiewicz <<<
+		>>> Feliks Janiewicz <<<
+Sleeping for 6.0 seconds, 2014-09-23 09:41:02
+Page [[Feliks Janiewicz]] saved
+		>>> Fulvio Forino <<<
+		>>> Fulvio Forino <<<
+Sleeping for 7.8 seconds, 2014-09-23 09:41:10
+Page [[Fulvio Forino]] saved
+		>>> Henry Littlejohn <<<
+		>>> Henry Littlejohn <<<
+Sleeping for 8.1 seconds, 2014-09-23 09:41:20
+Page [[Henry Littlejohn]] saved
+		>>> Johan Søhr <<<
+		>>> Johan Søhr <<<
+Sleeping for 8.5 seconds, 2014-09-23 09:41:30
+Page [[Johan Søhr]] saved
+		>>> Living divani <<<
+		>>> Living divani <<<
+Sleeping for 7.2 seconds, 2014-09-23 09:41:41
+Page [[Living divani]] saved
+		>>> Marco Trani <<<
+		>>> Marco Trani <<<
+Sleeping for 7.9 seconds, 2014-09-23 09:41:50
+Page [[Marco Trani]] saved
+		>>> Mottola (famiglia) <<<
+		>>> Mottola (famiglia) <<<
+Sleeping for 7.1 seconds, 2014-09-23 09:42:01
+Page [[Mottola (famiglia)]] saved
+		>>> Nasutoceratops titusi <<<
+		>>> Nasutoceratops titusi <<<
+Sleeping for 7.4 seconds, 2014-09-23 09:42:11
+Page [[Nasutoceratops titusi]] saved
+		>>> Renato Teixeira <<<
+		>>> Renato Teixeira <<<
+Sleeping for 5.9 seconds, 2014-09-23 09:42:22
+Page [[Renato Teixeira]] saved
+		>>> Simboli (brano musicale) <<<
+		>>> Simboli (brano musicale) <<<
+Sleeping for 5.3 seconds, 2014-09-23 09:42:33
+Page [[Simboli (brano musicale)]] saved
+		>>> Sofus Arctander <<<
+		>>> Sofus Arctander <<<
+Sleeping for 5.3 seconds, 2014-09-23 09:42:43
+Page [[Sofus Arctander]] saved
+		>>> Tempietto di Sabucina <<<
+		>>> Tempietto di Sabucina <<<
+Sleeping for 7.3 seconds, 2014-09-23 09:42:51
+Page [[Tempietto di Sabucina]] saved
+		>>> The Breadsticks <<<
+The Breadsticks doesn't exist! Skip
+		>>> Thomas Baines <<<
+		>>> Thomas Baines <<<
+Sleeping for 8.1 seconds, 2014-09-23 09:43:00
+Page [[Thomas Baines]] saved
+Run time:  0.98
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Ahmed Deen <<<
+		>>> Ahmed Deen <<<
+Sleeping for 7.9 seconds, 2014-09-24 02:58:48
+Page [[Ahmed Deen]] saved
+		>>> Bacari <<<
+		>>> Bacari <<<
+Sleeping for 6.0 seconds, 2014-09-24 02:59:00
+Page [[Bacari]] saved
+		>>> Benedetta Caretta <<<
+		>>> Benedetta Caretta <<<
+Sleeping for 6.0 seconds, 2014-09-24 02:59:10
+Page [[Benedetta Caretta]] saved
+		>>> Brain Dead 13 <<<
+		>>> Brain Dead 13 <<<
+Sleeping for 7.6 seconds, 2014-09-24 02:59:18
+Page [[Brain Dead 13]] saved
+		>>> Claudio Attolini <<<
+		>>> Claudio Attolini <<<
+Sleeping for 8.4 seconds, 2014-09-24 02:59:27
+Page [[Claudio Attolini]] saved
+		>>> Da Palazzo <<<
+		>>> Da Palazzo <<<
+Sleeping for 7.9 seconds, 2014-09-24 02:59:38
+Page [[Da Palazzo]] saved
+		>>> Davide Nardoni <<<
+		>>> Davide Nardoni <<<
+Sleeping for 8.2 seconds, 2014-09-24 02:59:48
+Page [[Davide Nardoni]] saved
+		>>> Evektor-Aerotechnik <<<
+		>>> Evektor-Aerotechnik <<<
+Sleeping for 7.4 seconds, 2014-09-24 02:59:59
+Page [[Evektor-Aerotechnik]] saved
+		>>> Federico Fredi Panigi <<<
+		>>> Federico Fredi Panigi <<<
+Sleeping for 7.9 seconds, 2014-09-24 03:00:08
+Page [[Federico Fredi Panigi]] saved
+		>>> Hassan Sadpara <<<
+		>>> Hassan Sadpara <<<
+Sleeping for 8.2 seconds, 2014-09-24 03:00:18
+Page [[Hassan Sadpara]] saved
+		>>> Il'ja Sergeevic Kraseninnkov <<< ***
+		>>> Il'ja Sergeevic Kraseninnkov <<< ***
+Sleeping for 7.8 seconds, 2014-09-24 03:00:28
+Page [[Il'ja Sergeevic Kraseninnkov]] saved ***
+		>>> La Carmelina Edizioni <<<
+		>>> La Carmelina Edizioni <<<
+Sleeping for 7.7 seconds, 2014-09-24 03:00:38
+Page [[La Carmelina Edizioni]] saved
+		>>> Led Zeppelin Deluxe Edition <<<
+		>>> Led Zeppelin Deluxe Edition <<<
+Sleeping for 6.4 seconds, 2014-09-24 03:00:50
+Page [[Led Zeppelin Deluxe Edition]] saved
+		>>> Luca Gallesi <<<
+		>>> Luca Gallesi <<<
+Sleeping for 8.2 seconds, 2014-09-24 03:00:58
+Page [[Luca Gallesi]] saved
+		>>> Michele Boyd <<<
+		>>> Michele Boyd <<<
+Sleeping for 7.6 seconds, 2014-09-24 03:01:08
+Page [[Michele Boyd]] saved
+		>>> Niccolò Insenga <<<
+		>>> Niccolò Insenga <<<
+Sleeping for 7.9 seconds, 2014-09-24 03:01:18
+Page [[Niccolò Insenga]] saved
+		>>> Nikolaj Aleksandrovic Krasnokuskij <<< ***
+		>>> Nikolaj Aleksandrovic Krasnokuskij <<< ***
+Sleeping for 7.8 seconds, 2014-09-24 03:01:28
+Page [[Nikolaj Aleksandrovic Krasnokuskij]] saved ***
+		>>> Nikon D <<<
+		>>> Nikon D <<<
+Sleeping for 7.2 seconds, 2014-09-24 03:01:39
+Page [[Nikon D]] saved
+		>>> Palermo-Montecarlo <<<
+		>>> Palermo-Montecarlo <<<
+Sleeping for 8.2 seconds, 2014-09-24 03:01:48
+Page [[Palermo-Montecarlo]] saved
+		>>> Renato Borsoni <<<
+		>>> Renato Borsoni <<<
+Sleeping for 8.5 seconds, 2014-09-24 03:01:57
+Page [[Renato Borsoni]] saved
+		>>> Simone Nai Oleari <<<
+		>>> Simone Nai Oleari <<<
+Sleeping for 7.2 seconds, 2014-09-24 03:02:09
+Page [[Simone Nai Oleari]] saved
+		>>> Sora no method <<<
+		>>> Sora no method <<<
+Sleeping for 6.8 seconds, 2014-09-24 03:02:19
+Page [[Sora no method]] saved
+		>>> Tom & Jerry in Per un pugno di pelo <<<
+		>>> Tom & Jerry in Per un pugno di pelo <<<
+Sleeping for 7.3 seconds, 2014-09-24 03:02:29
+Page [[Tom & Jerry in Per un pugno di pelo]] saved
+		>>> Tommaso Maria Neri <<<
+		>>> Tommaso Maria Neri <<<
+Sleeping for 7.0 seconds, 2014-09-24 03:02:39
+Page [[Tommaso Maria Neri]] saved
+		>>> Valutazione incidenza ecologica <<<
+		>>> Valutazione incidenza ecologica <<<
+Sleeping for 8.6 seconds, 2014-09-24 03:02:47
+Page [[Valutazione incidenza ecologica]] saved
+		>>> Victor Sergeevic Kocubej <<< ***
+		>>> Victor Sergeevic Kocubej <<< ***
+Sleeping for 8.2 seconds, 2014-09-24 03:02:58
+Page [[Victor Sergeevic Kocubej]] saved ***
+Run time:  1.11
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Antonio Tirinato <<<
+		>>> Antonio Tirinato <<<
+Sleeping for 9.0 seconds, 2014-09-25 02:57:05
+Page [[Antonio Tirinato]] saved
+		>>> Banner (Contea di Kings, California) <<<
+		>>> Banner (Contea di Kings, California) <<<
+Sleeping for 6.5 seconds, 2014-09-25 02:57:17
+Page [[Banner (Contea di Kings, California)]] saved
+		>>> Bomberman B-Daman Bakugaiden V <<<
+		>>> Bomberman B-Daman Bakugaiden V <<<
+Sleeping for 6.1 seconds, 2014-09-25 02:57:28
+Page [[Bomberman B-Daman Bakugaiden V]] saved
+		>>> Bomberman Jetters (anime) <<<
+		>>> Bomberman Jetters (anime) <<<
+Sleeping for 7.5 seconds, 2014-09-25 02:57:36
+Page [[Bomberman Jetters (anime)]] saved
+		>>> Canone di Tolomeo <<<
+		>>> Canone di Tolomeo <<<
+Sleeping for 6.3 seconds, 2014-09-25 02:57:48
+Page [[Canone di Tolomeo]] saved
+		>>> Cappella di San Carlo (Firenze) <<<
+		>>> Cappella di San Carlo (Firenze) <<<
+Sleeping for 6.8 seconds, 2014-09-25 02:57:57
+Page [[Cappella di San Carlo (Firenze)]] saved
+		>>> Hemosiderinuria <<<
+		>>> Hemosiderinuria <<<
+Sleeping for 8.4 seconds, 2014-09-25 02:58:06
+Page [[Hemosiderinuria]] saved
+		>>> L'antitempo <<<
+		>>> L'antitempo <<<
+Sleeping for 8.5 seconds, 2014-09-25 02:58:15
+Page [[L'antitempo]] saved
+		>>> Lhi Balòs <<<
+		>>> Lhi Balòs <<<
+Sleeping for 8.1 seconds, 2014-09-25 02:58:26
+Page [[Lhi Balòs]] saved
+		>>> Pulse Legion <<<
+		>>> Pulse Legion <<<
+Sleeping for 6.9 seconds, 2014-09-25 02:58:37
+Page [[Pulse Legion]] saved
+		>>> Richard Hambleton <<<
+		>>> Richard Hambleton <<<
+Sleeping for 7.2 seconds, 2014-09-25 02:58:47
+Page [[Richard Hambleton]] saved
+		>>> Willem Hendrik Nieupoort <<<
+		>>> Willem Hendrik Nieupoort <<<
+Sleeping for 7.4 seconds, 2014-09-25 02:58:57
+Page [[Willem Hendrik Nieupoort]] saved
+		>>> Yamaha QY10 <<<
+		>>> Yamaha QY10 <<<
+Sleeping for 7.7 seconds, 2014-09-25 02:59:06
+Page [[Yamaha QY10]] saved
+Run time:  0.6
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Achraf Baznani <<<
+		>>> Achraf Baznani <<<
+Sleeping for 19.3 seconds, 2014-09-28 02:56:02
+Page [[Achraf Baznani]] saved
+		>>> Arrigo Fenzi <<<
+		>>> Arrigo Fenzi <<<
+Sleeping for 17.7 seconds, 2014-09-28 02:56:24
+Page [[Arrigo Fenzi]] saved
+		>>> Bomberman B-Daman Bakugaiden V <<<
+		>>> Bomberman B-Daman Bakugaiden V <<<
+Sleeping for 18.2 seconds, 2014-09-28 02:56:43
+Page [[Bomberman B-Daman Bakugaiden V]] saved
+		>>> Bomberman Jetters (anime) <<<
+		>>> Bomberman Jetters (anime) <<<
+Sleeping for 17.0 seconds, 2014-09-28 02:57:04
+Page [[Bomberman Jetters (anime)]] saved
+		>>> Bula Quo Live! - World Tour 2013/14 <<<
+		>>> Bula Quo Live! - World Tour 2013/14 <<<
+Sleeping for 16.7 seconds, 2014-09-28 02:57:25
+Page [[Bula Quo Live! - World Tour 2013/14]] saved
+		>>> Campo di concentramento di Sonnenburg <<<
+		>>> Campo di concentramento di Sonnenburg <<<
+Sleeping for 17.4 seconds, 2014-09-28 02:57:44
+Page [[Campo di concentramento di Sonnenburg]] saved
+		>>> Canone di Tolomeo <<<
+		>>> Canone di Tolomeo <<<
+Sleeping for 18.4 seconds, 2014-09-28 02:58:03
+Page [[Canone di Tolomeo]] saved
+		>>> Christoffer Mafoumbi <<<
+		>>> Christoffer Mafoumbi <<<
+Sleeping for 16.8 seconds, 2014-09-28 02:58:25
+Page [[Christoffer Mafoumbi]] saved
+		>>> Coloplast <<<
+		>>> Coloplast <<<
+Sleeping for 16.7 seconds, 2014-09-28 02:58:45
+Page [[Coloplast]] saved
+		>>> Cross Ange <<<
+		>>> Cross Ange <<<
+Sleeping for 17.2 seconds, 2014-09-28 02:59:04
+Page [[Cross Ange]] saved
+		>>> Cydalima perspectalis <<<
+		>>> Cydalima perspectalis <<<
+Sleeping for 17.3 seconds, 2014-09-28 02:59:24
+Page [[Cydalima perspectalis]] saved
+		>>> Daniele Rossi (restauratore) <<<
+		>>> Daniele Rossi (restauratore) <<<
+Sleeping for 17.9 seconds, 2014-09-28 02:59:43
+Page [[Daniele Rossi (restauratore)]] saved
+		>>> Danna ga nani o itteiru ka wakaranai ken <<<
+		>>> Danna ga nani o itteiru ka wakaranai ken <<<
+Sleeping for 18.3 seconds, 2014-09-28 03:00:03
+Page [[Danna ga nani o itteiru ka wakaranai ken]] saved
+		>>> Dello Sbarba <<<
+		>>> Dello Sbarba <<<
+Sleeping for 17.6 seconds, 2014-09-28 03:00:24
+Page [[Dello Sbarba]] saved
+		>>> Dimitrios Moutas <<<
+		>>> Dimitrios Moutas <<<
+Sleeping for 18.1 seconds, 2014-09-28 03:00:43
+Page [[Dimitrios Moutas]] saved
+		>>> Dopo il festival tutti da me <<<
+		>>> Dopo il festival tutti da me <<<
+Sleeping for 7.0 seconds, 2014-09-28 03:01:04
+Page [[Dopo il festival tutti da me]] saved
+		>>> Dreams Now Reality <<<
+		>>> Dreams Now Reality <<<
+Sleeping for 7.9 seconds, 2014-09-28 03:01:14
+Page [[Dreams Now Reality]] saved
+		>>> Enfilade (architettura) <<<
+		>>> Enfilade (architettura) <<<
+Sleeping for 7.5 seconds, 2014-09-28 03:01:24
+Page [[Enfilade (architettura)]] saved
+		>>> Enrico Danisi <<<
+		>>> Enrico Danisi <<<
+Sleeping for 8.0 seconds, 2014-09-28 03:01:33
+Page [[Enrico Danisi]] saved
+		>>> Episodi di Nikita (serie televisiva 1997) (prima stagione) <<<
+		>>> Episodi di Nikita (serie televisiva 1997) (prima stagione) <<<
+Sleeping for 8.5 seconds, 2014-09-28 03:01:43
+Page [[Episodi di Nikita (serie televisiva 1997) (prima stagione)]] saved
+		>>> Episodi di Nikita (serie televisiva 1997) (quarta stagione) <<<
+		>>> Episodi di Nikita (serie televisiva 1997) (quarta stagione) <<<
+Sleeping for 7.7 seconds, 2014-09-28 03:01:54
+Page [[Episodi di Nikita (serie televisiva 1997) (quarta stagione)]] saved
+		>>> Episodi di Nikita (serie televisiva 1997) (quinta stagione) <<<
+		>>> Episodi di Nikita (serie televisiva 1997) (quinta stagione) <<<
+Sleeping for 7.2 seconds, 2014-09-28 03:02:04
+Page [[Episodi di Nikita (serie televisiva 1997) (quinta stagione)]] saved
+		>>> Episodi di Nikita (serie televisiva 1997) (seconda stagione) <<<
+		>>> Episodi di Nikita (serie televisiva 1997) (seconda stagione) <<<
+Sleeping for 7.4 seconds, 2014-09-28 03:02:14
+Page [[Episodi di Nikita (serie televisiva 1997) (seconda stagione)]] saved
+		>>> Episodi di Nikita (serie televisiva 1997) (terza stagione) <<<
+		>>> Episodi di Nikita (serie televisiva 1997) (terza stagione) <<<
+Sleeping for 7.2 seconds, 2014-09-28 03:02:24
+Page [[Episodi di Nikita (serie televisiva 1997) (terza stagione)]] saved
+		>>> Federazione Italiana Emergenze Veterinarie <<<
+		>>> Federazione Italiana Emergenze Veterinarie <<<
+Sleeping for 7.7 seconds, 2014-09-28 03:02:34
+Page [[Federazione Italiana Emergenze Veterinarie]] saved
+		>>> Francesco Guccini La mia Thule <<<
+		>>> Francesco Guccini La mia Thule <<<
+Sleeping for 8.3 seconds, 2014-09-28 03:02:43
+Page [[Francesco Guccini La mia Thule]] saved
+		>>> Garanti del talento sul 950 <<<
+		>>> Garanti del talento sul 950 <<<
+Sleeping for 8.0 seconds, 2014-09-28 03:02:54
+Page [[Garanti del talento sul 950]] saved
+		>>> Guardia mascherata <<<
+		>>> Guardia mascherata <<<
+Sleeping for 8.5 seconds, 2014-09-28 03:03:03
+Page [[Guardia mascherata]] saved
+		>>> Haruwo <<<
+		>>> Haruwo <<<
+Sleeping for 7.5 seconds, 2014-09-28 03:03:14
+Page [[Haruwo]] saved
+		>>> Hybrid Circle <<<
+		>>> Hybrid Circle <<<
+Sleeping for 8.2 seconds, 2014-09-28 03:03:23
+Page [[Hybrid Circle]] saved
+		>>> Icydawn <<<
+		>>> Icydawn <<<
+Sleeping for 7.5 seconds, 2014-09-28 03:03:34
+Page [[Icydawn]] saved
+		>>> Il motivo per cui salto <<<
+		>>> Il motivo per cui salto <<<
+Sleeping for 7.0 seconds, 2014-09-28 03:03:45
+Page [[Il motivo per cui salto]] saved
+		>>> Impromptus op.90 (Schubert) <<<
+		>>> Impromptus op.90 (Schubert) <<<
+Sleeping for 8.3 seconds, 2014-09-28 03:03:53
+Page [[Impromptus op.90 (Schubert)]] saved
+		>>> Ingenolo mebutato <<<
+		>>> Ingenolo mebutato <<<
+Sleeping for 8.5 seconds, 2014-09-28 03:04:03
+Page [[Ingenolo mebutato]] saved
+		>>> Lina Galleazzi <<<
+		>>> Lina Galleazzi <<<
+Sleeping for 8.3 seconds, 2014-09-28 03:04:13
+Page [[Lina Galleazzi]] saved
+		>>> Lorima <<<
+		>>> Lorima <<<
+Sleeping for 8.3 seconds, 2014-09-28 03:04:23
+Page [[Lorima]] saved
+		>>> Luca Gallesi <<<
+		>>> Luca Gallesi <<<
+Sleeping for 8.5 seconds, 2014-09-28 03:04:33
+Page [[Luca Gallesi]] saved
+		>>> Mama Africa Onlus <<<
+		>>> Mama Africa Onlus <<<
+Sleeping for 7.8 seconds, 2014-09-28 03:04:44
+Page [[Mama Africa Onlus]] saved
+		>>> Mandariinid <<<
+		>>> Mandariinid <<<
+Sleeping for 7.7 seconds, 2014-09-28 03:04:54
+Page [[Mandariinid]] saved
+		>>> Margit Binder <<<
+		>>> Margit Binder <<<
+Sleeping for 7.6 seconds, 2014-09-28 03:05:04
+Page [[Margit Binder]] saved
+		>>> Maria Alves da Silva <<<
+		>>> Maria Alves da Silva <<<
+Sleeping for 7.9 seconds, 2014-09-28 03:05:14
+Page [[Maria Alves da Silva]] saved
+		>>> Morte al fascismo, libertà al popolo! <<<
+		>>> Morte al fascismo, libertà al popolo! <<<
+Sleeping for 7.0 seconds, 2014-09-28 03:05:25
+Page [[Morte al fascismo, libertà al popolo!]] saved
+		>>> Museo del profumo di milano <<<
+		>>> Museo del profumo di milano <<<
+Sleeping for 8.2 seconds, 2014-09-28 03:05:33
+Page [[Museo del profumo di milano]] saved
+		>>> Museo della maglia azzurra <<<
+		>>> Museo della maglia azzurra <<<
+Sleeping for 8.3 seconds, 2014-09-28 03:05:43
+Page [[Museo della maglia azzurra]] saved
+		>>> Niels Christian Ditleff <<<
+		>>> Niels Christian Ditleff <<<
+Sleeping for 8.2 seconds, 2014-09-28 03:05:53
+Page [[Niels Christian Ditleff]] saved
+		>>> Paul Budnitz <<<
+		>>> Paul Budnitz <<<
+Sleeping for 7.4 seconds, 2014-09-28 03:06:04
+Page [[Paul Budnitz]] saved
+		>>> Samira Saleh al-Naimi <<<
+		>>> Samira Saleh al-Naimi <<<
+Sleeping for 8.6 seconds, 2014-09-28 03:06:13
+Page [[Samira Saleh al-Naimi]] saved
+		>>> Saturnino Calderón de la Barca y Collantes <<<
+		>>> Saturnino Calderón de la Barca y Collantes <<<
+Sleeping for 7.6 seconds, 2014-09-28 03:06:24
+Page [[Saturnino Calderón de la Barca y Collantes]] saved
+		>>> SimplERP <<<
+		>>> SimplERP <<<
+Sleeping for 7.1 seconds, 2014-09-28 03:06:35
+Page [[SimplERP]] saved
+		>>> Spider-Man (videogioco Atari 2600) <<<
+		>>> Spider-Man (videogioco Atari 2600) <<<
+Sleeping for 7.5 seconds, 2014-09-28 03:06:44
+Page [[Spider-Man (videogioco Atari 2600)]] saved
+		>>> Team vertical limit <<<
+		>>> Team vertical limit <<<
+Sleeping for 8.1 seconds, 2014-09-28 03:06:54
+Page [[Team vertical limit]] saved
+		>>> Tecnologo sociale <<<
+		>>> Tecnologo sociale <<<
+Sleeping for 8.5 seconds, 2014-09-28 03:07:03
+Page [[Tecnologo sociale]] saved
+		>>> Ulrik Balling <<<
+		>>> Ulrik Balling <<<
+Sleeping for 8.2 seconds, 2014-09-28 03:07:14
+Page [[Ulrik Balling]] saved
+		>>> Villa il Cartone <<<
+		>>> Villa il Cartone <<<
+Sleeping for 6.1 seconds, 2014-09-28 03:07:26
+Page [[Villa il Cartone]] saved
+		>>> Walkure Romanze: Shojo kishi monogatari <<< ***
+		>>> Walkure Romanze: Shojo kishi monogatari <<< ***
+Sleeping for 8.2 seconds, 2014-09-28 03:07:34
+Page [[Walkure Romanze: Shojo kishi monogatari]] saved ***
+Run time:  2.12
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 11-11: En mi cuadra nada cuadra <<<
+		>>> 11-11: En mi cuadra nada cuadra <<<
+Sleeping for 9.1 seconds, 2014-09-30 02:59:03
+Page [[11-11: En mi cuadra nada cuadra]] saved
+		>>> 13/13/13 <<<
+		>>> 13/13/13 <<<
+Sleeping for 7.4 seconds, 2014-09-30 02:59:15
+Page [[13/13/13]] saved
+		>>> Adriano Sicbaldi <<<
+		>>> Adriano Sicbaldi <<<
+Sleeping for 6.4 seconds, 2014-09-30 02:59:26
+Page [[Adriano Sicbaldi]] saved
+		>>> Aleksandr Karlovic Krusenstern <<< ***
+		>>> Aleksandr Karlovic Krusenstern <<< ***
+Sleeping for 8.1 seconds, 2014-09-30 02:59:34
+Page [[Aleksandr Karlovic Krusenstern]] saved ***
+		>>> Alfredo Azzaroni <<<
+		>>> Alfredo Azzaroni <<<
+Sleeping for 7.0 seconds, 2014-09-30 02:59:45
+Page [[Alfredo Azzaroni]] saved
+		>>> Algernon Keith-Falconer, IX conte di Kintore <<<
+		>>> Algernon Keith-Falconer, IX conte di Kintore <<<
+Sleeping for 8.3 seconds, 2014-09-30 02:59:54
+Page [[Algernon Keith-Falconer, IX conte di Kintore]] saved
+		>>> Aliquota fiscale effettiva <<<
+		>>> Aliquota fiscale effettiva <<<
+Sleeping for 7.7 seconds, 2014-09-30 03:00:05
+Page [[Aliquota fiscale effettiva]] saved
+		>>> Alvin and the Chipmunks: Paranoid Life <<<
+		>>> Alvin and the Chipmunks: Paranoid Life <<<
+Sleeping for 6.9 seconds, 2014-09-30 03:00:16
+Page [[Alvin and the Chipmunks: Paranoid Life]] saved
+		>>> Antonio Gualtieri <<<
+		>>> Antonio Gualtieri <<<
+Sleeping for 7.7 seconds, 2014-09-30 03:00:25
+Page [[Antonio Gualtieri]] saved
+		>>> Aravindh Chithambaram <<<
+		>>> Aravindh Chithambaram <<<
+Sleeping for 7.7 seconds, 2014-09-30 03:00:35
+Page [[Aravindh Chithambaram]] saved
+		>>> Arne Skaug <<<
+		>>> Arne Skaug <<<
+Sleeping for 8.0 seconds, 2014-09-30 03:00:44
+Page [[Arne Skaug]] saved
+		>>> Blaxland (Nuovo Galles del Sud) <<<
+		>>> Blaxland (Nuovo Galles del Sud) <<<
+Sleeping for 7.3 seconds, 2014-09-30 03:00:55
+Page [[Blaxland (Nuovo Galles del Sud)]] saved
+		>>> Bomberman B-Daman Bakugaiden V <<<
+		>>> Bomberman B-Daman Bakugaiden V <<<
+Sleeping for 7.6 seconds, 2014-09-30 03:01:05
+Page [[Bomberman B-Daman Bakugaiden V]] saved
+		>>> C'era una volta (gioco di ruolo) <<<
+		>>> C'era una volta (gioco di ruolo) <<<
+Sleeping for 7.0 seconds, 2014-09-30 03:01:16
+Page [[C'era una volta (gioco di ruolo)]] saved
+		>>> Camillo Medeot <<<
+		>>> Camillo Medeot <<<
+Sleeping for 7.7 seconds, 2014-09-30 03:01:25
+Page [[Camillo Medeot]] saved
+		>>> Cervellini in fuga <<<
+		>>> Cervellini in fuga <<<
+Sleeping for 8.1 seconds, 2014-09-30 03:01:34
+Page [[Cervellini in fuga]] saved
+		>>> David Williamson, barone di Horton <<<
+		>>> David Williamson, barone di Horton <<<
+Sleeping for 7.0 seconds, 2014-09-30 03:01:46
+Page [[David Williamson, barone di Horton]] saved
+		>>> Dulaglutide <<<
+		>>> Dulaglutide <<<
+Sleeping for 7.9 seconds, 2014-09-30 03:01:55
+Page [[Dulaglutide]] saved
+		>>> Francesco Palvisino <<<
+		>>> Francesco Palvisino <<<
+Sleeping for 7.9 seconds, 2014-09-30 03:02:05
+Page [[Francesco Palvisino]] saved
+		>>> Fudbalski klub Kom <<<
+		>>> Fudbalski klub Kom <<<
+Sleeping for 8.5 seconds, 2014-09-30 03:02:14
+Page [[Fudbalski klub Kom]] saved
+		>>> Ingvald Smith-Kielland <<<
+		>>> Ingvald Smith-Kielland <<<
+Sleeping for 7.6 seconds, 2014-09-30 03:02:25
+Page [[Ingvald Smith-Kielland]] saved
+		>>> Isa TVB-La fiesta va a empezar <<<
+		>>> Isa TVB-La fiesta va a empezar <<<
+Sleeping for 7.8 seconds, 2014-09-30 03:02:35
+Page [[Isa TVB-La fiesta va a empezar]] saved
+		>>> Karl-Heinz Brunner <<<
+		>>> Karl-Heinz Brunner <<<
+Sleeping for 8.8 seconds, 2014-09-30 03:02:44
+Page [[Karl-Heinz Brunner]] saved
+		>>> Krzysztof Olaf Charamsa <<<
+		>>> Krzysztof Olaf Charamsa <<<
+Sleeping for 8.0 seconds, 2014-09-30 03:02:55
+Page [[Krzysztof Olaf Charamsa]] saved
+		>>> La Familia (wrestling) <<<
+		>>> La Familia (wrestling) <<<
+Sleeping for 8.2 seconds, 2014-09-30 03:03:04
+Page [[La Familia (wrestling)]] saved
+		>>> La discoteca nazionale <<<
+		>>> La discoteca nazionale <<<
+Sleeping for 7.7 seconds, 2014-09-30 03:03:15
+Page [[La discoteca nazionale]] saved
+		>>> Lazgi <<<
+		>>> Lazgi <<<
+Sleeping for 8.1 seconds, 2014-09-30 03:03:25
+Page [[Lazgi]] saved
+		>>> Logisim <<<
+		>>> Logisim <<<
+Sleeping for 4.9 seconds, 2014-09-30 03:03:38
+Page [[Logisim]] saved
+		>>> Maria Luisa Congiu <<<
+		>>> Maria Luisa Congiu <<<
+Sleeping for 6.8 seconds, 2014-09-30 03:03:46
+Page [[Maria Luisa Congiu]] saved
+		>>> O'Marchese The Story of a Homeless <<<
+		>>> O'Marchese The Story of a Homeless <<<
+Sleeping for 7.7 seconds, 2014-09-30 03:03:55
+Page [[O'Marchese The Story of a Homeless]] saved
+		>>> Pengiran Anak Saleha <<<
+		>>> Pengiran Anak Saleha <<<
+Sleeping for 8.0 seconds, 2014-09-30 03:04:05
+Page [[Pengiran Anak Saleha]] saved
+		>>> Penrith (Nuovo Galles del Sud) <<<
+		>>> Penrith (Nuovo Galles del Sud) <<<
+Sleeping for 8.3 seconds, 2014-09-30 03:04:14
+Page [[Penrith (Nuovo Galles del Sud)]] saved
+		>>> Podestà di Bologna <<<
+		>>> Podestà di Bologna <<<
+Sleeping for 7.3 seconds, 2014-09-30 03:04:25
+Page [[Podestà di Bologna]] saved
+		>>> Shaker (programma radiofonico) <<<
+		>>> Shaker (programma radiofonico) <<<
+Sleeping for 8.6 seconds, 2014-09-30 03:04:34
+Page [[Shaker (programma radiofonico)]] saved
+		>>> Sistema di sollevamento in quota di apparecchiature <<<
+		>>> Sistema di sollevamento in quota di apparecchiature <<<
+Sleeping for 7.4 seconds, 2014-09-30 03:04:45
+Page [[Sistema di sollevamento in quota di apparecchiature]] saved
+		>>> Stazione di Granada <<<
+		>>> Stazione di Granada <<<
+Sleeping for 8.0 seconds, 2014-09-30 03:04:55
+Run time:  1.17
+Traceback (most recent call last):
+  File "/data/project/alessiobot/add_orfana.py", line 51, in <module>
+    main()
+  File "/data/project/alessiobot/add_orfana.py", line 41, in main
+    page.put(newtxt, comment)
+  File "/shared/pywikipedia/core/pywikibot/page.py", line 1059, in put
+    **kwargs)
+  File "/shared/pywikipedia/core/pywikibot/tools.py", line 367, in wrapper
+    return method(*__args, **__kw)
+  File "/shared/pywikipedia/core/pywikibot/page.py", line 982, in save
+    **kwargs)
+  File "/shared/pywikipedia/core/pywikibot/page.py", line 1006, in _save
+    raise pywikibot.OtherPageSaveError(self, err)
+pywikibot.exceptions.OtherPageSaveError: Edit to page [[Stazione di Granada]] failed:
+badtoken: Invalid token
+CRITICAL: Waiting for 1 network thread(s) to finish. Press ctrl-c to abort
+<class 'pywikibot.exceptions.OtherPageSaveError'>
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Aeroporto di Long Beach-Daugherty <<<
+		>>> Aeroporto di Long Beach-Daugherty <<<
+Sleeping for 8.9 seconds, 2014-10-01 02:57:03
+Page [[Aeroporto di Long Beach-Daugherty]] saved
+		>>> Aljaksandr Karnickyj <<<
+		>>> Aljaksandr Karnickyj <<<
+Sleeping for 6.4 seconds, 2014-10-01 02:57:16
+Page [[Aljaksandr Karnickyj]] saved
+		>>> Anomalia di Konishi <<<
+		>>> Anomalia di Konishi <<<
+Sleeping for 6.1 seconds, 2014-10-01 02:57:26
+Page [[Anomalia di Konishi]] saved
+		>>> Beda Mayr <<<
+		>>> Beda Mayr <<<
+Sleeping for 8.3 seconds, 2014-10-01 02:57:34
+Page [[Beda Mayr]] saved
+		>>> Bimbobell <<<
+		>>> Bimbobell <<<
+Sleeping for 7.1 seconds, 2014-10-01 02:57:45
+Page [[Bimbobell]] saved
+		>>> Chiesa di San Michele Arcangelo (Cavallasca) <<<
+		>>> Chiesa di San Michele Arcangelo (Cavallasca) <<<
+Sleeping for 8.3 seconds, 2014-10-01 02:57:54
+Page [[Chiesa di San Michele Arcangelo (Cavallasca)]] saved
+		>>> Chiesa di Santa Maria Maggiore (Acquaviva delle Fonti) <<<
+		>>> Chiesa di Santa Maria Maggiore (Acquaviva delle Fonti) <<<
+Sleeping for 8.3 seconds, 2014-10-01 02:58:04
+Page [[Chiesa di Santa Maria Maggiore (Acquaviva delle Fonti)]] saved
+		>>> Christen Gran Bøgh <<<
+		>>> Christen Gran Bøgh <<<
+Sleeping for 7.8 seconds, 2014-10-01 02:58:14
+Page [[Christen Gran Bøgh]] saved
+		>>> DuckTales: Il tesoro del sole d'oro <<<
+		>>> DuckTales: Il tesoro del sole d'oro <<<
+Sleeping for 8.1 seconds, 2014-10-01 02:58:24
+Page [[DuckTales: Il tesoro del sole d'oro]] saved
+		>>> Duck Tales - Il tesoro del sole d'oro <<<
+		>>> Duck Tales - Il tesoro del sole d'oro <<<
+Sleeping for 8.3 seconds, 2014-10-01 02:58:34
+Page [[Duck Tales - Il tesoro del sole d'oro]] saved
+		>>> Esame 3 D per individuare l'anti-semitismo <<<
+		>>> Esame 3 D per individuare l'anti-semitismo <<<
+Sleeping for 8.1 seconds, 2014-10-01 02:58:44
+Page [[Esame 3 D per individuare l'anti-semitismo]] saved
+		>>> Gerd Gottlob <<<
+		>>> Gerd Gottlob <<<
+Sleeping for 8.2 seconds, 2014-10-01 02:58:54
+Page [[Gerd Gottlob]] saved
+		>>> Havel's Place <<<
+		>>> Havel's Place <<<
+Sleeping for 8.2 seconds, 2014-10-01 02:59:04
+Page [[Havel's Place]] saved
+		>>> Hybrid Circle <<<
+		>>> Hybrid Circle <<<
+Sleeping for 8.5 seconds, 2014-10-01 02:59:14
+Page [[Hybrid Circle]] saved
+		>>> Il tesoro dei soli d'oro <<<
+		>>> Il tesoro dei soli d'oro <<<
+Sleeping for 7.1 seconds, 2014-10-01 02:59:25
+Page [[Il tesoro dei soli d'oro]] saved
+		>>> Jacob Johan Anckarström (1729-1777) <<<
+		>>> Jacob Johan Anckarström (1729-1777) <<<
+Sleeping for 8.5 seconds, 2014-10-01 02:59:34
+Page [[Jacob Johan Anckarström (1729-1777)]] saved
+		>>> Johan Andresen <<<
+		>>> Johan Andresen <<<
+Sleeping for 7.9 seconds, 2014-10-01 02:59:44
+Page [[Johan Andresen]] saved
+		>>> La Terra di Mezzo: L'Ombra di Mordor <<< ***
+		>>> La Terra di Mezzo: L'Ombra di Mordor <<< ***
+Sleeping for 7.8 seconds, 2014-10-01 02:59:55
+Page [[La Terra di Mezzo: L'Ombra di Mordor]] saved ***
+		>>> Licata Alfonso <<<
+		>>> Licata Alfonso <<<
+Sleeping for 7.6 seconds, 2014-10-01 03:00:05
+Page [[Licata Alfonso]] saved
+		>>> Montecampione (Artogne) <<<
+		>>> Montecampione (Artogne) <<<
+Sleeping for 8.5 seconds, 2014-10-01 03:00:14
+Page [[Montecampione (Artogne)]] saved
+		>>> Palazzo Reale di Bucarest <<<
+		>>> Palazzo Reale di Bucarest <<<
+Sleeping for 7.0 seconds, 2014-10-01 03:00:25
+Page [[Palazzo Reale di Bucarest]] saved
+		>>> Podestà di Bologna <<<
+		>>> Podestà di Bologna <<<
+Sleeping for 8.4 seconds, 2014-10-01 03:00:34
+Page [[Podestà di Bologna]] saved
+		>>> Podestà medievali di Milano <<<
+		>>> Podestà medievali di Milano <<<
+Sleeping for 8.0 seconds, 2014-10-01 03:00:44
+Page [[Podestà medievali di Milano]] saved
+		>>> Proteste in Hong Kong del 2014 <<<
+		>>> Proteste in Hong Kong del 2014 <<<
+Sleeping for 7.2 seconds, 2014-10-01 03:00:55
+Page [[Proteste in Hong Kong del 2014]] saved
+		>>> Pymander Mercurii Trismegisti cum comento <<<
+		>>> Pymander Mercurii Trismegisti cum comento <<<
+Sleeping for 8.4 seconds, 2014-10-01 03:01:04
+Page [[Pymander Mercurii Trismegisti cum comento]] saved
+		>>> Robert Hart, I Baronetto <<<
+		>>> Robert Hart, I Baronetto <<<
+Sleeping for 8.2 seconds, 2014-10-01 03:01:14
+Page [[Robert Hart, I Baronetto]] saved
+		>>> Segno dell'albero in fiore <<<
+		>>> Segno dell'albero in fiore <<<
+Sleeping for 7.4 seconds, 2014-10-01 03:01:25
+Page [[Segno dell'albero in fiore]] saved
+		>>> Stazione di Granada <<<
+		>>> Stazione di Granada <<<
+Sleeping for 8.3 seconds, 2014-10-01 03:01:34
+Page [[Stazione di Granada]] saved
+		>>> Stazione di Oviedo <<<
+		>>> Stazione di Oviedo <<<
+Sleeping for 7.6 seconds, 2014-10-01 03:01:45
+Page [[Stazione di Oviedo]] saved
+		>>> Stefano Bruzzi <<<
+		>>> Stefano Bruzzi <<<
+Sleeping for 7.8 seconds, 2014-10-01 03:01:55
+Page [[Stefano Bruzzi]] saved
+		>>> Talal Haidar <<<
+		>>> Talal Haidar <<<
+Sleeping for 7.7 seconds, 2014-10-01 03:02:05
+Page [[Talal Haidar]] saved
+		>>> Terje Kirsebom <<<
+		>>> Terje Kirsebom <<<
+Sleeping for 7.6 seconds, 2014-10-01 03:02:15
+Page [[Terje Kirsebom]] saved
+		>>> Viktor Zvarykin <<<
+		>>> Viktor Zvarykin <<<
+Sleeping for 7.3 seconds, 2014-10-01 03:02:25
+Page [[Viktor Zvarykin]] saved
+		>>> Villa Pilacci Trecci <<<
+		>>> Villa Pilacci Trecci <<<
+Sleeping for 6.3 seconds, 2014-10-01 03:02:36
+Page [[Villa Pilacci Trecci]] saved
+Run time:  1.13
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Anton Fredrik Klaveness <<<
+		>>> Anton Fredrik Klaveness <<<
+Sleeping for 9.1 seconds, 2014-10-02 02:55:10
+Page [[Anton Fredrik Klaveness]] saved
+		>>> Casolla Valenzano (Caivano) <<<
+		>>> Casolla Valenzano (Caivano) <<<
+Sleeping for 7.6 seconds, 2014-10-02 02:55:22
+Page [[Casolla Valenzano (Caivano)]] saved
+		>>> Enzo Ronzoni <<<
+		>>> Enzo Ronzoni <<<
+Sleeping for 8.6 seconds, 2014-10-02 02:55:31
+Page [[Enzo Ronzoni]] saved
+		>>> Florian Boucansaud <<<
+		>>> Florian Boucansaud <<<
+Sleeping for 7.6 seconds, 2014-10-02 02:55:42
+Page [[Florian Boucansaud]] saved
+		>>> Gabriele Ba <<<
+		>>> Gabriele Ba <<<
+Sleeping for 6.6 seconds, 2014-10-02 02:55:53
+Page [[Gabriele Ba]] saved
+		>>> Gigi Rigamonti <<<
+		>>> Gigi Rigamonti <<<
+Sleeping for 7.9 seconds, 2014-10-02 02:56:01
+Page [[Gigi Rigamonti]] saved
+		>>> Killer Holiday <<<
+		>>> Killer Holiday <<<
+Sleeping for 8.1 seconds, 2014-10-02 02:56:11
+Page [[Killer Holiday]] saved
+		>>> Liga Malaysia XI <<<
+		>>> Liga Malaysia XI <<<
+Sleeping for 7.3 seconds, 2014-10-02 02:56:22
+Page [[Liga Malaysia XI]] saved
+		>>> Low fat dee mak <<<
+		>>> Low fat dee mak <<<
+Sleeping for 6.1 seconds, 2014-10-02 02:56:33
+Page [[Low fat dee mak]] saved
+		>>> Nuova Aquila Palermo <<<
+		>>> Nuova Aquila Palermo <<<
+Sleeping for 8.6 seconds, 2014-10-02 02:56:41
+Page [[Nuova Aquila Palermo]] saved
+		>>> Otto Vincent Lange <<<
+		>>> Otto Vincent Lange <<<
+Sleeping for 7.6 seconds, 2014-10-02 02:56:52
+Page [[Otto Vincent Lange]] saved
+		>>> Pascarola (Caivano) <<<
+		>>> Pascarola (Caivano) <<<
+Sleeping for 8.0 seconds, 2014-10-02 02:57:01
+Page [[Pascarola (Caivano)]] saved
+		>>> Pazzano (Serramazzoni) <<<
+		>>> Pazzano (Serramazzoni) <<<
+Sleeping for 8.2 seconds, 2014-10-02 02:57:11
+Page [[Pazzano (Serramazzoni)]] saved
+		>>> Photinia serrulata <<<
+		>>> Photinia serrulata <<<
+Sleeping for 7.4 seconds, 2014-10-02 02:57:22
+Page [[Photinia serrulata]] saved
+		>>> Psico poteri <<<
+		>>> Psico poteri <<<
+Sleeping for 7.8 seconds, 2014-10-02 02:57:32
+Page [[Psico poteri]] saved
+		>>> Romano Mazzini <<<
+		>>> Romano Mazzini <<<
+Sleeping for 7.9 seconds, 2014-10-02 02:57:42
+Page [[Romano Mazzini]] saved
+		>>> Scuola elementare Alessandro Manzoni <<<
+		>>> Scuola elementare Alessandro Manzoni <<<
+Sleeping for 8.1 seconds, 2014-10-02 02:57:51
+Page [[Scuola elementare Alessandro Manzoni]] saved
+		>>> Servizio Sismico Svizzero <<<
+		>>> Servizio Sismico Svizzero <<<
+Sleeping for 7.7 seconds, 2014-10-02 02:58:02
+Page [[Servizio Sismico Svizzero]] saved
+		>>> Taurino Araújo <<<
+		>>> Taurino Araújo <<<
+Sleeping for 7.8 seconds, 2014-10-02 02:58:12
+Page [[Taurino Araújo]] saved
+		>>> Tommaso Scisco <<<
+		>>> Tommaso Scisco <<<
+Sleeping for 6.6 seconds, 2014-10-02 02:58:23
+Page [[Tommaso Scisco]] saved
+		>>> Volker Quaschning <<<
+		>>> Volker Quaschning <<<
+Sleeping for 8.3 seconds, 2014-10-02 02:58:31
+Page [[Volker Quaschning]] saved
+Run time:  0.83
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Attenti al diavolo <<<
+		>>> Attenti al diavolo <<<
+Sleeping for 7.6 seconds, 2014-10-03 02:58:30
+Page [[Attenti al diavolo]] saved
+		>>> Axel Otto Normann <<<
+		>>> Axel Otto Normann <<<
+Sleeping for 7.5 seconds, 2014-10-03 02:58:40
+Page [[Axel Otto Normann]] saved
+		>>> Butcher Boys <<<
+		>>> Butcher Boys <<<
+Sleeping for 4.9 seconds, 2014-10-03 02:58:53
+Page [[Butcher Boys]] saved
+		>>> CD9 (gruppo musicale) <<<
+		>>> CD9 (gruppo musicale) <<<
+Sleeping for 6.5 seconds, 2014-10-03 02:59:01
+Page [[CD9 (gruppo musicale)]] saved
+		>>> Cane secco <<<
+		>>> Cane secco <<<
+Sleeping for 7.6 seconds, 2014-10-03 02:59:10
+Page [[Cane secco]] saved
+		>>> Coltelleria Saladini <<<
+		>>> Coltelleria Saladini <<<
+Sleeping for 8.1 seconds, 2014-10-03 02:59:20
+Page [[Coltelleria Saladini]] saved
+		>>> D/world <<<
+		>>> D/world <<<
+Sleeping for 7.7 seconds, 2014-10-03 02:59:30
+Page [[D/world]] saved
+		>>> FIDE Grand Prix 2014-2015 <<<
+		>>> FIDE Grand Prix 2014-2015 <<<
+Sleeping for 6.3 seconds, 2014-10-03 02:59:41
+Page [[FIDE Grand Prix 2014-2015]] saved
+		>>> Forra del Lupo <<<
+		>>> Forra del Lupo <<<
+Sleeping for 7.3 seconds, 2014-10-03 02:59:50
+Page [[Forra del Lupo]] saved
+		>>> Inhuman Resources - Redd Inc <<< ***
+		>>> Inhuman Resources - Redd Inc <<< ***
+Sleeping for 7.4 seconds, 2014-10-03 03:00:00
+Page [[Inhuman Resources - Redd Inc]] saved ***
+		>>> José Escobar <<<
+		>>> José Escobar <<<
+Sleeping for 5.7 seconds, 2014-10-03 03:00:12
+Page [[José Escobar]] saved
+		>>> Julia Pierson <<<
+		>>> Julia Pierson <<<
+Sleeping for 7.5 seconds, 2014-10-03 03:00:20
+Page [[Julia Pierson]] saved
+		>>> L'enigma di Senjo (anime) <<<
+		>>> L'enigma di Senjo (anime) <<<
+Sleeping for 6.7 seconds, 2014-10-03 03:00:31
+Page [[L'enigma di Senjo (anime)]] saved
+		>>> Lello Lucignano <<<
+		>>> Lello Lucignano <<<
+Sleeping for 7.9 seconds, 2014-10-03 03:00:40
+Page [[Lello Lucignano]] saved
+		>>> Makonnen Hailé Selassié <<<
+		>>> Makonnen Hailé Selassié <<<
+Sleeping for 8.2 seconds, 2014-10-03 03:00:50
+Page [[Makonnen Hailé Selassié]] saved
+		>>> Matteo Righetto <<<
+		>>> Matteo Righetto <<<
+Sleeping for 7.0 seconds, 2014-10-03 03:01:01
+Page [[Matteo Righetto]] saved
+		>>> Missionarie francescane di Cristo Re <<<
+		>>> Missionarie francescane di Cristo Re <<<
+Sleeping for 7.7 seconds, 2014-10-03 03:01:10
+Page [[Missionarie francescane di Cristo Re]] saved
+		>>> Montagna del Pettoruto <<<
+		>>> Montagna del Pettoruto <<<
+Sleeping for 8.3 seconds, 2014-10-03 03:01:19
+Page [[Montagna del Pettoruto]] saved
+		>>> Oliver Straube <<<
+		>>> Oliver Straube <<<
+Sleeping for 6.3 seconds, 2014-10-03 03:01:31
+Page [[Oliver Straube]] saved
+		>>> Peter Sandrini <<<
+		>>> Peter Sandrini <<<
+Sleeping for 6.7 seconds, 2014-10-03 03:01:41
+Page [[Peter Sandrini]] saved
+		>>> Plus (gruppo musicale) <<<
+		>>> Plus (gruppo musicale) <<<
+Sleeping for 7.4 seconds, 2014-10-03 03:01:50
+Page [[Plus (gruppo musicale)]] saved
+		>>> Podestà medievali di Milano <<<
+		>>> Podestà medievali di Milano <<<
+Sleeping for 7.3 seconds, 2014-10-03 03:02:00
+Page [[Podestà medievali di Milano]] saved
+		>>> Tom Tattoo <<<
+		>>> Tom Tattoo <<<
+Sleeping for 7.1 seconds, 2014-10-03 03:02:11
+Page [[Tom Tattoo]] saved
+		>>> Uscosium <<<
+		>>> Uscosium <<<
+Sleeping for 7.6 seconds, 2014-10-03 03:02:20
+Page [[Uscosium]] saved
+		>>> Vassilis Palaiokostas <<<
+		>>> Vassilis Palaiokostas <<<
+Sleeping for 8.1 seconds, 2014-10-03 03:02:30
+Page [[Vassilis Palaiokostas]] saved
+		>>> Water on the Road <<<
+		>>> Water on the Road <<<
+Sleeping for 7.7 seconds, 2014-10-03 03:02:40
+Page [[Water on the Road]] saved
+		>>> Wwf Pigneto-Prenestino <<<
+		>>> Wwf Pigneto-Prenestino <<<
+Sleeping for 8.2 seconds, 2014-10-03 03:02:50
+Page [[Wwf Pigneto-Prenestino]] saved
+		>>> Xeno-androgeni <<<
+		>>> Xeno-androgeni <<<
+Sleeping for 7.6 seconds, 2014-10-03 03:03:00
+Page [[Xeno-androgeni]] saved
+Run time:  1.22
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Birger Sandzén <<<
+		>>> Birger Sandzén <<<
+Sleeping for 8.5 seconds, 2014-10-04 03:00:56
+Page [[Birger Sandzén]] saved
+		>>> Carl Otto Løvenskiold <<<
+		>>> Carl Otto Løvenskiold <<<
+Sleeping for 7.2 seconds, 2014-10-04 03:01:07
+Page [[Carl Otto Løvenskiold]] saved
+		>>> Carl Platou <<<
+		>>> Carl Platou <<<
+Sleeping for 7.3 seconds, 2014-10-04 03:01:17
+Page [[Carl Platou]] saved
+		>>> Castromaior <<<
+		>>> Castromaior <<<
+Sleeping for 5.5 seconds, 2014-10-04 03:01:29
+Page [[Castromaior]] saved
+		>>> Corporate-owned life insurance <<<
+		>>> Corporate-owned life insurance <<<
+Sleeping for 8.0 seconds, 2014-10-04 03:01:37
+Page [[Corporate-owned life insurance]] saved
+		>>> Creature di Dark Souls <<<
+		>>> Creature di Dark Souls <<<
+Sleeping for 5.8 seconds, 2014-10-04 03:01:49
+Page [[Creature di Dark Souls]] saved
+		>>> Episodi di Profiling (quinta stagione) <<<
+		>>> Episodi di Profiling (quinta stagione) <<<
+Page [[Episodi di Profiling (quinta stagione)]] saved
+		>>> Faetar <<<
+		>>> Faetar <<<
+Sleeping for 7.7 seconds, 2014-10-04 03:02:07
+Page [[Faetar]] saved
+		>>> Fatima Ptacek <<<
+		>>> Fatima Ptacek <<<
+Sleeping for 6.5 seconds, 2014-10-04 03:02:18
+Page [[Fatima Ptacek]] saved
+		>>> Fondazione aha! Centro Allergie Svizzera <<<
+		>>> Fondazione aha! Centro Allergie Svizzera <<<
+Sleeping for 6.4 seconds, 2014-10-04 03:02:28
+Page [[Fondazione aha! Centro Allergie Svizzera]] saved
+		>>> Ghost Storm <<<
+		>>> Ghost Storm <<<
+Sleeping for 6.9 seconds, 2014-10-04 03:02:38
+Page [[Ghost Storm]] saved
+		>>> Gianni Colonna <<<
+		>>> Gianni Colonna <<<
+Sleeping for 7.4 seconds, 2014-10-04 03:02:47
+Page [[Gianni Colonna]] saved
+		>>> Giuseppe Macario <<<
+		>>> Giuseppe Macario <<<
+Sleeping for 7.6 seconds, 2014-10-04 03:02:57
+Page [[Giuseppe Macario]] saved
+		>>> Imperia Online <<<
+		>>> Imperia Online <<<
+Sleeping for 7.9 seconds, 2014-10-04 03:03:07
+Page [[Imperia Online]] saved
+		>>> Liu Gang <<<
+		>>> Liu Gang <<<
+Sleeping for 6.9 seconds, 2014-10-04 03:03:18
+Page [[Liu Gang]] saved
+		>>> Premio Attilio Micheluzzi <<<
+		>>> Premio Attilio Micheluzzi <<<
+Sleeping for 7.9 seconds, 2014-10-04 03:03:27
+Page [[Premio Attilio Micheluzzi]] saved
+		>>> Primeiro Qualidade Saúde Treinador <<<
+		>>> Primeiro Qualidade Saúde Treinador <<<
+Sleeping for 7.8 seconds, 2014-10-04 03:03:37
+Page [[Primeiro Qualidade Saúde Treinador]] saved
+		>>> RILEM <<<
+		>>> RILEM <<<
+Sleeping for 8.3 seconds, 2014-10-04 03:03:46
+Page [[RILEM]] saved
+		>>> Vito Carofiglio <<<
+		>>> Vito Carofiglio <<<
+Sleeping for 7.5 seconds, 2014-10-04 03:03:57
+Page [[Vito Carofiglio]] saved
+		>>> WAME2015 <<<
+		>>> WAME2015 <<<
+Sleeping for 8.2 seconds, 2014-10-04 03:04:07
+Page [[WAME2015]] saved
+Run time:  0.95
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Antonio Eros Negri <<<
+		>>> Antonio Eros Negri <<<
+Sleeping for 8.6 seconds, 2014-10-05 02:56:05
+Page [[Antonio Eros Negri]] saved
+		>>> Bivio (ferrovia) <<<
+		>>> Bivio (ferrovia) <<<
+Sleeping for 7.2 seconds, 2014-10-05 02:56:16
+Page [[Bivio (ferrovia)]] saved
+		>>> Coleby Lombardo <<<
+		>>> Coleby Lombardo <<<
+Sleeping for 7.1 seconds, 2014-10-05 02:56:26
+Page [[Coleby Lombardo]] saved
+		>>> Come on children <<<
+		>>> Come on children <<<
+Sleeping for 6.3 seconds, 2014-10-05 02:56:37
+Page [[Come on children]] saved
+		>>> Dressed to Kiss <<<
+		>>> Dressed to Kiss <<<
+Sleeping for 8.1 seconds, 2014-10-05 02:56:45
+Page [[Dressed to Kiss]] saved
+		>>> Fox Animation <<<
+		>>> Fox Animation <<<
+Sleeping for 6.7 seconds, 2014-10-05 02:56:56
+Page [[Fox Animation]] saved
+		>>> Furelos <<<
+		>>> Furelos <<<
+Sleeping for 5.5 seconds, 2014-10-05 02:57:08
+Page [[Furelos]] saved
+		>>> Gorham Munson <<<
+		>>> Gorham Munson <<<
+Sleeping for 8.2 seconds, 2014-10-05 02:57:15
+Page [[Gorham Munson]] saved
+		>>> Guelfi Camajani <<<
+		>>> Guelfi Camajani <<<
+Sleeping for 6.5 seconds, 2014-10-05 02:57:27
+Page [[Guelfi Camajani]] saved
+		>>> Il Cristallo del Potere <<<
+		>>> Il Cristallo del Potere <<<
+Sleeping for 6.7 seconds, 2014-10-05 02:57:37
+Page [[Il Cristallo del Potere]] saved
+		>>> Il Dio delle Nebbie <<<
+		>>> Il Dio delle Nebbie <<<
+Sleeping for 8.2 seconds, 2014-10-05 02:57:45
+Page [[Il Dio delle Nebbie]] saved
+		>>> Jalla Jalel <<<
+		>>> Jalla Jalel <<<
+Sleeping for 8.0 seconds, 2014-10-05 02:57:55
+Page [[Jalla Jalel]] saved
+		>>> Jino Touche <<<
+		>>> Jino Touche <<<
+Sleeping for 8.1 seconds, 2014-10-05 02:58:05
+Page [[Jino Touche]] saved
+		>>> La Città delle Navi <<<
+		>>> La Città delle Navi <<<
+Sleeping for 8.3 seconds, 2014-10-05 02:58:15
+Page [[La Città delle Navi]] saved
+		>>> Lapidi della Divina Commedia <<<
+		>>> Lapidi della Divina Commedia <<<
+Sleeping for 8.5 seconds, 2014-10-05 02:58:25
+Page [[Lapidi della Divina Commedia]] saved
+		>>> Order & Chaos Online <<<
+		>>> Order & Chaos Online <<<
+Sleeping for 8.5 seconds, 2014-10-05 02:58:35
+Page [[Order & Chaos Online]] saved
+		>>> Paulius Galaune <<< ***
+		>>> Paulius Galaune <<< ***
+Sleeping for 7.9 seconds, 2014-10-05 02:58:45
+Page [[Paulius Galaune]] saved ***
+		>>> Penna gel <<<
+		>>> Penna gel <<<
+Sleeping for 7.5 seconds, 2014-10-05 02:58:56
+Page [[Penna gel]] saved
+		>>> Personaggi di Yu-Gi-Oh! Zexal <<<
+		>>> Personaggi di Yu-Gi-Oh! Zexal <<<
+Sleeping for 7.1 seconds, 2014-10-05 02:59:06
+Page [[Personaggi di Yu-Gi-Oh! Zexal]] saved
+		>>> Pietro Vanessi <<<
+		>>> Pietro Vanessi <<<
+Sleeping for 8.5 seconds, 2014-10-05 02:59:15
+Page [[Pietro Vanessi]] saved
+		>>> Ramón Rodríguez da Silva <<<
+		>>> Ramón Rodríguez da Silva <<<
+Sleeping for 6.6 seconds, 2014-10-05 02:59:27
+Page [[Ramón Rodríguez da Silva]] saved
+		>>> Suzuki Epicuro <<<
+		>>> Suzuki Epicuro <<<
+Sleeping for 6.9 seconds, 2014-10-05 02:59:36
+Page [[Suzuki Epicuro]] saved
+		>>> Tullio Boi <<<
+		>>> Tullio Boi <<<
+Sleeping for 7.9 seconds, 2014-10-05 02:59:45
+Page [[Tullio Boi]] saved
+		>>> Yori's Factor <<<
+		>>> Yori's Factor <<<
+Sleeping for 6.9 seconds, 2014-10-05 02:59:56
+Page [[Yori's Factor]] saved
+		>>> Okami shojo to kuro oji <<< ***
+		>>> Okami shojo to kuro oji <<< ***
+Sleeping for 7.1 seconds, 2014-10-05 03:00:06
+Page [[Okami shojo to kuro oji]] saved ***
+Run time:  0.89
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Carl Petersén <<<
+		>>> Carl Petersén <<<
+Sleeping for 9.1 seconds, 2014-10-06 02:55:42
+Page [[Carl Petersén]] saved
+		>>> Cherry no Manma <<<
+		>>> Cherry no Manma <<<
+Sleeping for 6.6 seconds, 2014-10-06 02:55:54
+Page [[Cherry no Manma]] saved
+		>>> Consoli di Milano <<<
+		>>> Consoli di Milano <<<
+Sleeping for 5.6 seconds, 2014-10-06 02:56:05
+Page [[Consoli di Milano]] saved
+		>>> Dichiarazione di Firenze <<<
+		>>> Dichiarazione di Firenze <<<
+Sleeping for 7.3 seconds, 2014-10-06 02:56:13
+Page [[Dichiarazione di Firenze]] saved
+		>>> Doppiaggio di Dragon Ball <<<
+		>>> Doppiaggio di Dragon Ball <<<
+Sleeping for 8.1 seconds, 2014-10-06 02:56:22
+Page [[Doppiaggio di Dragon Ball]] saved
+		>>> Dobutsu sumo taikai <<< ***
+		>>> Dobutsu sumo taikai <<< ***
+Sleeping for 7.9 seconds, 2014-10-06 02:56:33
+Page [[Dobutsu sumo taikai]] saved ***
+		>>> Elide Malavasi <<<
+		>>> Elide Malavasi <<<
+Sleeping for 8.2 seconds, 2014-10-06 02:56:42
+Page [[Elide Malavasi]] saved
+		>>> Friedrich Erlenmeyer <<<
+		>>> Friedrich Erlenmeyer <<<
+Sleeping for 7.8 seconds, 2014-10-06 02:56:53
+Page [[Friedrich Erlenmeyer]] saved
+		>>> Hell's Half Acre (Wyoming) <<<
+		>>> Hell's Half Acre (Wyoming) <<<
+Sleeping for 7.8 seconds, 2014-10-06 02:57:03
+Page [[Hell's Half Acre (Wyoming)]] saved
+		>>> Johann Dzierzon <<<
+		>>> Johann Dzierzon <<<
+Sleeping for 8.3 seconds, 2014-10-06 02:57:12
+Page [[Johann Dzierzon]] saved
+		>>> Kaze tachinu (manga) <<<
+		>>> Kaze tachinu (manga) <<<
+Sleeping for 6.5 seconds, 2014-10-06 02:57:24
+Page [[Kaze tachinu (manga)]] saved
+		>>> Kevin McGowne <<<
+		>>> Kevin McGowne <<<
+Sleeping for 7.0 seconds, 2014-10-06 02:57:34
+Page [[Kevin McGowne]] saved
+		>>> Kuro Nyago <<<
+		>>> Kuro Nyago <<<
+Sleeping for 7.1 seconds, 2014-10-06 02:57:44
+Page [[Kuro Nyago]] saved
+		>>> Mario Javier Saban <<<
+		>>> Mario Javier Saban <<<
+Sleeping for 7.2 seconds, 2014-10-06 02:57:53
+Page [[Mario Javier Saban]] saved
+		>>> Mats Rubarth <<<
+		>>> Mats Rubarth <<<
+Sleeping for 5.9 seconds, 2014-10-06 02:58:05
+Page [[Mats Rubarth]] saved
+		>>> Nollywood Movies Awards <<<
+		>>> Nollywood Movies Awards <<<
+Sleeping for 7.2 seconds, 2014-10-06 02:58:14
+Page [[Nollywood Movies Awards]] saved
+		>>> Nollywood Pictures TV <<<
+		>>> Nollywood Pictures TV <<<
+Sleeping for 7.7 seconds, 2014-10-06 02:58:23
+Page [[Nollywood Pictures TV]] saved
+		>>> Organizzazione the series napoli <<<
+		>>> Organizzazione the series napoli <<<
+Sleeping for 8.6 seconds, 2014-10-06 02:58:32
+Page [[Organizzazione the series napoli]] saved
+		>>> Roberto Beccaceci <<<
+		>>> Roberto Beccaceci <<<
+Sleeping for 8.2 seconds, 2014-10-06 02:58:43
+Page [[Roberto Beccaceci]] saved
+		>>> Saihou Jagne <<<
+		>>> Saihou Jagne <<<
+Sleeping for 7.1 seconds, 2014-10-06 02:58:54
+Page [[Saihou Jagne]] saved
+		>>> Shojoji no tanuki bayashi <<< ***
+		>>> Shojoji no tanuki bayashi <<< ***
+Sleeping for 6.7 seconds, 2014-10-06 02:59:04
+Page [[Shojoji no tanuki bayashi]] saved ***
+		>>> St. Mirren Football Club 2011-2012 <<<
+		>>> St. Mirren Football Club 2011-2012 <<<
+Sleeping for 7.3 seconds, 2014-10-06 02:59:13
+Page [[St. Mirren Football Club 2011-2012]] saved
+		>>> Studio fotografico Vasari <<<
+		>>> Studio fotografico Vasari <<<
+Sleeping for 6.2 seconds, 2014-10-06 02:59:25
+Page [[Studio fotografico Vasari]] saved
+		>>> The Borderlands <<<
+		>>> The Borderlands <<<
+Sleeping for 7.3 seconds, 2014-10-06 02:59:33
+Page [[The Borderlands]] saved
+		>>> Trucco camouflage <<<
+		>>> Trucco camouflage <<<
+Sleeping for 7.7 seconds, 2014-10-06 02:59:43
+Page [[Trucco camouflage]] saved
+Run time:  0.97
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> 1601 (numero) <<<
+		>>> 1601 (numero) <<<
+Sleeping for 8.9 seconds, 2014-10-07 02:56:37
+Page [[1601 (numero)]] saved
+		>>> Acapulco gold <<<
+		>>> Acapulco gold <<<
+Sleeping for 7.0 seconds, 2014-10-07 02:56:49
+Page [[Acapulco gold]] saved
+		>>> Alessio Sundas <<<
+		>>> Alessio Sundas <<<
+Sleeping for 5.9 seconds, 2014-10-07 02:57:00
+Page [[Alessio Sundas]] saved
+		>>> Alf Wigert <<<
+		>>> Alf Wigert <<<
+Sleeping for 7.6 seconds, 2014-10-07 02:57:09
+Page [[Alf Wigert]] saved
+		>>> Amadou Aboubakar Zaki <<<
+		>>> Amadou Aboubakar Zaki <<<
+Sleeping for 7.4 seconds, 2014-10-07 02:57:19
+Page [[Amadou Aboubakar Zaki]] saved
+		>>> Antonio Riva <<<
+		>>> Antonio Riva <<<
+Page [[Antonio Riva]] saved
+		>>> Baekpeuro <<<
+		>>> Baekpeuro <<<
+Sleeping for 5.8 seconds, 2014-10-07 02:57:40
+Page [[Baekpeuro]] saved
+		>>> Birger Fredrik Motzfeldt <<<
+		>>> Birger Fredrik Motzfeldt <<<
+Sleeping for 7.0 seconds, 2014-10-07 02:57:49
+Page [[Birger Fredrik Motzfeldt]] saved
+		>>> Brequette Cassie <<<
+		>>> Brequette Cassie <<<
+Sleeping for 5.6 seconds, 2014-10-07 02:58:01
+Page [[Brequette Cassie]] saved
+		>>> Callum Tapping <<<
+		>>> Callum Tapping <<<
+Sleeping for 6.5 seconds, 2014-10-07 02:58:10
+Page [[Callum Tapping]] saved
+		>>> Chiesa di Sant'Eustachio (Cermignano) <<<
+		>>> Chiesa di Sant'Eustachio (Cermignano) <<<
+Sleeping for 5.7 seconds, 2014-10-07 02:58:20
+Page [[Chiesa di Sant'Eustachio (Cermignano)]] saved
+		>>> Chiesa di Santa Lucia (Cermignano) <<<
+		>>> Chiesa di Santa Lucia (Cermignano) <<<
+Sleeping for 7.7 seconds, 2014-10-07 02:58:28
+Page [[Chiesa di Santa Lucia (Cermignano)]] saved
+		>>> Chiesa di Santa Maria ad Martyres (Santa Maria di Cermignano) <<<
+		>>> Chiesa di Santa Maria ad Martyres (Santa Maria di Cermignano) <<<
+Sleeping for 7.3 seconds, 2014-10-07 02:58:39
+Page [[Chiesa di Santa Maria ad Martyres (Santa Maria di Cermignano)]] saved
+		>>> Chris Hogg <<<
+		>>> Chris Hogg <<<
+Sleeping for 6.5 seconds, 2014-10-07 02:58:50
+Page [[Chris Hogg]] saved
+		>>> Chris Innes <<<
+		>>> Chris Innes <<<
+Page [[Chris Innes]] saved
+		>>> Giacomo Valentini (designer) <<<
+		>>> Giacomo Valentini (designer) <<<
+Sleeping for 5.9 seconds, 2014-10-07 02:59:37
+Page [[Giacomo Valentini (designer)]] saved
+		>>> Gregorio Messere <<<
+		>>> Gregorio Messere <<<
+Sleeping for 6.8 seconds, 2014-10-07 02:59:46
+Page [[Gregorio Messere]] saved
+		>>> Ibrahima Thiam <<<
+		>>> Ibrahima Thiam <<<
+Sleeping for 7.9 seconds, 2014-10-07 02:59:55
+Page [[Ibrahima Thiam]] saved
+		>>> Jean-Yves Leloup <<<
+		>>> Jean-Yves Leloup <<<
+Sleeping for 6.4 seconds, 2014-10-07 03:00:07
+Page [[Jean-Yves Leloup]] saved
+		>>> Jung-Bin Park <<<
+		>>> Jung-Bin Park <<<
+Sleeping for 8.4 seconds, 2014-10-07 03:00:15
+Page [[Jung-Bin Park]] saved
+		>>> Kevin Erre <<<
+		>>> Kevin Erre <<<
+Sleeping for 6.3 seconds, 2014-10-07 03:00:27
+Page [[Kevin Erre]] saved
+		>>> Kevin McCann <<<
+		>>> Kevin McCann <<<
+Sleeping for 7.1 seconds, 2014-10-07 03:00:36
+Page [[Kevin McCann]] saved
+		>>> Libertas Molfetta <<<
+		>>> Libertas Molfetta <<<
+Page [[Libertas Molfetta]] saved
+		>>> Luigi Antonio Manfreda <<<
+		>>> Luigi Antonio Manfreda <<<
+Sleeping for 6.0 seconds, 2014-10-07 03:00:57
+Page [[Luigi Antonio Manfreda]] saved
+		>>> Marc Segar <<<
+		>>> Marc Segar <<<
+Sleeping for 8.2 seconds, 2014-10-07 03:01:05
+Page [[Marc Segar]] saved
+		>>> Maurizio Bortoletti <<<
+		>>> Maurizio Bortoletti <<<
+Sleeping for 7.7 seconds, 2014-10-07 03:01:15
+Page [[Maurizio Bortoletti]] saved
+		>>> Max Kuatty <<<
+		>>> Max Kuatty <<<
+Sleeping for 7.4 seconds, 2014-10-07 03:01:26
+Page [[Max Kuatty]] saved
+		>>> Merismo <<<
+		>>> Merismo <<<
+Sleeping for 8.4 seconds, 2014-10-07 03:01:35
+Page [[Merismo]] saved
+		>>> Museu d'Idees i Invents de Barcelona <<<
+		>>> Museu d'Idees i Invents de Barcelona <<<
+Sleeping for 8.6 seconds, 2014-10-07 03:01:44
+Page [[Museu d'Idees i Invents de Barcelona]] saved
+		>>> Pills and potions <<<
+		>>> Pills and potions <<<
+Sleeping for 8.5 seconds, 2014-10-07 03:01:54
+Page [[Pills and potions]] saved
+		>>> Robert Serra <<<
+		>>> Robert Serra <<<
+Sleeping for 7.4 seconds, 2014-10-07 03:02:06
+Page [[Robert Serra]] saved
+		>>> Sang-eui-won <<<
+		>>> Sang-eui-won <<<
+Sleeping for 6.8 seconds, 2014-10-07 03:02:16
+Page [[Sang-eui-won]] saved
+		>>> Shane Sutherland <<<
+		>>> Shane Sutherland <<<
+Sleeping for 6.5 seconds, 2014-10-07 03:02:27
+Page [[Shane Sutherland]] saved
+		>>> Silent V <<<
+		>>> Silent V <<<
+Page [[Silent V]] saved
+		>>> Videogiochi spaziali <<<
+		>>> Videogiochi spaziali <<<
+Sleeping for 8.2 seconds, 2014-10-07 03:03:24
+Page [[Videogiochi spaziali]] saved
+		>>> Wakoopa <<<
+		>>> Wakoopa <<<
+Sleeping for 7.2 seconds, 2014-10-07 03:03:35
+Page [[Wakoopa]] saved
+Run time:  1.28
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Aleksandr Michajlovic Kuzminskij <<< ***
+		>>> Aleksandr Michajlovic Kuzminskij <<< ***
+Sleeping for 7.2 seconds, 2014-10-08 02:54:35
+Page [[Aleksandr Michajlovic Kuzminskij]] saved ***
+		>>> Alexei Navalny <<<
+		>>> Alexei Navalny <<<
+Sleeping for 7.0 seconds, 2014-10-08 02:54:45
+Page [[Alexei Navalny]] saved
+		>>> Anastasio Mantovano <<<
+		>>> Anastasio Mantovano <<<
+Sleeping for 6.8 seconds, 2014-10-08 02:54:55
+Page [[Anastasio Mantovano]] saved
+		>>> Andrea Schillirò <<<
+		>>> Andrea Schillirò <<<
+Sleeping for 6.9 seconds, 2014-10-08 02:55:05
+Page [[Andrea Schillirò]] saved
+		>>> Angelo Nervo <<<
+		>>> Angelo Nervo <<<
+Sleeping for 7.3 seconds, 2014-10-08 02:55:15
+Page [[Angelo Nervo]] saved
+		>>> Arina Avram <<<
+		>>> Arina Avram <<<
+Sleeping for 5.8 seconds, 2014-10-08 02:55:26
+Page [[Arina Avram]] saved
+		>>> Arthur Farquhar <<<
+		>>> Arthur Farquhar <<<
+Sleeping for 7.3 seconds, 2014-10-08 02:55:35
+Page [[Arthur Farquhar]] saved
+		>>> Carburo di torio (IV) <<<
+		>>> Carburo di torio (IV) <<<
+Sleeping for 6.5 seconds, 2014-10-08 02:55:45
+Page [[Carburo di torio (IV)]] saved
+		>>> Carla de Falco <<<
+		>>> Carla de Falco <<<
+Sleeping for 4.1 seconds, 2014-10-08 02:55:58
+Page [[Carla de Falco]] saved
+		>>> Due magiche gemelle <<<
+		>>> Due magiche gemelle <<<
+Sleeping for 7.0 seconds, 2014-10-08 02:56:05
+Page [[Due magiche gemelle]] saved
+		>>> Fernas-142 <<<
+		>>> Fernas-142 <<<
+Sleeping for 6.8 seconds, 2014-10-08 02:56:15
+Page [[Fernas-142]] saved
+		>>> Formazioni di V.Premier League giapponese di pallavolo femminile 2010-2011 <<<
+		>>> Formazioni di V.Premier League giapponese di pallavolo femminile 2010-2011 <<<
+Sleeping for 4.5 seconds, 2014-10-08 02:56:27
+Page [[Formazioni di V.Premier League giapponese di pallavolo femminile 2010-2011]] saved
+		>>> Gerardo di Kendal <<<
+		>>> Gerardo di Kendal <<<
+Sleeping for 4.5 seconds, 2014-10-08 02:56:37
+Page [[Gerardo di Kendal]] saved
+		>>> Jean-Yves Leloup <<<
+		>>> Jean-Yves Leloup <<<
+Sleeping for 7.3 seconds, 2014-10-08 02:56:45
+Page [[Jean-Yves Leloup]] saved
+		>>> L'École des points vitaux (canzone) <<<
+		>>> L'École des points vitaux (canzone) <<<
+Sleeping for 7.3 seconds, 2014-10-08 02:56:55
+Page [[L'École des points vitaux (canzone)]] saved
+		>>> La stampa digitale della pelle naturale e dell'ecopelle <<< ***
+		>>> La stampa digitale della pelle naturale e dell'ecopelle <<< ***
+Sleeping for 5.6 seconds, 2014-10-08 02:57:06
+Page [[La stampa digitale della pelle naturale e dell'ecopelle]] saved ***
+		>>> Lagpas: Ikaw, ano'ng trip mo? <<<
+		>>> Lagpas: Ikaw, ano'ng trip mo? <<<
+Sleeping for 7.1 seconds, 2014-10-08 02:57:15
+Page [[Lagpas: Ikaw, ano'ng trip mo?]] saved
+		>>> Oblatività <<<
+		>>> Oblatività <<<
+Sleeping for 6.9 seconds, 2014-10-08 02:57:25
+Page [[Oblatività]] saved
+		>>> Panther pardus ciascaucasica <<<
+		>>> Panther pardus ciascaucasica <<<
+Sleeping for 7.3 seconds, 2014-10-08 02:57:35
+Page [[Panther pardus ciascaucasica]] saved
+		>>> Raffaele Albarini <<<
+		>>> Raffaele Albarini <<<
+Sleeping for 6.5 seconds, 2014-10-08 02:57:46
+Page [[Raffaele Albarini]] saved
+		>>> Riccadonna Valvassori di Medolago de' Sayguini <<<
+		>>> Riccadonna Valvassori di Medolago de' Sayguini <<<
+Sleeping for 5.6 seconds, 2014-10-08 02:57:56
+Page [[Riccadonna Valvassori di Medolago de' Sayguini]] saved
+		>>> Sandan (divinità) <<<
+		>>> Sandan (divinità) <<<
+Sleeping for 7.4 seconds, 2014-10-08 02:58:05
+Page [[Sandan (divinità)]] saved
+		>>> Singoli più venduti in Italia nel 1958 <<<
+		>>> Singoli più venduti in Italia nel 1958 <<<
+Sleeping for 7.7 seconds, 2014-10-08 02:58:14
+Page [[Singoli più venduti in Italia nel 1958]] saved
+		>>> Sito archeologico di Vassallaggi <<<
+		>>> Sito archeologico di Vassallaggi <<<
+Sleeping for 6.9 seconds, 2014-10-08 02:58:25
+Page [[Sito archeologico di Vassallaggi]] saved
+		>>> Storia della rappresentazione erotica <<<
+		>>> Storia della rappresentazione erotica <<<
+Sleeping for 7.7 seconds, 2014-10-08 02:58:34
+Page [[Storia della rappresentazione erotica]] saved
+		>>> Teudisclo <<<
+		>>> Teudisclo <<<
+Sleeping for 7.4 seconds, 2014-10-08 02:58:45
+Page [[Teudisclo]] saved
+		>>> Un uomo chiamato da lontano <<<
+		>>> Un uomo chiamato da lontano <<<
+Sleeping for 7.7 seconds, 2014-10-08 02:58:54
+Page [[Un uomo chiamato da lontano]] saved
+		>>> Vitaliano Teti <<<
+		>>> Vitaliano Teti <<<
+Sleeping for 7.9 seconds, 2014-10-08 02:59:04
+Page [[Vitaliano Teti]] saved
+		>>> Vitalie Bordian <<<
+		>>> Vitalie Bordian <<<
+Sleeping for 5.2 seconds, 2014-10-08 02:59:17
+Page [[Vitalie Bordian]] saved
+		>>> William Andrewes <<<
+		>>> William Andrewes <<<
+Sleeping for 5.7 seconds, 2014-10-08 02:59:26
+Page [[William Andrewes]] saved
+Run time:  1.73
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Achraf Baznani <<<
+		>>> Achraf Baznani <<<
+Sleeping for 16.5 seconds, 2014-10-09 02:57:51
+Page [[Achraf Baznani]] saved
+		>>> Aeroporti d'Europa per traffico merci <<<
+		>>> Aeroporti d'Europa per traffico merci <<<
+Sleeping for 17.1 seconds, 2014-10-09 02:58:11
+Page [[Aeroporti d'Europa per traffico merci]] saved
+		>>> Anodontia <<<
+		>>> Anodontia <<<
+Sleeping for 17.7 seconds, 2014-10-09 02:58:30
+Page [[Anodontia]] saved
+		>>> Baby Blues (film 2008) <<<
+		>>> Baby Blues (film 2008) <<<
+Sleeping for 17.1 seconds, 2014-10-09 02:58:51
+Page [[Baby Blues (film 2008)]] saved
+		>>> Carmen Romero Rubio <<<
+		>>> Carmen Romero Rubio <<<
+Sleeping for 17.5 seconds, 2014-10-09 02:59:11
+Page [[Carmen Romero Rubio]] saved
+		>>> Dekobo no Jidosha Ryoko <<< ***
+		>>> Dekobo no Jidosha Ryoko <<< ***
+Sleeping for 17.1 seconds, 2014-10-09 02:59:31
+Page [[Dekobo no Jidosha Ryoko]] saved ***
+		>>> Enrico Santangelo <<<
+		>>> Enrico Santangelo <<<
+Sleeping for 16.7 seconds, 2014-10-09 02:59:51
+Page [[Enrico Santangelo]] saved
+		>>> L'enigma di Senjo <<<
+		>>> L'enigma di Senjo <<<
+Sleeping for 16.9 seconds, 2014-10-09 03:00:11
+Page [[L'enigma di Senjo]] saved
+		>>> Max Steel (film) <<<
+		>>> Max Steel (film) <<<
+Sleeping for 16.3 seconds, 2014-10-09 03:00:32
+Page [[Max Steel (film)]] saved
+		>>> Mazor Robotics <<<
+		>>> Mazor Robotics <<<
+Sleeping for 18.3 seconds, 2014-10-09 03:00:50
+Page [[Mazor Robotics]] saved
+		>>> Medieval fantasy <<<
+		>>> Medieval fantasy <<<
+Sleeping for 17.5 seconds, 2014-10-09 03:01:11
+Page [[Medieval fantasy]] saved
+		>>> Mobili erotici <<<
+		>>> Mobili erotici <<<
+Sleeping for 17.9 seconds, 2014-10-09 03:01:30
+Page [[Mobili erotici]] saved
+		>>> Monclick/Sandbox <<<
+		>>> Monclick/Sandbox <<<
+Sleeping for 17.1 seconds, 2014-10-09 03:01:51
+Page [[Monclick/Sandbox]] saved
+		>>> Next Generation Memory <<<
+		>>> Next Generation Memory <<<
+Sleeping for 17.1 seconds, 2014-10-09 03:02:11
+Page [[Next Generation Memory]] saved
+		>>> Nezumi no Rusuban <<<
+		>>> Nezumi no Rusuban <<<
+Sleeping for 17.9 seconds, 2014-10-09 03:02:30
+Page [[Nezumi no Rusuban]] saved
+		>>> Numero Zero - Alle radici del Rap italiano <<< ***
+		>>> Numero Zero - Alle radici del Rap italiano <<< ***
+Sleeping for 7.2 seconds, 2014-10-09 03:02:51
+Page [[Numero Zero - Alle radici del Rap italiano]] saved ***
+		>>> Oira no Yakyu <<< ***
+		>>> Oira no Yakyu <<< ***
+Sleeping for 6.7 seconds, 2014-10-09 03:03:01
+Page [[Oira no Yakyu]] saved ***
+		>>> Palazzi di Vicenza <<<
+		>>> Palazzi di Vicenza <<<
+Sleeping for 6.8 seconds, 2014-10-09 03:03:11
+Page [[Palazzi di Vicenza]] saved
+		>>> Pascal Schembri <<<
+		>>> Pascal Schembri <<<
+Page [[Pascal Schembri]] saved
+		>>> Publio Elio Valente <<<
+		>>> Publio Elio Valente <<<
+Sleeping for 7.0 seconds, 2014-10-09 03:03:31
+Page [[Publio Elio Valente]] saved
+		>>> Sallier de la Tour <<<
+		>>> Sallier de la Tour <<<
+Sleeping for 6.8 seconds, 2014-10-09 03:03:41
+Page [[Sallier de la Tour]] saved
+		>>> Shojoji no Tanuki-bayashi Ban Danemon <<< ***
+		>>> Shojoji no Tanuki-bayashi Ban Danemon <<< ***
+Sleeping for 7.8 seconds, 2014-10-09 03:03:50
+Page [[Shojoji no Tanuki-bayashi Ban Danemon]] saved ***
+		>>> Silent V <<<
+		>>> Silent V <<<
+Sleeping for 7.8 seconds, 2014-10-09 03:04:00
+Page [[Silent V]] saved
+		>>> Slip the Void <<<
+		>>> Slip the Void <<<
+Sleeping for 8.1 seconds, 2014-10-09 03:04:10
+Page [[Slip the Void]] saved
+		>>> Sport Club Progresso Calcio 1919 <<<
+		>>> Sport Club Progresso Calcio 1919 <<<
+Sleeping for 4.8 seconds, 2014-10-09 03:04:23
+Page [[Sport Club Progresso Calcio 1919]] saved
+		>>> TranCYST <<<
+		>>> TranCYST <<<
+Sleeping for 6.6 seconds, 2014-10-09 03:04:32
+Page [[TranCYST]] saved
+		>>> Umi no Momotaro <<< ***
+		>>> Umi no Momotaro <<< ***
+Sleeping for 8.1 seconds, 2014-10-09 03:04:40
+Page [[Umi no Momotaro]] saved ***
+Run time:  1.71
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Cry of Achilles <<<
+		>>> Cry of Achilles <<<
+Sleeping for 7.1 seconds, 2014-10-09 13:29:08
+Page [[Cry of Achilles]] saved
+		>>> Guido Maria Guida <<<
+		>>> Guido Maria Guida <<<
+Sleeping for 6.6 seconds, 2014-10-09 13:29:18
+Page [[Guido Maria Guida]] saved
+		>>> Isidoro Mel <<<
+		>>> Isidoro Mel <<<
+Sleeping for 6.7 seconds, 2014-10-09 13:29:28
+Page [[Isidoro Mel]] saved
+		>>> Podestà medievali di Milano <<<
+		>>> Podestà medievali di Milano <<<
+Sleeping for 7.2 seconds, 2014-10-09 13:29:38
+Page [[Podestà medievali di Milano]] saved
+		>>> Storia di Gand <<<
+		>>> Storia di Gand <<<
+Sleeping for 6.2 seconds, 2014-10-09 13:29:49
+Page [[Storia di Gand]] saved
+		>>> Vitaliano Teti <<<
+		>>> Vitaliano Teti <<<
+Sleeping for 7.4 seconds, 2014-10-09 13:29:57
+Page [[Vitaliano Teti]] saved
+Run time:  0.54
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Canone Star Wars <<<
+		>>> Canone Star Wars <<<
+Sleeping for 8.2 seconds, 2014-10-10 02:57:53
+Page [[Canone Star Wars]] saved
+		>>> Delfina Ortega Díaz <<<
+		>>> Delfina Ortega Díaz <<<
+Sleeping for 7.9 seconds, 2014-10-10 02:58:04
+Page [[Delfina Ortega Díaz]] saved
+		>>> Digital Champions <<<
+		>>> Digital Champions <<<
+Sleeping for 7.3 seconds, 2014-10-10 02:58:14
+Page [[Digital Champions]] saved
+		>>> Guadalupe Borja Osorno <<<
+		>>> Guadalupe Borja Osorno <<<
+Sleeping for 7.4 seconds, 2014-10-10 02:58:24
+Page [[Guadalupe Borja Osorno]] saved
+		>>> Il libro nero della società civile <<<
+		>>> Il libro nero della società civile <<<
+Sleeping for 7.4 seconds, 2014-10-10 02:58:34
+Page [[Il libro nero della società civile]] saved
+		>>> Impianto di sottostazione elettrica ferroviaria <<<
+		>>> Impianto di sottostazione elettrica ferroviaria <<<
+Sleeping for 7.9 seconds, 2014-10-10 02:58:44
+Page [[Impianto di sottostazione elettrica ferroviaria]] saved
+		>>> Juana Calderón Tapia <<<
+		>>> Juana Calderón Tapia <<<
+Sleeping for 7.4 seconds, 2014-10-10 02:58:54
+Page [[Juana Calderón Tapia]] saved
+		>>> Massimilian Porcello <<<
+		>>> Massimilian Porcello <<<
+Sleeping for 5.6 seconds, 2014-10-10 02:59:06
+Page [[Massimilian Porcello]] saved
+		>>> Princess Doraba <<<
+		>>> Princess Doraba <<<
+Sleeping for 6.8 seconds, 2014-10-10 02:59:15
+Page [[Princess Doraba]] saved
+		>>> Sinisi <<<
+		>>> Sinisi <<<
+Sleeping for 7.9 seconds, 2014-10-10 02:59:24
+Page [[Sinisi]] saved
+		>>> Star Wars Legends <<<
+		>>> Star Wars Legends <<<
+Sleeping for 8.1 seconds, 2014-10-10 02:59:34
+Page [[Star Wars Legends]] saved
+Run time:  0.67
+		>>> ', page title, ' <<<
+', page title, ' doesn't exist! Skip
+		>>> Adam Kendon <<<
+		>>> Adam Kendon <<<
+Sleeping for 6.9 seconds, 2014-10-12 02:54:58
+Page [[Adam Kendon]] saved
+		>>> Amalia Solórzano Bravo <<<
+		>>> Amalia Solórzano Bravo <<<
+Sleeping for 7.5 seconds, 2014-10-12 02:55:07
+Page [[Amalia Solórzano Bravo]] saved
+		>>> Banda di Avola <<<
+		>>> Banda di Avola <<<
+Sleeping for 7.6 seconds, 2014-10-12 02:55:17
+Page [[Banda di Avola]] saved
+		>>> Carmen García González <<<
+		>>> Carmen García González <<<
+Sleeping for 8.2 seconds, 2014-10-12 02:55:27
+Page [[Carmen García González]] saved
+		>>> Carmen Romano Nolk <<<
+		>>> Carmen Romano Nolk <<<
+Sleeping for 7.7 seconds, 2014-10-12 02:55:37
+Page [[Carmen Romano Nolk]] saved
+		>>> Castello di Almansa <<<
+		>>> Castello di Almansa <<<
+Sleeping for 7.4 seconds, 2014-10-12 02:55:47
+Page [[Castello di Almansa]] saved
+		>>> Ci perdiamo in tanti <<<
+		>>> Ci perdiamo in tanti <<<
+Sleeping for 6.8 seconds, 2014-10-12 02:55:58
+Page [[Ci perdiamo in tanti]] saved
+		>>> Costanza Miriano <<<
+		>>> Costanza Miriano <<<
+Sleeping for 5.5 seconds, 2014-10-12 02:56:09
+Page [[Costanza Miriano]] saved
+		>>> Darnell Wilson <<<
+		>>> Darnell Wilson <<<
+Sleeping for 6.7 seconds, 2014-10-12 02:56:18
+Page [[Darnell Wilson]] saved
+		>>> Eva Sámano Bishop <<<
+		>>> Eva Sámano Bishop <<<
+Sleeping for 6.6 seconds, 2014-10-12 02:56:28
+Page [[Eva Sámano Bishop]] saved
+		>>> Gummaro <<<
+		>>> Gummaro <<<
+Sleeping for 7.1 seconds, 2014-10-12 02:56:38
+Page [[Gummaro]] saved
+		>>> Kai to muteki no kunren gakko <<< ***
+		>>> Kai to muteki no kunren gakko <<< ***
+Sleeping for 7.2 seconds, 2014-10-12 02:56:48
+Page [[Kai to muteki no kunren gakko]] saved ***
+		>>> Luigi Saraceni (politico 1862-1929) <<<
+		>>> Luigi Saraceni (politico 1862-1929) <<<
+Sleeping for 6.7 seconds, 2014-10-12 02:56:58
+Page [[Luigi Saraceni (politico 1862-1929)]] saved
+		>>> Margarita Zavala Gómez del Campo <<<
+		>>> Margarita Zavala Gómez del Campo <<<
+Sleeping for 7.1 seconds, 2014-10-12 02:57:08
+Page [[Margarita Zavala Gómez del Campo]] saved
+		>>> Monastero di Sant Llorenç del Munt <<<
+		>>> Monastero di Sant Llorenç del Munt <<<
+Sleeping for 7.0 seconds, 2014-10-12 02:57:18
+Page [[Monastero di Sant Llorenç del Munt]] saved
+		>>> Orte Sotterranea <<<
+		>>> Orte Sotterranea <<<
+Sleeping for 7.5 seconds, 2014-10-12 02:57:27
+Page [[Orte Sotterranea]] saved
+		>>> P.S.M. Confidential <<<
+		>>> P.S.M. Confidential <<<
+Sleeping for 7.3 seconds, 2014-10-12 02:57:38
+Page [[P.S.M. Confidential]] saved
+		>>> Palazzo Elisabetta <<<
+		>>> Palazzo Elisabetta <<<
+Sleeping for 7.6 seconds, 2014-10-12 02:57:47
+Page [[Palazzo Elisabetta]] saved
+		>>> Paul Grote <<<
+		>>> Paul Grote <<<
+Sleeping for 5.9 seconds, 2014-10-12 02:57:59
+Page [[Paul Grote]] saved
+		>>> Perugia Social Photo Fest <<<
+		>>> Perugia Social Photo Fest <<<
+Sleeping for 7.8 seconds, 2014-10-12 02:58:07
+Page [[Perugia Social Photo Fest]] saved
+		>>> Pineta di Fregene <<<
+		>>> Pineta di Fregene <<<
+Sleeping for 8.2 seconds, 2014-10-12 02:58:17
+Page [[Pineta di Fregene]] saved
+		>>> Pokkén Tournament <<<
+		>>> Pokkén Tournament <<<
+Sleeping for 7.4 seconds, 2014-10-12 02:58:28
+Page [[Pokkén Tournament]] saved
+		>>> Softonic <<<
+		>>> Softonic <<<
+Sleeping for 6.2 seconds, 2014-10-12 02:58:39
+Page [[Softonic]] saved
+		>>> Svesa <<<
+		>>> Svesa <<<
+Sleeping for 7.0 seconds, 2014-10-12 02:58:48
+Page [[Svesa]] saved
+		>>> Università di Pardubice <<<
+		>>> Università di Pardubice <<<
+Sleeping for 5.5 seconds, 2014-10-12 02:58:59
+Page [[Università di Pardubice]] saved
+		>>> Zannablù <<<
+		>>> Zannablù <<<
+Sleeping for 7.5 seconds, 2014-10-12 02:59:07
+Page [[Zannablù]] saved
+Run time:  1.19

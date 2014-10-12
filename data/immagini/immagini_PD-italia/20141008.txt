@@ -1,0 +1,1 @@
+CONCAT("# [[File:", page_title, "]]") # [[File:Agide_Lenzi.jpg]] # [[File:Elicotteri_Meridionali_CH-47C_Chinook_LC-020_Libyan_Air_Force.jpg]] # [[File:Macchi_M.71.jpg]]

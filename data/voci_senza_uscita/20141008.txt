@@ -1,0 +1,1 @@
+CONCAT('# [[', page_title, ']]') # [[Andrea_Schillirò]] # [[Carla_de_Falco]] # [[Gideon_Defoe]] # [[Giovanni_Paolo_II,_l'uomo_che_ha_cambiato_il_mondo]] # [[Jean-Yves_Leloup]] # [[João_Arthur_Bueno_de_Camargo]] # [[Roberto_Alonge]] # [[Teudigiselo]] # [[Un_uomo_chiamato_da_lontano]]

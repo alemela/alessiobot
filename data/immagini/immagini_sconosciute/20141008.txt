@@ -1,0 +1,1 @@
+CONCAT('# [[:File:', page_title, ']]') # [[:File:Agide_Lenzi.jpg]] # [[:File:Elicotteri_Meridionali_CH-47C_Chinook_LC-020_Libyan_Air_Force.jpg]] # [[:File:Fedez-tour-2013.jpg]] # [[:File:Logo_Kaspersky_Lab.jpg]] # [[:File:Macchi_M.71.jpg]] # [[:File:Stati_per_utilizzo_del_inglese.png]]

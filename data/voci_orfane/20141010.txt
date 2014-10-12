@@ -1,0 +1,1 @@
+CONCAT('# [[', page_title, ']]') # [[Canone_Star_Wars]] # [[Delfina_Ortega_Díaz]] # [[Digital_Champions]] # [[Guadalupe_Borja_Osorno]] # [[Il_libro_nero_della_società_civile]] # [[Impianto_di_sottostazione_elettrica_ferroviaria]] # [[Juana_Calderón_Tapia]] # [[Massimilian_Porcello]] # [[Princess_Doraba]] # [[Sinisi]] # [[Star_Wars_Legends]]

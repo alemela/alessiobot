@@ -1,0 +1,1 @@
+CONCAT('# [[', page_title, ']]') # [[Ami_James]] # [[Antonino_Francaviglia]] # [[Mattia_Betti]]
