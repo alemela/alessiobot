@@ -1,1 +1,0 @@
-CONCAT('# [[', page_title, ']]') # [[Cesarismo]] # [[Eugenio_Colmo]] # [[Isotipendile]] # [[Love_(Brigantony)]] # [[Probabilità_di_errore_circolare]] # [[Processo_formulare]] # [[Quinn_Lord]]

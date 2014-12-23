@@ -1,1 +1,0 @@
-CONCAT('# [[', page_title, ']]') # [[Bonjour_Michel]] # [[Chris_Kyle]] # [[Giro_delle_Marche]] # [[Il_Cristallo_del_Potere]] # [[Order_&_Chaos_Online]] # [[Yori's_Factor]]

@@ -1,1 +1,0 @@
-CONCAT('# [[:File:', page_title, ']]') # [[:File:Cortana_logo.png]] # [[:File:Windows_10_-_schermata_Start.png]]

@@ -1,1 +1,0 @@
-CONCAT('# [[', page_title, ']]') # [[Adriano_Sicbaldi]] # [[Brighton_Hove_and_District_Football_League]] # [[Grotta_dell'Arciere]] # [[Isa_TVB-La_fiesta_va_a_empezar]] # [[Lista_di_epigrafi_e_targhe_commemorative_a_Sassari]] # [[Nu̇r_Otan]] # [[Roadmap_(tecnologia)]] # [[Talal_Haidar]] # [[Team_vertical_limit]]

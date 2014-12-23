@@ -1,1 +1,0 @@
-CONCAT('# [[', page_title, ']]') # [[Cappella_della_Madonna_della_Neve_(Lenzari-Moano)]] # [[Gameup]] # [[Ramatoulaye]]

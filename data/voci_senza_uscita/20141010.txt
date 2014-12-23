@@ -1,1 +1,0 @@
-CONCAT('# [[', page_title, ']]') # [[Alien:_Isolation]] # [[Canone_Star_Wars]] # [[Star_Wars_Legends]]

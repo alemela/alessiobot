@@ -1,1 +1,0 @@
-CONCAT('# [[File:', page_title, ']]') # [[File:Stati_per_utilizzo_del_inglese.png]] # [[File:Vector-tab-eeffee-fade.png]] # [[File:Vector-tab-f0eeff-fade.png]] # [[File:Vector-tab-f1f1f1-fade.png]] # [[File:Vector-tab-f5fafa-fade.png]] # [[File:Vector-tab-ffeeee-fade.png]] # [[File:Vector-tab-ffffee-fade.png]]

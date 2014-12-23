@@ -1,1 +1,0 @@
-CONCAT('# [[', page_title, ']]') # [[Dressed_to_Kiss]] # [[Giuseppe_Macario]] # [[Muriqan]] # [[Primeiro_Qualidade_Saúde_Treinador]] # [[Vito_Carofiglio]]

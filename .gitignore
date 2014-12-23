@@ -1,0 +1,7 @@
+.bash*
+.cache*
+.nano*
+.pywikibot*
+.select*
+.ssh*
+replica.my.cnf
