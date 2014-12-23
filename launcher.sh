@@ -23,7 +23,7 @@ case $count in
         name=$line
 		;;
 	2)
-        list_path=$line
+        list_path=$line${date}.txt
 		;;
 	3)
         py_path=$line
@@ -38,7 +38,7 @@ case $count in
         echo "["$(date +%Y%m%d%H%M%S)"] Launching python script for ${name}..."
         python $py_path $name >> $log_path 2>&1 &
 		
-		count=1
+		count=0
 		;;
 esac
 let count++
