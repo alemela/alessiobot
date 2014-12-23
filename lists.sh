@@ -25,4 +25,4 @@ runtime=$(python -c "print(${end} - ${start})")
 echo "> Runtime: "$runtime
 
 echo "["$(date +%Y%m%d%H%M%S)"] Saving list"
-$result > $2
+echo $result > $2
