@@ -4,6 +4,6 @@
 
 PATH=/usr/local/bin:/usr/bin:/bin
 
-42 02 * * * jsub -N avvisi_itwiki -mem 512m -o /data/project/alessiobot/log/avvisi_itwiki.txt -j y /data/project/alessiobot/avvisi_itwiki.sh > /dev/null
+42 02 * * * jsub -N avvisi_itwiki -mem 512m -o /data/project/alessiobot/log/avvisi_itwiki.txt -j y /data/project/alessiobot/launcher.sh set/avvisi.set > /dev/null
 
-42 00 * * 1 jsub -N immagini_itwiki -mem 512m -o /data/project/alessiobot/log/immagini_itwiki.txt -j y /data/project/alessiobot/immagini_itwiki.sh > /dev/null
+42 00 * * 1 jsub -N immagini_itwiki -mem 512m -o /data/project/alessiobot/log/immagini_itwiki.txt -j y /data/project/alessiobot/launcher.sh set/immagini_orfane.set > /dev/null
