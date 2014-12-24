@@ -20,7 +20,7 @@ elif sys.argv[1] == "immagini_orfane_non_libere":
     template = u'{{Immagine orfana|non libera}}'
     comment = u'Bot: immagine orfana con licenza non libera'
 elif sys.argv[1] == "immagini_orfane_pd_italia":
-    path = '/data/project/alessiobot/data/immagini_orfane/immagini_orfane_PD-italia/'+today+'.txt'
+    path = '/data/project/alessiobot/data/immagini_orfane/immagini_orfane_pd_italia/'+today+'.txt'
     template = u'{{Immagine orfana|PD-Italia}}'
     comment = u'Bot: immagine orfana con licenza PD italia'
 elif sys.argv[1] == "immagini_orfane_sconosciute":
