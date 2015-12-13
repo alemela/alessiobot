@@ -11,20 +11,20 @@ site = pywikibot.Site('it', 'wikipedia')
 
 today = time.strftime("%Y%m%d")
 
-if sys.argv[1] == "libere":
-    path = '/data/project/alessiobot/data/immagini/immagini_libere/'+today+'.txt'
+if sys.argv[1] == "immagini_orfane_libere":
+    path = '/data/project/alessiobot/data/immagini_orfane/immagini_orfane_libere/'+today+'.txt'
     template = u'{{Immagine orfana|libera}}'
     comment = u'Bot: immagine orfana con licenza libera'
-elif sys.argv[1] == "non_libere":
-    path = '/data/project/alessiobot/data/immagini/immagini_non_libere/'+today+'.txt'
+elif sys.argv[1] == "immagini_orfane_non_libere":
+    path = '/data/project/alessiobot/data/immagini_orfane/immagini_orfane_non_libere/'+today+'.txt'
     template = u'{{Immagine orfana|non libera}}'
     comment = u'Bot: immagine orfana con licenza non libera'
-elif sys.argv[1] == "PD_italia":
-    path = '/data/project/alessiobot/data/immagini/immagini_PD-italia/'+today+'.txt'
+elif sys.argv[1] == "immagini_orfane_pd_italia":
+    path = '/data/project/alessiobot/data/immagini_orfane/immagini_orfane_pd_italia/'+today+'.txt'
     template = u'{{Immagine orfana|PD-Italia}}'
     comment = u'Bot: immagine orfana con licenza PD italia'
-elif sys.argv[1] == "sconosciute":
-    path = '/data/project/alessiobot/data/immagini/immagini_sconosciute/'+today+'.txt'
+elif sys.argv[1] == "immagini_orfane_sconosciute":
+    path = '/data/project/alessiobot/data/immagini_orfane/immagini_orfane_sconosciute/'+today+'.txt'
     template = u'{{Immagine orfana}}'
     comment = u'Bot: immagine orfana con licenza sconosciuta'
 else:
